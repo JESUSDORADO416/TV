@@ -198,3 +198,803 @@
 <display-name>FOXLF</display-name>
 <display-name>Fox Life (Latin America)</display-name>
 </channel>
+<channel id="Total-MX_I263.11466.tutvguia.com">
+<display-name>263 ID</display-name>
+<display-name>263</display-name>
+<display-name>ID</display-name>
+<display-name>Investigation Discovery (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I266.58465.tutvguia.com">
+<display-name>266 TNTSERIE</display-name>
+<display-name>266</display-name>
+<display-name>TNTSERIE</display-name>
+<display-name>TNT Series SD</display-name>
+</channel>
+<channel id="Total-MX_I268.9412.tutvguia.com">
+<display-name>268 GOURMT</display-name>
+<display-name>268</display-name>
+<display-name>GOURMT</display-name>
+<display-name>Elgourmet.com (Norte)</display-name>
+</channel>
+<channel id="Total-MX_I270.19643.tutvguia.com">
+<display-name>270 GLITZ</display-name>
+<display-name>270</display-name>
+<display-name>GLITZ</display-name>
+<display-name>GLITZ Panregional (Norte)</display-name>
+</channel>
+<channel id="Total-MX_I271.16994.tutvguia.com">
+<display-name>271 MUFOX</display-name>
+<display-name>271</display-name>
+<display-name>MUFOX</display-name>
+<display-name>Mundo Fox Latin America</display-name>
+</channel>
+<channel id="Total-MX_I272.20020.tutvguia.com">
+<display-name>272 DISTCOM</display-name>
+<display-name>272</display-name>
+<display-name>DISTCOM</display-name>
+<display-name>Distrito Comedia</display-name>
+</channel>
+<channel id="Total-MX_I273.32996.tutvguia.com">
+<display-name>273 TBS</display-name>
+<display-name>273</display-name>
+<display-name>TBS</display-name>
+<display-name>TBS Latin America</display-name>
+</channel>
+<channel id="Total-MX_I274.8461.tutvguia.com">
+<display-name>274 MASCHINT</display-name>
+<display-name>274</display-name>
+<display-name>MASCHINT</display-name>
+<display-name>Más Chic TV International</display-name>
+</channel>
+<channel id="Total-MX_I275.9990.tutvguia.com">
+<display-name>275 TLNOV</display-name>
+<display-name>275</display-name>
+<display-name>TLNOV</display-name>
+<display-name>Tele Novelas (México)</display-name>
+</channel>
+<channel id="Total-MX_I276.20499.tutvguia.com">
+<display-name>276 AZMUN</display-name>
+<display-name>276</display-name>
+<display-name>AZMUN</display-name>
+<display-name>Azteca Mundo (XHDF)</display-name>
+</channel>
+<channel id="Total-MX_I301.23265.tutvguia.com">
+<display-name>301 BABYTV</display-name>
+<display-name>301</display-name>
+<display-name>BABYTV</display-name>
+<display-name>Baby TV</display-name>
+</channel>
+<channel id="Total-MX_I303.18881.tutvguia.com">
+<display-name>303 DKIDS</display-name>
+<display-name>303</display-name>
+<display-name>DKIDS</display-name>
+<display-name>Discovery Kids (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I305.23264.tutvguia.com">
+<display-name>305 CBeBie</display-name>
+<display-name>305</display-name>
+<display-name>CBeBie</display-name>
+<display-name>CBeebies</display-name>
+</channel>
+<channel id="Total-MX_I308.21129.tutvguia.com">
+<display-name>308 DISJR</display-name>
+<display-name>308</display-name>
+<display-name>DISJR</display-name>
+<display-name>Disney Junior (North Feed)</display-name>
+</channel>
+<channel id="Total-MX_I310.21199.tutvguia.com">
+<display-name>310 NIKJR</display-name>
+<display-name>310</display-name>
+<display-name>NIKJR</display-name>
+<display-name>Nick Jr.</display-name>
+</channel>
+<channel id="Total-MX_I312.9374.tutvguia.com">
+<display-name>312 DISNEY</display-name>
+<display-name>312</display-name>
+<display-name>DISNEY</display-name>
+<display-name>Disney en Español (North Feed)</display-name>
+</channel>
+<channel id="Total-MX_I314.38401.tutvguia.com">
+<display-name>314 NTOONS</display-name>
+<display-name>314</display-name>
+<display-name>NTOONS</display-name>
+<display-name>Nicktoons (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I315.33278.tutvguia.com">
+<display-name>315 NICKHD</display-name>
+<display-name>315</display-name>
+<display-name>NICKHD</display-name>
+<display-name>Nickelodeon HDTV (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I317.5043.tutvguia.com">
+<display-name>317 NICK</display-name>
+<display-name>317</display-name>
+<display-name>NICK</display-name>
+<display-name>Nickelodeon (Latin America / North)</display-name>
+</channel>
+<channel id="Total-MX_I320.5011.tutvguia.com">
+<display-name>320 TOON</display-name>
+<display-name>320</display-name>
+<display-name>TOON</display-name>
+<display-name>Cartoon Network (Latin America - Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I322.9757.tutvguia.com">
+<display-name>322 DXD</display-name>
+<display-name>322</display-name>
+<display-name>DXD</display-name>
+<display-name>Disney XD Latin America (North)</display-name>
+</channel>
+<channel id="Total-MX_I324.23509.tutvguia.com">
+<display-name>324 BOOM</display-name>
+<display-name>324</display-name>
+<display-name>BOOM</display-name>
+<display-name>Boomerang (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I325.12263.tutvguia.com">
+<display-name>325 TIIN</display-name>
+<display-name>325</display-name>
+<display-name>TIIN</display-name>
+<display-name>TiiN</display-name>
+</channel>
+<channel id="Total-MX_I328.23312.tutvguia.com">
+<display-name>328 TNCAST</display-name>
+<display-name>328</display-name>
+<display-name>TNCAST</display-name>
+<display-name>Tooncast Latin America</display-name>
+</channel>
+<channel id="Total-MX_I351.23559.tutvguia.com">
+<display-name>351 THEATER</display-name>
+<display-name>351</display-name>
+<display-name>THEATER</display-name>
+<display-name>Discovery Theater HD (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I353.28410.tutvguia.com">
+<display-name>353 THCINHD</display-name>
+<display-name>353</display-name>
+<display-name>THCINHD</display-name>
+<display-name>The History Channel HDTV</display-name>
+</channel>
+<channel id="Total-MX_I354.12260.tutvguia.com">
+<display-name>354 NGC</display-name>
+<display-name>354</display-name>
+<display-name>NGC</display-name>
+<display-name>National Geographic Channel (West / Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I355.27421.tutvguia.com">
+<display-name>355 NGWILD</display-name>
+<display-name>355</display-name>
+<display-name>NGWILD</display-name>
+<display-name>National Geographic Wild HD (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I356.9294.tutvguia.com">
+<display-name>356 TLC</display-name>
+<display-name>356</display-name>
+<display-name>TLC</display-name>
+<display-name>TLC (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I371.10644.tutvguia.com">
+<display-name>371 DSC</display-name>
+<display-name>371</display-name>
+<display-name>DSC</display-name>
+<display-name>The Discovery Channel (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I373.75657.tutvguia.com">
+<display-name>373 APL</display-name>
+<display-name>373</display-name>
+<display-name>APL</display-name>
+<display-name>Animal Planet International (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I374.23218.tutvguia.com">
+<display-name>374 DH&amp;H</display-name>
+<display-name>374</display-name>
+<display-name>DH&amp;H</display-name>
+<display-name>Discovery Home &amp; Health (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I379.19092.tutvguia.com">
+<display-name>379 LIFETIME</display-name>
+<display-name>379</display-name>
+<display-name>LIFETIME</display-name>
+<display-name>Lifetime (México)</display-name>
+</channel>
+<channel id="Total-MX_I381.16122.tutvguia.com">
+<display-name>381 DSCI</display-name>
+<display-name>381</display-name>
+<display-name>DSCI</display-name>
+<display-name>Discovery Science International</display-name>
+</channel>
+<channel id="Total-MX_I382.16121.tutvguia.com">
+<display-name>382 DCIVI</display-name>
+<display-name>382</display-name>
+<display-name>DCIVI</display-name>
+<display-name>Discovery Civilization International</display-name>
+</channel>
+<channel id="Total-MX_I383.16118.tutvguia.com">
+<display-name>383 DTUR</display-name>
+<display-name>383</display-name>
+<display-name>DTUR</display-name>
+<display-name>Discovery Turbo International</display-name>
+</channel>
+<channel id="Total-MX_I386.28441.tutvguia.com">
+<display-name>386 DWORLD</display-name>
+<display-name>386</display-name>
+<display-name>DWORLD</display-name>
+<display-name>Discovery World HD (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I387.19272.tutvguia.com">
+<display-name>387 WOBI</display-name>
+<display-name>387</display-name>
+<display-name>WOBI</display-name>
+<display-name>World of Business Ideas</display-name>
+</channel>
+<channel id="Total-MX_I401.3997.tutvguia.com">
+<display-name>401 HBOHD</display-name>
+<display-name>401</display-name>
+<display-name>HBOHD</display-name>
+<display-name>HBO Latin America HDTV (West)</display-name>
+</channel>
+<channel id="Total-MX_I402.27164.tutvguia.com">
+<display-name>402 HBO2</display-name>
+<display-name>402</display-name>
+<display-name>HBO2</display-name>
+<display-name>HBO 2 (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I403.3996.tutvguia.com">
+<display-name>403 HBO+</display-name>
+<display-name>403</display-name>
+<display-name>HBO+</display-name>
+<display-name>HBO Plus (Panamericano)</display-name>
+</channel>
+<channel id="Total-MX_I404.13048.tutvguia.com">
+<display-name>404 HBOSG</display-name>
+<display-name>404</display-name>
+<display-name>HBOSG</display-name>
+<display-name>HBO Signature (Panamerican)</display-name>
+</channel>
+<channel id="Total-MX_I405.13049.tutvguia.com">
+<display-name>405 OLEFAE</display-name>
+<display-name>405</display-name>
+<display-name>OLEFAE</display-name>
+<display-name>HBO Family (Spanish)</display-name>
+</channel>
+<channel id="Total-MX_I406.13047.tutvguia.com">
+<display-name>406 HBO+</display-name>
+<display-name>406</display-name>
+<display-name>HBO+</display-name>
+<display-name>HBO Plus (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I407.28507.tutvguia.com">
+<display-name>407 MAX</display-name>
+<display-name>407</display-name>
+<display-name>MAX</display-name>
+<display-name>MAX (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I408.27449.tutvguia.com">
+<display-name>408 MAXUPHD</display-name>
+<display-name>408</display-name>
+<display-name>MAXUPHD</display-name>
+<display-name>MAX UP HD (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I409.13050.tutvguia.com">
+<display-name>409 MAXPRE</display-name>
+<display-name>409</display-name>
+<display-name>MAXPRE</display-name>
+<display-name>MAX Prime Panamericano</display-name>
+</channel>
+<channel id="Total-MX_I410.39170.tutvguia.com">
+<display-name>410 MAXPRE</display-name>
+<display-name>410</display-name>
+<display-name>MAXPRE</display-name>
+<display-name>MAX Prime Mexico</display-name>
+</channel>
+<channel id="Total-MX_I415.35334.tutvguia.com">
+<display-name>415 F1HD</display-name>
+<display-name>415</display-name>
+<display-name>F1HD</display-name>
+<display-name>FOX 1 HDTV (West)</display-name>
+</channel>
+<channel id="Total-MX_I416.33474.tutvguia.com">
+<display-name>416 FACHD</display-name>
+<display-name>416</display-name>
+<display-name>FACHD</display-name>
+<display-name>Fox Action HD (East)</display-name>
+</channel>
+<channel id="Total-MX_I417.33135.tutvguia.com">
+<display-name>417 FMOHD</display-name>
+<display-name>417</display-name>
+<display-name>FMOHD</display-name>
+<display-name>Fox Movies HDTV (East)</display-name>
+</channel>
+<channel id="Total-MX_I418.24158.tutvguia.com">
+<display-name>418 FOXFO</display-name>
+<display-name>418</display-name>
+<display-name>FOXFO</display-name>
+<display-name>Fox Family (West)</display-name>
+</channel>
+<channel id="Total-MX_I419.55325.tutvguia.com">
+<display-name>419 FOXCO</display-name>
+<display-name>419</display-name>
+<display-name>FOXCO</display-name>
+<display-name>Fox Comedy</display-name>
+</channel>
+<channel id="Total-MX_I421.29522.tutvguia.com">
+<display-name>421 FOXCI</display-name>
+<display-name>421</display-name>
+<display-name>FOXCI</display-name>
+<display-name>Fox Cinéma</display-name>
+</channel>
+<channel id="Total-MX_I422.20301.tutvguia.com">
+<display-name>422 FOXAO</display-name>
+<display-name>422</display-name>
+<display-name>FOXAO</display-name>
+<display-name>Fox Action (West)</display-name>
+</channel>
+<channel id="Total-MX_I424.14707.tutvguia.com">
+<display-name>424 FXCL</display-name>
+<display-name>424</display-name>
+<display-name>FXCL</display-name>
+<display-name>Fox Classics Latin America (English Titles)</display-name>
+</channel>
+<channel id="Total-MX_I425.76135.tutvguia.com">
+<display-name>425 AZCINE</display-name>
+<display-name>425</display-name>
+<display-name>AZCINE</display-name>
+<display-name>Azteca Cinema</display-name>
+</channel>
+<channel id="Total-MX_I430.28440.tutvguia.com">
+<display-name>430 CIN+H</display-name>
+<display-name>430</display-name>
+<display-name>CIN+H</display-name>
+<display-name>Cinecanal + HDTV (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I431.44320.tutvguia.com">
+<display-name>431 GDNP</display-name>
+<display-name>431</display-name>
+<display-name>GDNP</display-name>
+<display-name>Golden Premier</display-name>
+</channel>
+<channel id="Total-MX_I432.44321.tutvguia.com">
+<display-name>432 GDNP2</display-name>
+<display-name>432</display-name>
+<display-name>GDNP2</display-name>
+<display-name>Golden Premier Delay (Oeste)</display-name>
+</channel>
+<channel id="Total-MX_I435.28452.tutvguia.com">
+<display-name>435 TNT</display-name>
+<display-name>435</display-name>
+<display-name>TNT</display-name>
+<display-name>TNT Latin America HDTV (Pan-Regional)</display-name>
+</channel>
+<channel id="Total-MX_I436.28941.tutvguia.com">
+<display-name>436 GLDHD</display-name>
+<display-name>436</display-name>
+<display-name>GLDHD</display-name>
+<display-name>Golden HDTV</display-name>
+</channel>
+<channel id="Total-MX_I440.35675.tutvguia.com">
+<display-name>440 TFZHD</display-name>
+<display-name>440</display-name>
+<display-name>TFZHD</display-name>
+<display-name>The Film Zone HDTV</display-name>
+</channel>
+<channel id="Total-MX_I442.34628.tutvguia.com">
+<display-name>442 DPELICHD</display-name>
+<display-name>442</display-name>
+<display-name>DPELICHD</display-name>
+<display-name>De Película HDTV (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I444.58205.tutvguia.com">
+<display-name>444 AMCHD</display-name>
+<display-name>444</display-name>
+<display-name>AMCHD</display-name>
+<display-name>AMC HDTV (North)</display-name>
+</channel>
+<channel id="Total-MX_I445.27416.tutvguia.com">
+<display-name>445 SPACEHD</display-name>
+<display-name>445</display-name>
+<display-name>SPACEHD</display-name>
+<display-name>SPACE HDTV (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I446.48895.tutvguia.com">
+<display-name>446 SUNL</display-name>
+<display-name>446</display-name>
+<display-name>SUNL</display-name>
+<display-name>Sundance Channel (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I480.5012.tutvguia.com">
+<display-name>480 CINE-O</display-name>
+<display-name>480</display-name>
+<display-name>CINE-O</display-name>
+<display-name>Cinecanal (Oeste)</display-name>
+</channel>
+<channel id="Total-MX_I481.3995.tutvguia.com">
+<display-name>481 CINMAX</display-name>
+<display-name>481</display-name>
+<display-name>CINMAX</display-name>
+<display-name>Cinemax (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I482.4574.tutvguia.com">
+<display-name>482 TNT</display-name>
+<display-name>482</display-name>
+<display-name>TNT</display-name>
+<display-name>TNT Latin America (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I484.3748.tutvguia.com">
+<display-name>484 CGC2</display-name>
+<display-name>484</display-name>
+<display-name>CGC2</display-name>
+<display-name>Golden Edge (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I488.9713.tutvguia.com">
+<display-name>488 TFZO</display-name>
+<display-name>488</display-name>
+<display-name>TFZO</display-name>
+<display-name>The Film Zone (West)</display-name>
+</channel>
+<channel id="Total-MX_I491.23310.tutvguia.com">
+<display-name>491 SPACE</display-name>
+<display-name>491</display-name>
+<display-name>SPACE</display-name>
+<display-name>SPACE (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I492.4316.tutvguia.com">
+<display-name>492 STUNI</display-name>
+<display-name>492</display-name>
+<display-name>STUNI</display-name>
+<display-name>Studio Universal (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I493.4307.tutvguia.com">
+<display-name>493 EE</display-name>
+<display-name>493</display-name>
+<display-name>EE</display-name>
+<display-name>Europa Europa</display-name>
+</channel>
+<channel id="Total-MX_I494.51470.tutvguia.com">
+<display-name>494 F&amp;A</display-name>
+<display-name>494</display-name>
+<display-name>F&amp;A</display-name>
+<display-name>Film&amp;Arts (México)</display-name>
+</channel>
+<channel id="Total-MX_I495.23556.tutvguia.com">
+<display-name>495 I-SAT</display-name>
+<display-name>495</display-name>
+<display-name>I-SAT</display-name>
+<display-name>I-SAT (Pan-Regional)</display-name>
+</channel>
+<channel id="Total-MX_I496.23013.tutvguia.com">
+<display-name>496 TCMLA</display-name>
+<display-name>496</display-name>
+<display-name>TCMLA</display-name>
+<display-name>TCM - Turner Classic Movies (Pan-Regional)</display-name>
+</channel>
+<channel id="Total-MX_I501.19999.tutvguia.com">
+<display-name>501 GOLF</display-name>
+<display-name>501</display-name>
+<display-name>GOLF</display-name>
+<display-name>Golf Channel (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I503.29067.tutvguia.com">
+<display-name>503 TDNHD</display-name>
+<display-name>503</display-name>
+<display-name>TDNHD</display-name>
+<display-name>TDN HDTV (México)</display-name>
+</channel>
+<channel id="Total-MX_I510.47305.tutvguia.com">
+<display-name>510 UFC</display-name>
+<display-name>510</display-name>
+<display-name>UFC</display-name>
+<display-name>UFC Network (Ultimate Fighting Championship)</display-name>
+</channel>
+<channel id="Total-MX_I516.24270.tutvguia.com">
+<display-name>516 ESPN+</display-name>
+<display-name>516</display-name>
+<display-name>ESPN+</display-name>
+<display-name>ESPN + Latin America HDTV</display-name>
+</channel>
+<channel id="Total-MX_I520.38250.tutvguia.com">
+<display-name>520 ESPN3</display-name>
+<display-name>520</display-name>
+<display-name>ESPN3</display-name>
+<display-name>ESPN 3 North (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I522.20544.tutvguia.com">
+<display-name>522 FSAHD</display-name>
+<display-name>522</display-name>
+<display-name>FSAHD</display-name>
+<display-name>Fox Sports Latin America HDTV (Northern Feed)</display-name>
+</channel>
+<channel id="Total-MX_I527.29091.tutvguia.com">
+<display-name>527 FOXSP2HD</display-name>
+<display-name>527</display-name>
+<display-name>FOXSP2HD</display-name>
+<display-name>Fox Sports 2 HDTV</display-name>
+</channel>
+<channel id="Total-MX_I558.18573.tutvguia.com">
+<display-name>558 ESPNMX</display-name>
+<display-name>558</display-name>
+<display-name>ESPNMX</display-name>
+<display-name>ESPN Latin North (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I561.3679.tutvguia.com">
+<display-name>561 ESPN2</display-name>
+<display-name>561</display-name>
+<display-name>ESPN2</display-name>
+<display-name>ESPN-2 (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I563.3794.tutvguia.com">
+<display-name>563 FSA</display-name>
+<display-name>563</display-name>
+<display-name>FSA</display-name>
+<display-name>Fox Sports Latin America (Northern Feed)</display-name>
+</channel>
+<channel id="Total-MX_I564.23918.tutvguia.com">
+<display-name>564 FOXSP2</display-name>
+<display-name>564</display-name>
+<display-name>FOXSP2</display-name>
+<display-name>Fox Sports 2</display-name>
+</channel>
+<channel id="Total-MX_I569.16646.tutvguia.com">
+<display-name>569 FOXSP3</display-name>
+<display-name>569</display-name>
+<display-name>FOXSP3</display-name>
+<display-name>Fox Sports 3</display-name>
+</channel>
+<channel id="Total-MX_I576.15973.tutvguia.com">
+<display-name>576 AyM</display-name>
+<display-name>576</display-name>
+<display-name>AyM</display-name>
+<display-name>AYM Sports</display-name>
+</channel>
+<channel id="Total-MX_I603.22275.tutvguia.com">
+<display-name>603 MILTV</display-name>
+<display-name>603</display-name>
+<display-name>MILTV</display-name>
+<display-name>Milenio Televisión</display-name>
+</channel>
+<channel id="Total-MX_I605.19994.tutvguia.com">
+<display-name>605 CNNHD</display-name>
+<display-name>605</display-name>
+<display-name>CNNHD</display-name>
+<display-name>Cable News Network HDTV</display-name>
+</channel>
+<channel id="Total-MX_I610.56222.tutvguia.com">
+<display-name>610 FINANCIERO</display-name>
+<display-name>610</display-name>
+<display-name>FINANCIERO</display-name>
+<display-name>El Financiero - Bloomberg</display-name>
+</channel>
+<channel id="Total-MX_I635.24395.tutvguia.com">
+<display-name>635 NTN24</display-name>
+<display-name>635</display-name>
+<display-name>NTN24</display-name>
+<display-name>Nuestra Tele Noticias 24</display-name>
+</channel>
+<channel id="Total-MX_I651.8864.tutvguia.com">
+<display-name>651 TVE I</display-name>
+<display-name>651</display-name>
+<display-name>TVE I</display-name>
+<display-name>TVE Internacional 2 (North &amp; Central America)</display-name>
+</channel>
+<channel id="Total-MX_I653.5026.tutvguia.com">
+<display-name>653 GALICI</display-name>
+<display-name>653</display-name>
+<display-name>GALICI</display-name>
+<display-name>Galicia TV América</display-name>
+</channel>
+<channel id="Total-MX_I654.34292.tutvguia.com">
+<display-name>654 DW-LA</display-name>
+<display-name>654</display-name>
+<display-name>DW-LA</display-name>
+<display-name>Deutsche Welle TV (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I657.5053.tutvguia.com">
+<display-name>657 TV5</display-name>
+<display-name>657</display-name>
+<display-name>TV5</display-name>
+<display-name>TV5MONDE International</display-name>
+</channel>
+<channel id="Total-MX_I669.12931.tutvguia.com">
+<display-name>669 CRCTV</display-name>
+<display-name>669</display-name>
+<display-name>CRCTV</display-name>
+<display-name>Caracol TV Internacional</display-name>
+</channel>
+<channel id="Total-MX_I701.29083.tutvguia.com">
+<display-name>701 MTVLIVHD</display-name>
+<display-name>701</display-name>
+<display-name>MTVLIVHD</display-name>
+<display-name>MTV Live (MTVNHD European for US Lineups)</display-name>
+</channel>
+<channel id="Total-MX_I702.34627.tutvguia.com">
+<display-name>702 TELHITHD</display-name>
+<display-name>702</display-name>
+<display-name>TELHITHD</display-name>
+<display-name>Telehit HDTV (Latin America)</display-name>
+</channel>
+<channel id="Total-MX_I703.34629.tutvguia.com">
+<display-name>703 VH1HD</display-name>
+<display-name>703</display-name>
+<display-name>VH1HD</display-name>
+<display-name>VH1 HDTV Latin America (North)</display-name>
+</channel>
+<channel id="Total-MX_I726.1205.tutvguia.com">
+<display-name>726 MTV</display-name>
+<display-name>726</display-name>
+<display-name>MTV</display-name>
+<display-name>MTV Latin America (North Feed)</display-name>
+</channel>
+<channel id="Total-MX_I727.36801.tutvguia.com">
+<display-name>727 MTVH</display-name>
+<display-name>727</display-name>
+<display-name>MTVH</display-name>
+<display-name>MTV Hits (Latin America English)</display-name>
+</channel>
+<channel id="Total-MX_I728.24537.tutvguia.com">
+<display-name>728 VH1C</display-name>
+<display-name>728</display-name>
+<display-name>VH1C</display-name>
+<display-name>VH1 Classic Europe (North America)</display-name>
+</channel>
+<channel id="Total-MX_I731.1996.tutvguia.com">
+<display-name>731 RITMOS</display-name>
+<display-name>731</display-name>
+<display-name>RITMOS</display-name>
+<display-name>Ritmoson</display-name>
+</channel>
+<channel id="Total-MX_I732.23363.tutvguia.com">
+<display-name>732 BANDMX</display-name>
+<display-name>732</display-name>
+<display-name>BANDMX</display-name>
+<display-name>Bandamax (Mexico)</display-name>
+</channel>
+<channel id="Total-MX_I736.5194.tutvguia.com">
+<display-name>736 HTV</display-name>
+<display-name>736</display-name>
+<display-name>HTV</display-name>
+<display-name>HTV Música</display-name>
+</channel>
+<channel id="Sky-MX_I215.10515.tutvguia.com">
+<display-name>215 EUROCH</display-name>
+<display-name>215</display-name>
+<display-name>EUROCH</display-name>
+<display-name>Eurochannel</display-name>
+</channel>
+<channel id="Sky-MX_I275.3721.tutvguia.com">
+<display-name>275 GLOBO</display-name>
+<display-name>275</display-name>
+<display-name>GLOBO</display-name>
+<display-name>TV Globo Internacional (LATAM &amp; United States)</display-name>
+</channel>
+<channel id="Sky-MX_I411.4576.tutvguia.com">
+<display-name>411 GOLDMP</display-name>
+<display-name>411</display-name>
+<display-name>GOLDMP</display-name>
+<display-name>Golden Multiplex</display-name>
+</channel>
+<channel id="Sky-MX_I413.56552.tutvguia.com">
+<display-name>413 PARAM</display-name>
+<display-name>413</display-name>
+<display-name>PARAM</display-name>
+<display-name>Paramount</display-name>
+</channel>
+<channel id="Sky-MX_I431.5110.tutvguia.com">
+<display-name>431 FOX1E</display-name>
+<display-name>431</display-name>
+<display-name>FOX1E</display-name>
+<display-name>FOX 1 (East)</display-name>
+</channel>
+<channel id="Sky-MX_I432.5034.tutvguia.com">
+<display-name>432 FOX1O</display-name>
+<display-name>432</display-name>
+<display-name>FOX1O</display-name>
+<display-name>FOX 1 (West)</display-name>
+</channel>
+<channel id="Sky-MX_I554.33947.tutvguia.com">
+<display-name>554 UNTDN</display-name>
+<display-name>554</display-name>
+<display-name>UNTDN</display-name>
+<display-name>UnivisiónTDN</display-name>
+</channel>
+<channel id="Sky-MX_I561.58616.tutvguia.com">
+<display-name>561 FORMULA1</display-name>
+<display-name>561</display-name>
+<display-name>FORMULA1</display-name>
+<display-name>Formula 1 Latin America</display-name>
+</channel>
+<channel id="Dish-USA_I105.432.tutvguia.com">
+<display-name>105 USA</display-name>
+<display-name>105</display-name>
+<display-name>USA</display-name>
+<display-name>USA Network (East)</display-name>
+</channel>
+<channel id="Dish-USA_I107.26.tutvguia.com">
+<display-name>107 COMEDY</display-name>
+<display-name>107</display-name>
+<display-name>COMEDY</display-name>
+<display-name>Comedy Central (East)</display-name>
+</channel>
+<channel id="Dish-USA_I108.438.tutvguia.com">
+<display-name>108 LIFE</display-name>
+<display-name>108</display-name>
+<display-name>LIFE</display-name>
+<display-name>Lifetime Television (East)</display-name>
+</channel>
+<channel id="Dish-USA_I110.2006.tutvguia.com">
+<display-name>110 FOOD</display-name>
+<display-name>110</display-name>
+<display-name>FOOD</display-name>
+<display-name>Food Network (East)</display-name>
+</channel>
+<channel id="Dish-USA_I111.6332.tutvguia.com">
+<display-name>111 DIY</display-name>
+<display-name>111</display-name>
+<display-name>DIY</display-name>
+<display-name>Do it Yourself Network (East)</display-name>
+</channel>
+<channel id="Dish-USA_I112.424.tutvguia.com">
+<display-name>112 HGTV</display-name>
+<display-name>112</display-name>
+<display-name>HGTV</display-name>
+<display-name>Home &amp; Garden Television (East)</display-name>
+</channel>
+<channel id="Dish-USA_I114.408.tutvguia.com">
+<display-name>114 E!</display-name>
+<display-name>114</display-name>
+<display-name>E!</display-name>
+<display-name>E! Entertainment Television (East)</display-name>
+</channel>
+<channel id="Dish-USA_I118.426.tutvguia.com">
+<display-name>118 A&amp;E</display-name>
+<display-name>118</display-name>
+<display-name>A&amp;E</display-name>
+<display-name>A&amp;E Network (East)</display-name>
+</channel>
+<channel id="Dish-USA_I120.1254.tutvguia.com">
+<display-name>120 HIST</display-name>
+<display-name>120</display-name>
+<display-name>HIST</display-name>
+<display-name>History (East)</display-name>
+</channel>
+<channel id="Dish-USA_I121.4579.tutvguia.com">
+<display-name>121 H2</display-name>
+<display-name>121</display-name>
+<display-name>H2</display-name>
+</channel>
+<channel id="Dish-USA_I127.8172.tutvguia.com">
+<display-name>127 OXYGN</display-name>
+<display-name>127</display-name>
+<display-name>OXYGN</display-name>
+<display-name>Oxygen (East)</display-name>
+</channel>
+<channel id="Dish-USA_I128.2193.tutvguia.com">
+<display-name>128 WE</display-name>
+<display-name>128</display-name>
+<display-name>WE</display-name>
+<display-name>Women&apos;s Entertainment Network (East)</display-name>
+</channel>
+<channel id="Dish-USA_I129.404.tutvguia.com">
+<display-name>129 BRAVO</display-name>
+<display-name>129</display-name>
+<display-name>BRAVO</display-name>
+<display-name>Bravo (East)</display-name>
+</channel>
+<channel id="Dish-USA_I131.433.tutvguia.com">
+<display-name>131 AMC</display-name>
+<display-name>131</display-name>
+<display-name>AMC</display-name>
+<display-name>AMC (East)</display-name>
+</channel>
+<channel id="Dish-USA_I132.1263.tutvguia.com">
+<display-name>132 TCM</display-name>
+<display-name>132</display-name>
+<display-name>TCM</display-name>
+<display-name>Turner Classic Movies</display-name>
+</channel>
+<channel id="Dish-USA_I133.1192.tutvguia.com">
+<display-name>133 IFC</display-name>
+<display-name>133</display-name>
+<display-name>IFC</display-name>
+<display-name>IFC (East)</display-name>
+</channel>
+<channel id="Dish-USA_I135.3389.tutvguia.com">
+<display-name>135 BBC</display-name>
+<display-name>135</display-name>
