@@ -2,6 +2,19 @@
 
 #EXTINF:-1, HBO
 http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/58.m3u8
+#EXTINF:-1, HBO PLUS
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/60.m3u8
+#EXTINF:-1, HBO FAMILY
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/62.m3u8
+#EXTINF:-1, HBO SIGNATURE
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/63.m3u8
+#EXTINF:-1, MAX
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/64.m3u8
+#EXTINF:-1, MAX UP
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/67.m3u8
+#EXTINF:-1, MAX PRIME
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/66.m3u8
+
 
 #EXTINF:-1 tvg-id="TV Guia_WINSPORTS" tvg-name="WIN_SPORTS" tvg-logo="WIN_SPORTS.png" group-title="Español",WINSPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/uh1_1.m3u8?
