@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo=\"playboy.jpg\" tvg-logo=\"Playboy.jpg\",Playboy TV sky2
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/28.m3u8
+#EXTINF:-1 tvg-logo=\"venus.jpg\" tvg-logo=\"http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/107.png\",Venus sky2
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/24.m3u8
+#EXTINF:-1 tvg-logo=\"sextreme.jpg\" tvg-logo=\"Sextreme.jpg\",Sextreme sky2
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/25.m3u8
+#EXTINF:-1 tvg-logo=\"Xtsy.jpg\" tvg-logo=\"Xtsy.jpg\",Xtsy TV sky2
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/27.m3u8
+#EXTINF:-1 tvg-logo=\"juicy.jpg\" tvg-logo=\"juicy.jpg\",Juicy sky2
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/30.m3u8
+#EXTINF:-1 tvg-logo=\"real.jpg\" tvg-logo=\"real.jpg\",Real sky2
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/31.m3u8
 #EXTINF:-1, HBO
 http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/58.m3u8
 #EXTINF:-1, HBO PLUS
