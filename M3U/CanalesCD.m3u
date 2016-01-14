@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, HBO
-rtmp://$OPT:rtmp-raw=rtmp://nl.iguide.to/iguide playpath=fxbakjz5nd51qb7 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=400&channel=32103&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+http://185.63.255.101/live/max5b3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Guia_WINSPORTS" tvg-name="WIN_SPORTS" tvg-logo="WIN_SPORTS.png" group-title="Español",WINSPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/uh1_1.m3u8?
