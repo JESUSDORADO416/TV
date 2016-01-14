@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, HBO
-http://209.133.208.178:1935/app/max6a100s-channel/playlist.m3u8 
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/58.m3u8
 
 #EXTINF:-1 tvg-id="TV Guia_WINSPORTS" tvg-name="WIN_SPORTS" tvg-logo="WIN_SPORTS.png" group-title="Español",WINSPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/uh1_1.m3u8?
