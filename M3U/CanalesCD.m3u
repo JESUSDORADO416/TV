@@ -9,8 +9,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_CANTINAZO" tvg-name="CANTINAZO" tvg-logo="CANTINAZO.png" group-title="Español",CANTINAZO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1,ES_MOVIESTAR_MOTOGP
-http://www.t12v.com:8000/live/sameh/sameh/765.ts
 
 #EXTINF:-1 tvg-id="TV Guia_TELECAFE" tvg-name="TELECAFE" tvg-logo="TELECAFE.png" group-title="Español",Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
