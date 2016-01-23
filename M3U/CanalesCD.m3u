@@ -9,32 +9,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_CANTINAZO" tvg-name="CANTINAZO" tvg-logo="CANTINAZO.png" group-title="Español",CANTINAZO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF: -1, O-la-la!
-http://78.109.132.66:81/udp/239.1.6.34:1234
-#EXTINF: -1, Hustler HD
-http://78.109.132.66:81/udp/239.1.6.35:1234
-#EXTINF: -1, Hustler TV
-http://78.109.132.66:81/udp/239.1.6.36:1234
-#EXTINF: -1, Nightclub
-http://78.109.132.66:81/udp/239.1.6.33:1234
-#EXTINF: -1, Russian night
-http://109.169.227.188:81/udp/233.99.61.232:5000
-#EXTINF: -1, Brazzers
-http://109.169.227.188:81/udp/233.99.61.246:5000
-#EXTINF: -1, Ola-la
-http://109.169.227.188:81/udp/233.99.61.148:5000
-#EXTINF: -1, Blue Hustler
-http://109.169.227.188:81/udp/233.99.61.87:5000
-#EXTINF: -1, XXL
-http://109.169.227.188:81/udp/233.99.61.160:5000
-#EXTINF: -1, Play boy TV
-http://81.1.184.17:54321/udp/234.5.2.247:1234
-#EXTINF: -1, Brazzers TV Europe
-http://81.1.184.17:54321/udp/234.5.2.248:1234
-#EXTINF: -1, Russian night
-http://81.1.184.17:54321/udp/234.5.2.249:1234
-#EXTINF: -1, XXL
-http://81.1.184.17:54321/udp/234.5.2.246:1234 
 
 #EXTINF:-1 tvg-id="TV Guia_TELECAFE" tvg-name="TELECAFE" tvg-logo="TELECAFE.png" group-title="Español",Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
