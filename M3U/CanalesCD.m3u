@@ -4,9 +4,9 @@
 #EXTINF:-1 tvg-id="TV Guia_WINSPORTS" tvg-name="WIN_SPORTS" tvg-logo="WIN_SPORTS.png" group-title="Español",WINSPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/uh1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_TIGO MUSIC" tvg-name="tigo-music" tvg-logo="tigo-music.png" group-title="Español",TIGO MUSIC
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_2.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_MI MUSICA" tvg-name="mi-musica" tvg-logo="mi-musica.png" group-title="Español",MI MUSICA 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_2.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_CANTINAZO" tvg-name="CANTINAZO" tvg-logo="CANTINAZO.png" group-title="Español",CANTINAZO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 
