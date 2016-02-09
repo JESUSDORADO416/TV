@@ -28,6 +28,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_eltiempo" tvg-name="eltiempo" tvg-logo="eltiempo.png" group-title="Español",El Tiempo 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+#EXTINF:-1 tvg-name="La 1" tvg-logo="tnt hd.png",TNT
+rtmp://31.220.40.40/pull/ playpath=tnt369?keys=MxK8Lb10jNtqXOS5FrPSQg&keyt=1443557895 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv
+ 
 
 #EXTINF:-1 tvg-id="TV Guia_3ABN Latino.tutvguia.com" tvg-name="3ABN_Latino.tutvguia.com" tvg-logo="3abn_Latino.png" group-title="Religión",3ABN Latino
 rtmp://streamer1.streamhost.org/salive playpath=GMIredadvenirh swfUrl=http://missionslibrary.com/player/flashplayer/player.swf live=1 pageUrl=http://redadvenir.org/zstream/redadvenir.php?tvsize=2
