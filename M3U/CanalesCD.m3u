@@ -12,6 +12,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 
 #EXTINF:-1,ES : RT EN ESPAÑOL HD
 http://62.210.162.88:80/live/ES95/151009022016/1757.ts
+#EXTINF:-1,  Fox Sports 
+https://video-cdn.streamup.com/app/crivo241s-stream/playlist.m3u8
+#EXTINF:-1,  Fox Sports 
+https://origin01-atl.streamup.com/app/zonax1azs-channel/playlist.m3u8
+#EXTINF:-1,  Fox Sports 
+https://video-cdn.streamup.com/app/max9a107s-stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Guia_TELECAFE" tvg-name="TELECAFE" tvg-logo="TELECAFE.png" group-title="Español",Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
