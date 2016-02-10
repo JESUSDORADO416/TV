@@ -10,9 +10,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_2.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_CANTINAZO" tvg-name="CANTINAZO" tvg-logo="CANTINAZO.png" group-title="Español",CANTINAZO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 
-#EXTINF:-1 tvg-logo="fox.png",Fox Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV Guia_TELECAFE" tvg-name="TELECAFE" tvg-logo="TELECAFE.png" group-title="Español",Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_CANALCAPITAL" tvg-name="CANALCAPITAL" tvg-logo="CANALCAPITAL.png" group-title="Español",CANAL CAPITAL 
