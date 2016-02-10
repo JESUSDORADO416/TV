@@ -10,15 +10,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_2.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_CANTINAZO" tvg-name="CANTINAZO" tvg-logo="CANTINAZO.png" group-title="Español",CANTINAZO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 
-#EXTINF:-1,ES : RT EN ESPAÑOL HD
-http://62.210.162.88:80/live/ES95/151009022016/1757.ts
-#EXTINF:-1,  Fox Sports 
-https://video-cdn.streamup.com/app/crivo241s-stream/playlist.m3u8
-#EXTINF:-1,  Fox Sports 
-https://origin01-atl.streamup.com/app/zonax1azs-channel/playlist.m3u8
-#EXTINF:-1,  Fox Sports 
-https://video-cdn.streamup.com/app/max9a107s-stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV Guia_TELECAFE" tvg-name="TELECAFE" tvg-logo="TELECAFE.png" group-title="Español",Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_CANALCAPITAL" tvg-name="CANALCAPITAL" tvg-logo="CANALCAPITAL.png" group-title="Español",CANAL CAPITAL 
@@ -94,3 +85,91 @@ rtmp://cp45648.live.edgefcs.net/live playpath=T01587-latino@94847 swfUrl=http://
 rtmp://streamer1.streamhost.org/salive playpath=GMIalfah swfUrl=http://missionslibrary.com/player/flashplayer/player.swf live=1 pageUrl=http://www.alfatelevision.org/update/archivos/player/adaptive_streaming_NORMAL_manual.html
 #EXTINF:-1 tvg-id="TV Guia_Aliento Vision.tutvguia.com" tvg-name="Aliento_Vision.tutvguia.com" tvg-logo="Aliento.png" group-title="Religión",Aliento Visión
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/chunklist.m3u8
+#EXTINF:-1, TVE 1
+http://62.210.162.88:80/live/ES95/151009022016/1722.ts
+#EXTINF:-1, LA 2
+http://62.210.162.88:80/live/ES95/151009022016/1723.ts
+#EXTINF:-1, TV3 24
+http://62.210.162.88:80/live/ES95/151009022016/1762.ts
+#EXTINF:-1, TRAVEL TV
+http://62.210.162.88:80/live/ES95/151009022016/1754.ts
+#EXTINF:-1, RTP ASTURIAS
+http://62.210.162.88:80/live/ES95/151009022016/1747.ts
+#EXTINF:-1, RT EN ESPAÑOL HD
+http://62.210.162.88:80/live/ES95/151009022016/1757.ts
+#EXTINF:-1, ONDA SEVILLA
+http://62.210.162.88:80/live/ES95/151009022016/1761.ts
+#EXTINF:-1, MEGA
+http://62.210.162.88:80/live/ES95/151009022016/1742.ts
+#EXTINF:-1, LA ***TA
+http://62.210.162.88:80/live/ES95/151009022016/1726.ts
+#EXTINF:-1, ANTENA 3
+http://62.210.162.88:80/live/ES95/151009022016/1724.ts
+#EXTINF:-1, INTERECONOMIA
+http://62.210.162.88:80/live/ES95/151009022016/1758.ts
+#EXTINF:-1, GALIZA TV EUROPA
+http://62.210.162.88:80/live/ES95/151009022016/1745.ts
+#EXTINF:-1, GALIZA TV AMERICA
+http://62.210.162.88:80/live/ES95/151009022016/1746.ts
+#EXTINF:-1, FOX
+http://62.210.162.88:80/live/ES95/151009022016/1739.ts
+#EXTINF:-1, FOX SPORTS
+http://62.210.162.88:80/live/ES95/151009022016/1731.ts
+#EXTINF:-1, FOX SPORTS 2
+http://62.210.162.88:80/live/ES95/151009022016/1732.ts
+#EXTINF:-1, ESPN
+http://62.210.162.88:80/live/ES95/151009022016/1734.ts
+#EXTINF:-1, ESPN HD
+http://62.210.162.88:80/live/ES95/151009022016/1733.ts
+#EXTINF:-1, ESPN 3
+http://62.210.162.88:80/live/ES95/151009022016/1736.ts
+#EXTINF:-1, ESPN 2
+http://62.210.162.88:80/live/ES95/151009022016/1735.ts
+#EXTINF:-1, CANAL  FUTBOL
+http://62.210.162.88:80/live/ES95/151009022016/1728.ts
+#EXTINF:-1, EXTREMADURA TV
+http://62.210.162.88:80/live/ES95/151009022016/1748.ts
+#EXTINF:-1, EURONEWS
+http://62.210.162.88:80/live/ES95/151009022016/1756.ts
+#EXTINF:-1, CEUTA TV
+http://62.210.162.88:80/live/ES95/151009022016/1753.ts
+#EXTINF:-1, CASTILLA LA MANCHA TV
+http://62.210.162.88:80/live/ES95/151009022016/1750.ts
+#EXTINF:-1, CANAL+ ESTRENOS
+http://62.210.162.88:80/live/ES95/151009022016/1721.ts
+#EXTINF:-1, CANAL DCINE
+http://62.210.162.88:80/live/ES95/151009022016/1737.ts
+#EXTINF:-1, CANAL COMEDIA
+http://62.210.162.88:80/live/ES95/151009022016/1738.ts
+#EXTINF:-1, AXN WHITE
+http://62.210.162.88:80/live/ES95/151009022016/1741.ts
+#EXTINF:-1, CANAL COSTA
+http://62.210.162.88:80/live/ES95/151009022016/1759.ts
+#EXTINF:-1, ANIME TV
+http://62.210.162.88:80/live/ES95/151009022016/1755.ts
+#EXTINF:-1, ANDORRA TV
+http://62.210.162.88:80/live/ES95/151009022016/1749.ts
+#EXTINF:-1, 13 TV
+http://62.210.162.88:80/live/ES95/151009022016/1744.ts
+#EXTINF:-1,ES_la 1
+http://62.210.162.88:80/live/ES95/151009022016/1539.ts
+#EXTINF:-1,ES_la2
+http://62.210.162.88:80/live/ES95/151009022016/1540.ts
+#EXTINF:-1,ES_TNT
+http://62.210.162.88:80/live/ES95/151009022016/1535.ts
+#EXTINF:-1,ES_xtra
+http://62.210.162.88:80/live/ES95/151009022016/1534.ts
+#EXTINF:-1,ES_telesur
+http://62.210.162.88:80/live/ES95/151009022016/1538.ts
+#EXTINF:-1,ES_hollywood
+http://62.210.162.88:80/live/ES95/151009022016/1533.ts
+#EXTINF:-1,ES_FDF
+http://62.210.162.88:80/live/ES95/151009022016/1532.ts
+#EXTINF:-1,ES_cuatro
+http://62.210.162.88:80/live/ES95/151009022016/1536.ts
+#EXTINF:-1,ES_clan
+http://62.210.162.88:80/live/ES95/151009022016/1541.ts
+#EXTINF:-1,ES_C  TOROS
+http://62.210.162.88:80/live/ES95/151009022016/1531.ts
+#EXTINF:-1,ES_C  DEPORT HD
+http://62.210.162.88:80/live/ES95/151009022016/1530.ts
