@@ -7,8 +7,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_2.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_2.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_CANTINAZO" tvg-name="CANTINAZO" tvg-logo="CANTINAZO.png" group-title="Español",CANTINAZO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1, m
-rtmp://play3.tvope.com/tvope playpath=stream_foo0x swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
 
 #EXTINF:-1 tvg-id="TV Guia_TELECAFE" tvg-name="TELECAFE" tvg-logo="TELECAFE.png" group-title="Español",Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
@@ -144,3 +142,60 @@ http://bit.ly/1Wc5h2M
 http://bit.ly/1SGBPEh
 #EXTINF:-1,NATIONAL GEOGRAPHIC WILD
 http://bit.ly/20JkCOX
+#EXTINF:-1, =========CALIDAD SD===========
+
+#EXTINF:-1, +1 
+rtmp://play3.tvope.com/tvope playpath=stream_plus8one1 swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, +Estrenos 
+rtmp://play3.tvope.com/tvope playpath=stream_estrns swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, +Accion 
+rtmp://play3.tvope.com/tvope playpath=stream_accin90 swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, +Comedia 
+rtmp://play3.tvope.com/tvope playpath=stream_comdn swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, +DeCine 
+rtmp://play3.tvope.com/tvope playpath=stream_dcine41 swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, +Extra 
+rtmp://play3.tvope.com/tvope playpath=stream_xtrap swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, +Series Extra 
+rtmp://play3.tvope.com/tvope playpath=stream_xtraser swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, +Series  
+rtmp://play3.tvope.com/tvope playpath=stream_seris swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, Fox 
+rtmp://play3.tvope.com/tvope playpath=stream_foo0x swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, TNT 
+rtmp://play3.tvope.com/tvope playpath=stream_bomba swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, AXN 
+rtmp://play3.tvope.com/tvope playpath=stream_anx swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, Syfy 
+rtmp://play3.tvope.com/tvope playpath=stream_sifi swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, Comedy Central 
+rtmp://play3.tvope.com/tvope playpath=stream_comcent swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, Viajar 
+rtmp://play3.tvope.com/tvope playpath=stream_viaje swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, Cocina 
+rtmp://play3.tvope.com/tvope playpath=stream_cocin swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, Discovery Max 
+rtmp://play3.tvope.com/tvope playpath=stream_dmxa swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, Historia 
+rtmp://play3.tvope.com/tvope playpath=stream_history swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+#EXTINF:-1, Toros
+rtmp://play3.tvope.com/tvope playpath=stream_tors swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com
+
+
