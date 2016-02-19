@@ -29,128 +29,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_eltiempo" tvg-name="eltiempo" tvg-logo="eltiempo.png" group-title="Español",El Tiempo 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 
-#EXTINF:-1 tvg-id="TV Guia_Cuatro.tutvguia.com" tvg-name="Cuatro.tutvguia.com" tvg-logo="cuatro.png" group-title="Castellano",Cuatro
-rtmp://31.220.40.60/privatestream/cuatrotdt9 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_C+ Acción.tutvguia.com" tvg-name="C+_Acción.tutvguia.com" tvg-logo="canalplusaccion.png" group-title="Castellano",C+ Acción
-rtmp://31.220.2.57/privatestream/accionplus91 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_C+ Comedia.tutvguia.com" tvg-name="C+_Comedia.tutvguia.com" tvg-logo="CanalplusComedia.png" group-title="Castellano",Canal + Comedia
-rtmp://31.220.0.196/privatestream/comediaplus78 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_Calle 13.tutvguia.com" tvg-name="Calle_13.tutvguia.com" tvg-logo="calle13.png" group-title="Castellano",Calle 13
-rtmp://31.220.2.56/privatestream/13calle7 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_Syfy_ES.tutvguia.com" tvg-name="Syfy_ES.tutvguia.com" tvg-logo="syfy.png" group-title="Castellano",SyFy
-rtmp://31.220.0.139/privatestream/syfy852 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_AXN White.tutvguia.com" tvg-name="AXN_White.tutvguia.com" tvg-logo="AXN_White.png" group-title="Castellano",AXN White
-rtmp://31.220.0.186/privatestream/whiteaxn7 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_Discovery MAX.tutvguia.com" tvg-name="Discovery_MAX.tutvguia.com" tvg-logo="discoverymax.png" group-title="Castellano",Discovery Max
-rtmp://31.220.0.13/privatestream/maxdiscovery11 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_National Geographic Wild_ES.tutvguia.com" tvg-name="National_Geographic_Wild_ES.tutvguia.com" tvg-logo="natgeo.png" group-title="Castellano",Nat Geo Wild
-rtmp://31.220.2.54/privatestream/wildnatgeo4 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_Historia.tutvguia.com" tvg-name="Historia.tutvguia.com" tvg-logo="historia.png" group-title="Castellano",Historia
-rtmp://31.220.0.196/privatestream/historia93 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_AE_ES.tutvguia.com" tvg-name="AE_ES.tutvguia.com" tvg-logo="a&e.png" group-title="Castellano",A&E
-rtmp://31.220.0.187/privatestream/aande25 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_Iberalia.tutvguia.com" tvg-name="Iberalia.tutvguia.com" tvg-logo="iberiala.png" group-title="Castellano",Iberalia
-rtmp://31.220.40.60/privatestream/iberalia65 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_Canal Golf.tutvguia.com" tvg-name="Canal_Golf.tutvguia.com" tvg-logo="canalplusgolf.png" group-title="Castellano",C+ Golf
-rtmp://31.220.0.194/privatestream/golfplus00 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-
-#EXTINF:-1,LA  1 HD
-http://bit.ly/1PMxxIU
-#EXTINF:-1,LA  2
-http://bit.ly/23Vuu77
-#EXTINF:-1,ANTENA 3 HD
-http://bit.ly/20JiIhd
-#EXTINF:-1,CUATRO HD
-http://bit.ly/20TVWjt
-#EXTINF:-1,TELECINCO HD
-http://bit.ly/1PMxL2z
-#EXTINF:-1,LA SEXTA HD
-http://bit.ly/1opFGso
-#EXTINF:-1,MEGA
-http://bit.ly/1Wc3n1V
-#EXTINF:-1,====== CINE - SERIES ======
-http://bit.ly/23VuGTS
-#EXTINF:-1,AMC HD
-http://bit.ly/1mqJI24
-#EXTINF:-1,ANTENA 3  SERIES
-http://bit.ly/1opFWHN
-#EXTINF:-1,ANTENA NOVA
-http://bit.ly/1TQOsvm
-#EXTINF:-1,AXN HD
-http://bit.ly/1RndbH3
-#EXTINF:-1,AXN WHITE HD
-http://bit.ly/1SGAZY7
-#EXTINF:-1,CANAL+ HD
-http://bit.ly/1Wc3KJX
-#EXTINF:-1,CANAL+  ACCION HD
-http://bit.ly/20mXyjs
-#EXTINF:-1,CANAL+  COMEDIA
-http://bit.ly/1V1Ob7g
-#EXTINF:-1,CANAL+  ESTRENOS HD
-http://bit.ly/1PMy2m8
-#EXTINF:-1,CANAL+  SERIES HD
-http://bit.ly/1Kau3PZ
-#EXTINF:-1,COMEDY CENTRAL HD
-http://bit.ly/1PjtIJI
-#EXTINF:-1,CANAL DCINE HD
-http://bit.ly/1QTUQ2o
-#EXTINF:-1,DCINE ESPAÑOL
-http://bit.ly/1PMy9xZ
-#EXTINF:-1,CALLE 13 HD
-http://bit.ly/1O1SutM
-#EXTINF:-1,HOLLYWOOD
-http://bit.ly/20mXP64
-#EXTINF:-1,FOX HD
-http://bit.ly/1Q5Ym6o
-#EXTINF:-1,FOX LIFE HD
-http://bit.ly/1TQOX8J
-#EXTINF:-1,NEOX
-http://bit.ly/1XgRwkq
-#EXTINF:-1,PARAMOUNT COMEDY HD
-http://bit.ly/1T4XDYw
-#EXTINF:-1,TCM HD
-http://bit.ly/1Q7HW3Q
-#EXTINF:-1,TNT HD
-http://bit.ly/1KauqKv
-#EXTINF:-1,SYFY HD
-http://bit.ly/1T4XTqC
-#EXTINF:-1,BEIN SPORTS 1
-http://bit.ly/1o0Z7bd
-#EXTINF:-1,BEIN SPORTS 2
-http://bit.ly/20mYwMC
-#EXTINF:-1,BEIN SPORTS 3
-http://bit.ly/1T4YBnz
-#EXTINF:-1,CANAL  LIGA HD
-http://bit.ly/1Tbeo5x
-#EXTINF:-1,CANAL LIGA 2 HD
-http://bit.ly/1KDMcFU
-#EXTINF:-1,CANAL+  PARTIZADO HD
-http://bit.ly/1nWhOMB
-#EXTINF:-1,CANAL+ TOROS HD
-http://bit.ly/1PMyQY6
-#EXTINF:-1,EUROSPORT HD
-http://bit.ly/20mYNiI
-#EXTINF:-1,MOTOGP HD
-http://bit.ly/20Jl9QT
-#EXTINF:-1,MOVISTAR F1 HD
-http://bit.ly/1Lf9vRb
-#EXTINF:-1,====== DOCUMENTALES ======
-http://bit.ly/1PMyzoj
-#EXTINF:-1,HISTORIA
-http://bit.ly/1Q7IiaA
-#EXTINF:-1,CAZA Y  PESCA
-http://bit.ly/1Wc5h2M
-#EXTINF:-1,NATIONAL  GEOGRAPHIC
-http://bit.ly/1SGBPEh
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://bit.ly/20JkCOX
-
-#EXTM3U
-#EXTINF:0,group-title="etiquetas",[B][COLOR cyan]EXABYTE TV[/COLOR] - [COLOR lightgreen]17/02/2016 - 08:40PM[/COLOR] - [COLOR orange]facebook.com/groups/PlayKodi[/COLOR][/B]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0,group-title="etiquetas",[B]Donaciones via PayPal: hola_scg@hotmail.com[/B]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-
 #EXTINF:0, group-title="etiquetas",[COLOR lime][B]<< ENTRETENIMIENTO >>[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",A&E (Baja Resolución)
@@ -955,3 +833,99 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 rtmp://edge2.everyon.tv/etv2/pld1003
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="-" group-title="ADULTOS",Olalá
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+
+#EXTINF:-1,LA  1 HD
+http://bit.ly/1PMxxIU
+#EXTINF:-1,LA  2
+http://bit.ly/23Vuu77
+#EXTINF:-1,ANTENA 3 HD
+http://bit.ly/20JiIhd
+#EXTINF:-1,CUATRO HD
+http://bit.ly/20TVWjt
+#EXTINF:-1,TELECINCO HD
+http://bit.ly/1PMxL2z
+#EXTINF:-1,LA SEXTA HD
+http://bit.ly/1opFGso
+#EXTINF:-1,MEGA
+http://bit.ly/1Wc3n1V
+#EXTINF:-1,====== CINE - SERIES ======
+http://bit.ly/23VuGTS
+#EXTINF:-1,AMC HD
+http://bit.ly/1mqJI24
+#EXTINF:-1,ANTENA 3  SERIES
+http://bit.ly/1opFWHN
+#EXTINF:-1,ANTENA NOVA
+http://bit.ly/1TQOsvm
+#EXTINF:-1,AXN HD
+http://bit.ly/1RndbH3
+#EXTINF:-1,AXN WHITE HD
+http://bit.ly/1SGAZY7
+#EXTINF:-1,CANAL+ HD
+http://bit.ly/1Wc3KJX
+#EXTINF:-1,CANAL+  ACCION HD
+http://bit.ly/20mXyjs
+#EXTINF:-1,CANAL+  COMEDIA
+http://bit.ly/1V1Ob7g
+#EXTINF:-1,CANAL+  ESTRENOS HD
+http://bit.ly/1PMy2m8
+#EXTINF:-1,CANAL+  SERIES HD
+http://bit.ly/1Kau3PZ
+#EXTINF:-1,COMEDY CENTRAL HD
+http://bit.ly/1PjtIJI
+#EXTINF:-1,CANAL DCINE HD
+http://bit.ly/1QTUQ2o
+#EXTINF:-1,DCINE ESPAÑOL
+http://bit.ly/1PMy9xZ
+#EXTINF:-1,CALLE 13 HD
+http://bit.ly/1O1SutM
+#EXTINF:-1,HOLLYWOOD
+http://bit.ly/20mXP64
+#EXTINF:-1,FOX HD
+http://bit.ly/1Q5Ym6o
+#EXTINF:-1,FOX LIFE HD
+http://bit.ly/1TQOX8J
+#EXTINF:-1,NEOX
+http://bit.ly/1XgRwkq
+#EXTINF:-1,PARAMOUNT COMEDY HD
+http://bit.ly/1T4XDYw
+#EXTINF:-1,TCM HD
+http://bit.ly/1Q7HW3Q
+#EXTINF:-1,TNT HD
+http://bit.ly/1KauqKv
+#EXTINF:-1,SYFY HD
+http://bit.ly/1T4XTqC
+#EXTINF:-1,BEIN SPORTS 1
+http://bit.ly/1o0Z7bd
+#EXTINF:-1,BEIN SPORTS 2
+http://bit.ly/20mYwMC
+#EXTINF:-1,BEIN SPORTS 3
+http://bit.ly/1T4YBnz
+#EXTINF:-1,CANAL  LIGA HD
+http://bit.ly/1Tbeo5x
+#EXTINF:-1,CANAL LIGA 2 HD
+http://bit.ly/1KDMcFU
+#EXTINF:-1,CANAL+  PARTIZADO HD
+http://bit.ly/1nWhOMB
+#EXTINF:-1,CANAL+ TOROS HD
+http://bit.ly/1PMyQY6
+#EXTINF:-1,EUROSPORT HD
+http://bit.ly/20mYNiI
+#EXTINF:-1,MOTOGP HD
+http://bit.ly/20Jl9QT
+#EXTINF:-1,MOVISTAR F1 HD
+http://bit.ly/1Lf9vRb
+#EXTINF:-1,====== DOCUMENTALES ======
+http://bit.ly/1PMyzoj
+#EXTINF:-1,HISTORIA
+http://bit.ly/1Q7IiaA
+#EXTINF:-1,CAZA Y  PESCA
+http://bit.ly/1Wc5h2M
+#EXTINF:-1,NATIONAL  GEOGRAPHIC
+http://bit.ly/1SGBPEh
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://bit.ly/20JkCOX
+
+
+
+
+
