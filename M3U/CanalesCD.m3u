@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TV Guia_WINSPORTS" tvg-name="WIN_SPORTS" tvg-logo="WIN_SPORTS.png" group-title="Español",WINSPORTS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/es1_1.m3u8?
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/qa1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_WINSPORTS" tvg-name="WIN_SPORTS" tvg-logo="WIN_SPORTS.png" group-title="Español",WINSPORTS ALTERNO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0003/uj1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_TIGO MUSIC" tvg-name="tigo-music" tvg-logo="tigo-music.png" group-title="Español",TIGO MUSIC
