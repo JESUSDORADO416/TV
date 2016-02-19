@@ -40,7 +40,7 @@ http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=aehd&cal=2&tk=auth9ejnr4
 #EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",A&E (Full HD)
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=aehd&cal=5&tk=auth9ejnr4fd
 #EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=aehd&cal=3&tk=auth9ejnr4fd
+http://exabytetv.ddns.net/stream/exabytetvf.m3u8?can=aehd&cal=3&tk=auth9ejnr4fd
 #EXTINF:-1 tvg-id="Lista PLAY-KODI AXN" tvg-name="AXN" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",AXN (Baja Resolución)
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=axnhd&cal=2&tk=auth9ejnr4fd
 #EXTINF:-1 tvg-id="Lista PLAY-KODI AXN" tvg-name="AXN" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",AXN (Full HD)
