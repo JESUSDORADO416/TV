@@ -33,98 +33,91 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_eltiempo" tvg-name="eltiempo" tvg-logo="eltiempo.png" group-title="Español",El Tiempo 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 
-#EXTINF:-1,LA  1 HD
-http://bit.ly/1PMxxIU
-#EXTINF:-1,LA  2
-http://bit.ly/23Vuu77
-#EXTINF:-1,ANTENA 3 HD
-http://bit.ly/20JiIhd
-#EXTINF:-1,CUATRO HD
-http://bit.ly/20TVWjt
-#EXTINF:-1,TELECINCO HD
-http://bit.ly/1PMxL2z
-#EXTINF:-1,LA SEXTA HD
-http://bit.ly/1opFGso
-#EXTINF:-1,MEGA
-http://bit.ly/1Wc3n1V
-#EXTINF:-1,====== CINE - SERIES ======
-http://bit.ly/23VuGTS
-#EXTINF:-1,AMC HD
-http://bit.ly/1mqJI24
-#EXTINF:-1,ANTENA 3  SERIES
-http://bit.ly/1opFWHN
-#EXTINF:-1,ANTENA NOVA
-http://bit.ly/1TQOsvm
-#EXTINF:-1,AXN HD
-http://bit.ly/1RndbH3
-#EXTINF:-1,AXN WHITE HD
-http://bit.ly/1SGAZY7
-#EXTINF:-1,CANAL+ HD
-http://bit.ly/1Wc3KJX
-#EXTINF:-1,CANAL+  ACCION HD
-http://bit.ly/20mXyjs
-#EXTINF:-1,CANAL+  COMEDIA
-http://bit.ly/1V1Ob7g
-#EXTINF:-1,CANAL+  ESTRENOS HD
-http://bit.ly/1PMy2m8
-#EXTINF:-1,CANAL+  SERIES HD
-http://bit.ly/1Kau3PZ
-#EXTINF:-1,COMEDY CENTRAL HD
-http://bit.ly/1PjtIJI
-#EXTINF:-1,CANAL DCINE HD
-http://bit.ly/1QTUQ2o
-#EXTINF:-1,DCINE ESPAÑOL
-http://bit.ly/1PMy9xZ
-#EXTINF:-1,CALLE 13 HD
-http://bit.ly/1O1SutM
-#EXTINF:-1,HOLLYWOOD
-http://bit.ly/20mXP64
-#EXTINF:-1,FOX HD
-http://bit.ly/1Q5Ym6o
-#EXTINF:-1,FOX LIFE HD
-http://bit.ly/1TQOX8J
-#EXTINF:-1,NEOX
-http://bit.ly/1XgRwkq
-#EXTINF:-1,PARAMOUNT COMEDY HD
-http://bit.ly/1T4XDYw
-#EXTINF:-1,TCM HD
-http://bit.ly/1Q7HW3Q
-#EXTINF:-1,TNT HD
-http://bit.ly/1KauqKv
-#EXTINF:-1,SYFY HD
-http://bit.ly/1T4XTqC
-#EXTINF:-1,BEIN SPORTS 1
-http://bit.ly/1o0Z7bd
-#EXTINF:-1,BEIN SPORTS 2
-http://bit.ly/20mYwMC
-#EXTINF:-1,BEIN SPORTS 3
-http://bit.ly/1T4YBnz
-#EXTINF:-1,CANAL  LIGA HD
-http://bit.ly/1Tbeo5x
-#EXTINF:-1,CANAL LIGA 2 HD
-http://bit.ly/1KDMcFU
-#EXTINF:-1,CANAL+  PARTIZADO HD
-http://bit.ly/1nWhOMB
-#EXTINF:-1,CANAL+ TOROS HD
-http://bit.ly/1PMyQY6
-#EXTINF:-1,EUROSPORT HD
-http://bit.ly/20mYNiI
-#EXTINF:-1,MOTOGP HD
-http://bit.ly/20Jl9QT
-#EXTINF:-1,MOVISTAR F1 HD
-http://bit.ly/1Lf9vRb
-#EXTINF:-1,====== DOCUMENTALES ======
-http://bit.ly/1PMyzoj
-#EXTINF:-1,HISTORIA
-http://bit.ly/1Q7IiaA
-#EXTINF:-1,CAZA Y  PESCA
-http://bit.ly/1Wc5h2M
-#EXTINF:-1,NATIONAL  GEOGRAPHIC
-http://bit.ly/1SGBPEh
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://bit.ly/20JkCOX
-
-
-
-
-
+#EXTINF:-1,SP: ANTENNA 3
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1470.ts
+#EXTINF:-1,SP: AXN WHITE
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1493.ts
+#EXTINF:-1,SP: CALLE 13
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1495.ts
+#EXTINF:-1,SP: CANAL+ ACCION HD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2595.ts
+#EXTINF:-1,SP: CANAL+ COMEDIA HD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2596.ts
+#EXTINF:-1,SP: CANAL+ DCINE HD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2597.ts
+#EXTINF:-1,SP: CANAL+ FUTBAL HD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1499.ts
+#EXTINF:-1,SP: CANAL+ GOLF HD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2574.ts
+#EXTINF:-1,SP: CANAL+ HD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2594.ts
+#EXTINF:-1,SP: CANAL+ LIGA
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1502.ts
+#EXTINF:-1,SP: CANAL+ TOROS
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1506.ts
+#EXTINF:-1,SP: COSMOPOLITAN
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1497.ts
+#EXTINF:-1,SP: CUATRO
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1471.ts
+#EXTINF:-1,SP: FDF
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2591.ts
+#EXTINF:-1,SP: FOX
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1490.ts
+#EXTINF:-1,SP: FOX FAMILY
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2577.ts
+#EXTINF:-1,SP: FOX LIFE
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1491.ts
+#EXTINF:-1,SP: GALICIA TV
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1815.ts
+#EXTINF:-1,SP: HBO LATINO
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2573.ts
+#EXTINF:-1,SP: HOLLYWOOD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1483.ts
+#EXTINF:-1,SP: LA 1
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2586.ts
+#EXTINF:-1,SP: LA 2
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2587.ts
+#EXTINF:-1,SP: LA SEXTA HD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1472.ts
+#EXTINF:-1,SP: MEGA TV
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2553.ts
+#EXTINF:-1,SP: MOVISTAR F1 HD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1504.ts
+#EXTINF:-1,SP: MOVISTAR MOTO GP
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1505.ts
+#EXTINF:-1,SP: NAT GEO
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1508.ts
+#EXTINF:-1,SP: NAT GEO WILD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1509.ts
+#EXTINF:-1,SP: NOVA
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2590.ts
+#EXTINF:-1,SP: SYFY
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1494.ts
+#EXTINF:-1,SP: TELECINCO
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2588.ts
+#EXTINF:-1,SP: TELEDEPORTE
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1500.ts
+#EXTINF:-1,SP: TNT
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1484.ts
+#EXTINF:-1,SP: TV CANARIA
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2593.ts
+#EXTINF:-1,SPAIN: A & E
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1514.ts
+#EXTINF:-1,SP: C5N
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1812.ts
+#EXTINF:-1,SP: CANAL COCINA
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1513.ts
+#EXTINF:-1,SP: CANAL ODISSEA
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1507.ts
+#EXTINF:-1,SP: CAZA Y PESCA
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1511.ts
+#EXTINF:-1,SP: CLAN TVE
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1474.ts
+#EXTINF:-1,SP: DISNEY CHANNEL
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1515.ts
+#EXTINF:-1,SP: DISNEY JR.
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1516.ts
+#EXTINF:-1,SP: DISNEY XD
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1517.ts
+#EXTINF:-1,SP: EL TRECE
+http://cms.cyntel.co:8000/live/bavaria/bavaria/1811.ts
