@@ -281,3 +281,24 @@ http://www.tudandy.com/demoface.php?id=1467&f=.m3u8
 http://www.tudandy.com/demoface.php?id=4805&f=.m3u8
 #EXTINF:-1, tvg-name="Cine Dinamita" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/873.png", Cine Dinamita
 http://www.tudandy.com/demoface.php?id=3465&f=.m3u8
+
+#EXTINF:-1, tvg-name="Venus" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/107.png", Venus
+http://www.tudandy.com/demoface.php?id=285&f=.m3u8
+#EXTINF:-1, tvg-name="Sextreme" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/109.png", Sextreme
+http://www.tudandy.com/demoface.php?id=287&f=.m3u8
+#EXTINF:-1, tvg-name="Manhandle XXX" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/607.png", Manhandle XXX
+http://www.tudandy.com/demoface.php?id=1027&f=.m3u8
+#EXTINF:-1, tvg-name="Secrets" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/605.png", Secrets
+http://www.tudandy.com/demoface.php?id=1025&f=.m3u8
+#EXTINF:-1, tvg-name="Playboy TV Latin America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/111.png", Playboy TV Latin America
+http://www.tudandy.com/demoface.php?id=289&f=.m3u8
+#EXTINF:-1, tvg-name="Playboy TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/433.png", Playboy TV
+http://inavie2.dyndns.tv:8000/live/deco/deco/147.m3u8
+#EXTINF:-1, tvg-name="Real" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/601.png", Real
+http://www.tudandy.com/demoface.php?id=1021&f=.m3u8
+#EXTINF:-1, tvg-name="Juicy" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/603.png", Juicy
+http://www.tudandy.com/demoface.php?id=1023&f=.m3u8
+#EXTINF:-1, tvg-name="Hustler TV USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/495.png", Hustler TV USA
+http://www.tudandy.com/demoface.php?id=1707&f=.m3u8
+#EXTINF:-1, tvg-name="Xtsy XXX" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/849.png", Xtsy XXX
+http://www.tudandy.com/demoface.php?id=1463&f=.m3u8
