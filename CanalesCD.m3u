@@ -146,32 +146,14 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/once-tv.png",ONCE TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
-#EXTINF:0,AZTECA 13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/azteca-13.png",AZTECA 13
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:0,CANAL 40
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/proyecto-40.png",CANAL 40
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
 #EXTINF:0,MULTIMEDIOS TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
 #EXTINF:0,AZCLIC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
-#EXTINF:0,CANAL DE LAS ESTRELLAS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:0,CANAL 5 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
-#EXTINF:0,AZTECA 7 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
-#EXTINF:0,GALAVISION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
-#EXTINF:0,ONCE TV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
-#EXTINF:0,AZTECA 13 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:0,CANAL 40 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
-#EXTINF:0,MULTIMEDIOS TV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
-#EXTINF:0,AZCLIC HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
 #EXTINF:0,FOX 1 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
 #EXTINF:0,FOX ACTION HD
