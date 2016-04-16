@@ -51,6 +51,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/formula1.png",Formula 1
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE03.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/totalplay.png",TOTAL PLAY 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox.png",FOX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/sony.png",SONY
@@ -188,25 +190,25 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/cbeebies.png",CBEEBIES
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
-#EXTINF:0,DISNEY CHANNEL [COLOR orange]SD[/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/disney-channel.png",DISNEY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
-#EXTINF:0,DISNEY XD [COLOR orange]SD[/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/disney-xd.png",DISNEY XD 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
-#EXTINF:0,NICK [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
-#EXTINF:0,NICK JR [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
-#EXTINF:0,NICK [COLOR orange]SD[/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/nick-hd.png",NICK HD 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
-#EXTINF:0,CARTOON NETWORK [COLOR orange]SD[/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/nick.png",NICK 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/nick-jr.png",NICK JR 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/cartoon-network.png",CARTOON NETWORK 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
-#EXTINF:0,BOOMERANG [COLOR orange]SD[/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/boomerang.png",BOOMERANG 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
-#EXTINF:0,TOONCAST [COLOR orange]SD[/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tooncast.png",TOONCAST 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
-#EXTINF:0,TIIN [COLOR orange]SD[/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tiin.png",TIIN 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY KIDS [COLOR orange]SD[/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-kids.png",DISCOVERY KIDS 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tlnovelas.png",TLNOVELAS
