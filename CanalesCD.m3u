@@ -51,8 +51,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/formula1.png",Formula 1
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE03.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/totalplay.png",TOTAL PLAY 
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox.png",FOX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/sony.png",SONY
