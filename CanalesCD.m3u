@@ -48,7 +48,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-3-hd.png",ESPN 3
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:-1,Formula 1 [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/formula1.png",Formula 1
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE03.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox.png",FOX HD
@@ -186,7 +186,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tcm.png",TCM
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
 
-#EXTINF:0,CBEEBIES [COLOR orange]SD[/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/cbeebies.png",CBEEBIES
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
 #EXTINF:0,DISNEY CHANNEL [COLOR orange]SD[/COLOR]
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
