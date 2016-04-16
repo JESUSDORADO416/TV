@@ -34,6 +34,41 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/eltiempo.png",El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 
+#EXTINF:0,CBEEBIES [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
+
+#EXTINF:0,DISNEY CHANNEL [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
+
+#EXTINF:0,DISNEY XD [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+
+#EXTINF:0,NICK [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
+
+#EXTINF:0,NICK JR [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
+
+#EXTINF:0,NICK [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
+
+#EXTINF:0,CARTOON NETWORK [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+
+#EXTINF:0,BOOMERANG [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
+
+#EXTINF:0,TOONCAST [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
+
+#EXTINF:0,TIIN [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
+
+#EXTINF:0,DISCOVERY KIDS [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-theater.png",DISCOVERY THEATER
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/history-hd.png",HISTORY
