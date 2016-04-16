@@ -34,71 +34,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/eltiempo.png",El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 
-#EXTINF:0,CBEEBIES [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
-
-#EXTINF:0,DISNEY CHANNEL [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
-
-#EXTINF:0,DISNEY XD [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
-
-#EXTINF:0,NICK [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
-
-#EXTINF:0,NICK JR [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
-
-#EXTINF:0,NICK [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
-
-#EXTINF:0,CARTOON NETWORK [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
-
-#EXTINF:0,BOOMERANG [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
-
-#EXTINF:0,TOONCAST [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
-
-#EXTINF:0,TIIN [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
-
-#EXTINF:0,DISCOVERY KIDS [COLOR orange]SD[/COLOR]
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-theater.png",DISCOVERY THEATER
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/history-hd.png",HISTORY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeo-wild-hd.png",NATGEO WILD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-world-hd.png",DISCOVERY WORLD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-channel.png",DISCOVERY CHANNEL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/animalplanet.png",ANIMAL PLANET
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/home-and-health.png",H&H
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeo.png",NATGEO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/lifetime.png",LIFETIME
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-science.png", DISCOVERY SCIENCE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-civilization.png",DISCOVERY CIVILIZATION
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-turbo.png",DISCOVERY TURBO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tlc-hd.png",TLC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/wobi-tv.png",WOBI
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/bloomberg.png",EL FINANCIERO BLOOMBERG
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/FoxSports1.png",FOX SPORTS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/FoxSports2.png",FOX SPORTS 2
@@ -113,6 +48,9 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-3-hd.png",ESPN 3
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:-1,Formula 1 [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox.png",FOX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/sony.png",SONY
@@ -167,28 +105,38 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tbs.png",TBS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tlnovelas.png",TLNOVELAS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tve.png",tve
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/Canal-de-las-estrellas.png",CANAL DE LAS ESTRELLAS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canal-5-HD.png",CANAL 5
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/azteca-7.png",AZTECA 7
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/gala-tv-hd.png",GALAVISION
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/once-tv.png",ONCE TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/azteca-13.png",AZTECA 13
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/proyecto-40.png",CANAL 40
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/multimedios-monterrey.png",MULTIMEDIOS TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/azclic.png",AZCLIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-theater.png",DISCOVERY THEATER
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/history-hd.png",HISTORY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeo-wild-hd.png",NATGEO WILD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-world-hd.png",DISCOVERY WORLD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-channel.png",DISCOVERY CHANNEL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/animalplanet.png",ANIMAL PLANET
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/home-and-health.png",H&H
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeo.png",NATGEO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/lifetime.png",LIFETIME
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-science.png", DISCOVERY SCIENCE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-civilization.png",DISCOVERY CIVILIZATION
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-turbo.png",DISCOVERY TURBO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tlc-hd.png",TLC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/wobi-tv.png",WOBI
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/bloomberg.png",EL FINANCIERO BLOOMBERG
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox-1-hd.png",FOX 1 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox-action.png",FOX ACTION HD
@@ -237,6 +185,53 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tcm.png",TCM
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
+
+#EXTINF:0,CBEEBIES [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
+#EXTINF:0,DISNEY CHANNEL [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
+#EXTINF:0,DISNEY XD [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+#EXTINF:0,NICK [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
+#EXTINF:0,NICK JR [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
+#EXTINF:0,NICK [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
+#EXTINF:0,CARTOON NETWORK [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+#EXTINF:0,BOOMERANG [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
+#EXTINF:0,TOONCAST [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
+#EXTINF:0,TIIN [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY KIDS [COLOR orange]SD[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tlnovelas.png",TLNOVELAS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tve.png",tve
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/Canal-de-las-estrellas.png",CANAL DE LAS ESTRELLAS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canal-5-HD.png",CANAL 5
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/azteca-7.png",AZTECA 7
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/gala-tv-hd.png",GALAVISION
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/once-tv.png",ONCE TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/azteca-13.png",AZTECA 13
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/proyecto-40.png",CANAL 40
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/multimedios-monterrey.png",MULTIMEDIOS TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/azclic.png",AZCLIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/mtv-live-hd.png",MTV LIVE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/telehit-hd.png",TELEHIT
