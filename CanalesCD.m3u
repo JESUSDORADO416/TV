@@ -251,3 +251,137 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/MilenioTV.png",MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
 
+#EXTINF:-1,tvg-logo="adult.png", JUST SEX
+http://46.182.25.34:1935/tv/1420/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="adult.png",Babestation EXtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:-1,tvg-logo="adult.png", XXX
+http://q.gs/9830047/sex4todokodi
+
+#EXTINF:-1,tvg-logo="adult.png", XXX1
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1,tvg-logo="olala.png" , Olala
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+
+#EXTINF:-1,tvg-logo="adult1.png",XXX 1
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
+
+#EXTINF:-1,tvg-logo="adult1.png",XXX 3
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:-1,tvg-logo="adult1.png",Jasmin TV Adulto
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media.m3u8
+
+#EXTINF:-1,tvg-logo="adult1.png",XXX VOD 1
+http://videohttp2.tukif.com/videos/2014/08/60322_20140829.smil/chunklist_b730000.m3u8
+#EXTINF:-1,tvg-logo="adult1.png",XXX VOD 2
+http://videohttp2.tukif.com/videos/2014/04/53545_20140425.smil/chunklist_b730000.m3u8
+#EXTINF:-1,tvg-logo="adult1.png",XXX VOD 3
+http://videohttp2.tukif.com/videos/2014/07/58172_20140724.smil/chunklist_b730000.m3u8
+#EXTINF:-1,tvg-logo="adult1.png",XXX VOD 4
+http://videohttp2.tukif.com/videos/2014/07/clips/57707_20140718.smil/chunklist_b1824000.m3u8
+#EXTINF:-1,tvg-logo="adult1.png",XXX VOD 5
+http://videohttp2.tukif.com/videos/2015/04/91211_20150417_MP4.smil/chunklist_b1824000.m3u8
+#EXTINF:-1,tvg-logo="adult1.png",XXX VOD 6
+http://videohttp2.tukif.com/videos/2015/04/92443_20150423_MP4.smil/chunklist_b1824000.m3u8
+#EXTINF:-1,tvg-logo="adult1.png",XXX VOD 7
+http://videohttp2.tukif.com/videos/2015/03/85672_20150315_MP4.smil/chunklist_b730000.m3u8
+#EXTINF:-1,tvg-logo="adult1.png",XXX VOD 8
+http://videohttp2.tukif.com/videos/2015/04/90158_20150413_MP4.smil/chunklist_b1824000.m3u8
+
+#EXTINF:0,tvg-logo="adult.png",tvg-logo="adult1.png",Korea Paradise 
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:0,tvg-logo="adult.png",tvg-logo="adult1.png",Korea Okadai
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+
+
+#EXTINF:-1,tvg-logo="adult1.png",Jasmin
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1, tvg-logo="adult1.png",Power Girls TV 
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+
+
+#EXTINF:-1 tvg-logo="adult1.png" ,Station
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+
+#EXTINF:-1,tvg-logo="adult.png", Adult:CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1,tvg-logo="adult.png", Adult:Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1,tvg-logo="adult.png", Adult:Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1,tvg-logo="adult.png", Adult:Babestation Unleashed2
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
+
+#EXTINF:-1,tvg-logo="adult.png", Adult:Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:-1,tvg-logo="adult2.png",Adult:CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1,tvg-logo="adult2.png",Adult:Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1,tvg-logo="adult2.png",Adult:Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1,tvg-logo="adult2.png",Adult:Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:-1, tvg-logo="adult.png" ,CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1, tvg-logo="adult.png" ,DLDVS 1
+http://208.122.3.2:9000
+
+#EXTINF:-1, tvg-logo="adult.png" ,DLDVS 2
+http://208.122.3.2:8700
+
+
+#EXTINF:-1, tvg-logo="adult.png" ,Sexy Sat
+rtmp://81.89.48.215/xyz999wkz/sexysat.stream_360p
+
+#EXTINF:-1,tvg-logo="adult.png" ,XXL Porn IPTV 
+http://a7-60.5-69.cdn13.com/28000/28013/28013.flv?
+
+#EXTINF:-1,tvg-logo="adult.png" , XXL
+http://a7-60.5-69.cdn13.com/28000/28014/28014.flv?
+
+#EXTINF:-1, tvg-logo="adult.png" ,XXL
+http://a7-60.5-69.cdn13.com/28000/28015/28015.flv?
+
+#EXTINF:-1,tvg-logo="adult.png" , XXL
+http://a7-60.5-69.cdn13.com/28000/28016/28016.flv?
+
+#EXTINF:-1, tvg-logo="adult.png" ,XXL
+http://a7-60.5-69.cdn13.com/28000/28017/28017.flv?
+
+#EXTINF:-1,tvg-logo="adult.png" , XXL
+http://a7-60.5-69.cdn13.com/28000/28018/28018.flv?
+
+#EXTINF:-1,tvg-logo="adult.png" , XXL
+http://a7-60.5-69.cdn13.com/28000/28019/28019.flv?
+
+#EXTINF:-1,tvg-logo="adult.png" , XXL
+http://a7-60.5-69.cdn13.com/28000/28020/28020.flv?
+
+#EXTINF:-1,tvg-logo="adult.png" , XXL
+http://a7-60.5-69.cdn13.com/28000/28021/28021.flv?
+
+#EXTINF:0,HOTCLUB 1 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/608.m3u8
+
+#EXTINF:0, HOTCLUB 2 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/609.m3u8
+
+#EXTINF:0, HOTCLUB 3 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/610.m3u8
+
+#EXTINF:0, HOTCLUB 7 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/614.m3u8
