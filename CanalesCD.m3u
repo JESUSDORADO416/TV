@@ -214,7 +214,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/unimas.png",UNIMAS
-https://video05-atl.streamup.com/app/unimas-1s-stream_aac/playlist.m3u8
+http://stream.ssh101.com:1935/live/unimas12/chunklist.m3u8?sd=10
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tlnovelas.png",TLNOVELAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tve.png",tve
