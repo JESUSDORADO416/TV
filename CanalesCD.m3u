@@ -65,7 +65,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/universal-channel.png",UNIVERSAL HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/hbo-family.png",HBO FAMILY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/hbo-family.png",HBO FAMILY 
 http://199.180.114.174:88/files/hbofamily453.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fx-hd.png",FX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
