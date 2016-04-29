@@ -44,6 +44,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 rtmp://watch9.streamlive.to:1935/edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjE4NjgyODB8MTkwLjE1Ni44NC44NHw1NzIyNDhlOGE1ODJkfDFlZGQwNjc4ZTAwZGZlNjk4ZGM3ODQ2MmM0YTYzMTA5ZjVjZGU2OTI. app=edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjE4NjgyODB8MTkwLjE1Ni44NC44NHw1NzIyNDhlOGE1ODJkfDFlZGQwNjc4ZTAwZGZlNjk4ZGM3ODQ2MmM0YTYzMTA5ZjVjZGU2OTI. playpath=3kyblmy5vhjkp2i swfUrl=//www.streamlive.to/ads/embed/player_ilive_embed.swf token=V95b575122128ad240f74159ad1c46f4 live=1 timeout=10 pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=653&height=410&channel=72400&autoplay=true
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/pxtv.png",PX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/redbulltv.png",RED BULL TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn.png",ESPN
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-hd.png",ESPN +
