@@ -1,7 +1,5 @@
 #EXTM3U tvg-shift=3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL HD
-https://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/master.m3u8?__nn__=4372295757001&hdnea=st=1461960000~exp=1461961800~acl=/i/*~hmac=c19b46b27e13a3e8aea5f8866c1b75b7536a171387989cfc21fb0579329dc45d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL
 http://stream.ssh101.com:1935/live/todocanales1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png" ,RCN 
