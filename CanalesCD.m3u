@@ -41,7 +41,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/FoxSports2.png",FOX SPORTS 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/beinsport.png",BEIN Ñ SPORT
-rtmp://watch9.streamlive.to:1935/edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjE5NjYyODR8MTg2LjE0Ny4yMDAuNzB8NTcyM2M3YmM1MzlmZnxmYTJjZWE3ZjFlODY4YTNlODYyZTEyZjZjOGZiYThhM2U4NzUyMmY2 app=edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjE5NjYyODR8MTg2LjE0Ny4yMDAuNzB8NTcyM2M3YmM1MzlmZnxmYTJjZWE3ZjFlODY4YTNlODYyZTEyZjZjOGZiYThhM2U4NzUyMmY2 playpath=3kyblmy5vhjkp2i swfUrl=//www.streamlive.to/ads/embed/player_ilive_embed.swf token=e9b3758ae599e84a0e2726f2ceef3cc0 live=1 timeout=10 pageUrl=http://www.streamlive.to/embedplayer_new2.php?channel=72400
+http://95.211.175.132:8088/live/ohyeah/playlist.m3u8?id=246630&pk=ce3e336f6634a752e9a712aa0e9a93f6361799736573e376ff5e2bf943d7a778
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/pxtv.png",PX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/redbulltv.png",RED BULL TV
