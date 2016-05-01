@@ -40,6 +40,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/beinsport.png",BEIN Ñ SPORT
 http://94.102.51.67:8088/live/VipBeinSD/playlist.m3u8?id=16389&pk=14b3284f013b65b1d910f31e168ad492e235b0a3cb5ac31531703125cd9d93ce
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canalplusliga.png",CANAL + HD
+https://video10-lax.streamup.com/app/tugoleada06s-stream_aac/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/pxtv.png",PX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/redbulltv.png",RED BULL TV
