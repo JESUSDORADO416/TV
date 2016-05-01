@@ -39,7 +39,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/FoxSports2.png",FOX SPORTS 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/beinsport.png",BEIN Ñ SPORT
-http://95.211.175.132:8088/live/ohyeah/playlist.m3u8?id=246630&pk=ce3e336f6634a752e9a712aa0e9a93f6361799736573e376ff5e2bf943d7a778
+http://94.102.51.67:8088/live/VipBeinSD/playlist.m3u8?id=16389&pk=14b3284f013b65b1d910f31e168ad492e235b0a3cb5ac31531703125cd9d93ce
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/pxtv.png",PX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/redbulltv.png",RED BULL TV
