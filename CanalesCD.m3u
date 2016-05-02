@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL
 http://stream.ssh101.com:1935/live/todocanales1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png" ,RCN 
-http://stream.ssh101.com:1935/live/veotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png" ,RCN HD
+http://vivevivejhkdfhjfg.newcloud.co/livercn/AppSenalRcn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png" ,WINSPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png",WINSPORTS ALTERNO
