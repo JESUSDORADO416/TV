@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL
 http://stream.ssh101.com:1935/live/todocanales1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL
-http://latino-webtv.ml/live/453.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png" ,RCN 
 http://stream.ssh101.com:1935/live/veotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png" ,WINSPORTS
@@ -68,9 +66,13 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/universal-channel.png",UNIVERSAL HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/hbo.png",HBO
-http://46.28.50.124:8088/live/hbomayimbu/playlist.m3u8?id=86823&pk=2c7e15c9bd2bde299e6eeae0bbdd25bb5cc6050af23e1b36ab58db3694bdac5a
+http://latino-webtv.ml/live/385.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/hbo2.png",HBO 2
+http://latino-webtv.ml/live/365.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/hbo-plus.png",HBO PLUS
+http://latino-webtv.ml/live/453.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/hbo-family.png",HBO FAMILY 
-http://199.180.114.174:88/files/hbofamily453.m3u8
+http://latino-webtv.ml/live/449.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fx-hd.png",FX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/a&e.png",A&E HD
