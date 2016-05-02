@@ -38,10 +38,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/FoxSports2.png",FOX SPORTS 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/foxsports3.png",FOX SPORTS 3
+http://latino-webtv.ml/live/445.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/beinsport.png",BEIN Ñ SPORT
-http://94.102.51.67:8088/live/VipBeinSD/playlist.m3u8?id=16389&pk=14b3284f013b65b1d910f31e168ad492e235b0a3cb5ac31531703125cd9d93ce
+http://latino-webtv.ml/live/2527.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canalplusliga.png",CANAL + LIGA HD
-https://video10-lax.streamup.com/app/tugoleada06s-stream_aac/playlist.m3u8
+http://latino-webtv.ml/live/14_03.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/pxtv.png",PX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/redbulltv.png",RED BULL TV
