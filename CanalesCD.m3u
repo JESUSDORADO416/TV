@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL
 http://stream.ssh101.com:1935/live/todocanales1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL
+http://latino-webtv.ml/live/453.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png" ,RCN 
 http://stream.ssh101.com:1935/live/veotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png" ,WINSPORTS
