@@ -226,7 +226,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/telemundo.png",TELEMUNDO HD
-rtmp://198.255.17.42:1935/live?W420v0nvv90NqD9zzIHmQNBx4Yfk3VSl playpath=live_telemundo44 live=1 timeout=20
+rtmp://198.255.17.42:1935/live?ohcc5Mai2eNpaSn6oJwnXojIKRZvkFQF playpath=live_telemundo44 live=1 timeout=20
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/univision.png",UNIVISION HD
 http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8??sd=10
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/unimas.png",UNIMAS HD
