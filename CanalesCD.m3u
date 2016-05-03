@@ -1,7 +1,7 @@
 #EXTM3U tvg-shift=3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL
-http://stream.ssh101.com:1935/live/todocanales1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL HD
+https://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/master.m3u8?__nn__=4372295757001&hdnea=st=1462293900~exp=1462295700~acl=/i/*~hmac=f34483c4e090d938b79aa0d54279d65dadad3012b0883ae02cbd0e40e19e44b7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png" ,RCN HD
 http://vivevivejhkdfhjfg.newcloud.co/livercn/AppSenalRcn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png" ,WINSPORTS
@@ -226,13 +226,15 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/telemundo.png",TELEMUNDO HD
-rtmp://198.255.17.18:443/live?f7sC8a5HytPRfOdSfOse9c03KbW47WEo playpath=live_telemundo44 live=1 timeout=20
+rtmp://198.255.17.42:1935/live?W420v0nvv90NqD9zzIHmQNBx4Yfk3VSl playpath=live_telemundo44 live=1 timeout=20
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/univision.png",UNIVISION HD
 http://stream.ssh101.com:1935/live/univision101/chunklist.m3u8??sd=10
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/unimas.png",UNIMAS HD
 http://stream.ssh101.com:1935/live/unimas12/chunklist.m3u8?sd=10
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tlnovelas.png",TLNOVELAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/miamitv.png",MIAMI TV
+http://k4.usastreams.com:1935/miamitv/miamitv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tve.png",tve
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/Canal-de-las-estrellas.png",CANAL DE LAS ESTRELLAS
