@@ -237,8 +237,10 @@ http://stream.ssh101.com:1935/live/unimas12/chunklist.m3u8?sd=10
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/miamitv.png",MIAMI TV
 http://k4.usastreams.com:1935/miamitv/miamitv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tve.png",tve
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tve.png",TVE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/nasatv.png",NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/Canal-de-las-estrellas.png",CANAL DE LAS ESTRELLAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canal-5-HD.png",CANAL 5
