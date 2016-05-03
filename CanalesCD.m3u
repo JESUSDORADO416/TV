@@ -41,7 +41,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/foxsports3.png",FOX SPORTS 3
 http://latino-webtv.ml/live/445.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/beinsport.png",BEIN Ñ SPORT
-http://latino-webtv.ml/live/2527.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+rtmp://watch9.streamlive.to:1935/edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjIyOTYzNzN8MTkwLjE1Ni44NC44NHw1NzI4ZDEyNTlkZTdlfDYyYWU1ZjkxNjFhMjgzMWEwMTIyMmQzMjE5MDM4NWEyMGRmNWYzMjU. app=edge/_definst_/?xs=_we_M2t5YmxteTV2aGprcDJpfDE0NjIyOTYzNzN8MTkwLjE1Ni44NC44NHw1NzI4ZDEyNTlkZTdlfDYyYWU1ZjkxNjFhMjgzMWEwMTIyMmQzMjE5MDM4NWEyMGRmNWYzMjU. playpath=3kyblmy5vhjkp2i swfUrl=//www.streamlive.to/ads/embed/player_ilive_embed.swf token=j5928983483087966d2073506c9a41ab live=1 timeout=10 pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=653&height=410&channel=72400&autoplay=true
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canalplusliga.png",CANAL + LIGA HD
 http://latino-webtv.ml/live/14_03.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/pxtv.png",PX
