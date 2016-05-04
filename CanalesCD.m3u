@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL HD
 https://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/master.m3u8?__nn__=4372295757001&hdnea=st=1462293900~exp=1462295700~acl=/i/*~hmac=f34483c4e090d938b79aa0d54279d65dadad3012b0883ae02cbd0e40e19e44b7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png" ,RCN HD
+http://livestream-f.akamaihd.net/15106628_4425181_64d72f67ab5f463eba2f8c2ba8e5047b_1_678@379461?v=3.6.0&fp=WIN%2021,0,0,216&r=FVCFD&g=GSHNDEEUWLJG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png" ,RCN HD
 http://vivevivejhkdfhjfg.newcloud.co/livercn/AppSenalRcn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png" ,WINSPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8?
