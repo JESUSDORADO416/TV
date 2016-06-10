@@ -64,7 +64,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox.png",FOX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/sony.png",SONY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+https://pro.exabytetv.info/repro.php?cal=3&token=JuZXMgeSBlbCBjdWVycG8gbG8gc2FiZSB4ZCBMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QKdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLApxdWlzIZXhlcmNpdGF0aW9uIHVsbGFtY28gbGFi&id=417&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/warner-hd.png",WARNER CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/universal-channel.png",UNIVERSAL HD
