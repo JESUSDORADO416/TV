@@ -146,8 +146,6 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png",Univision
 http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ec/My_HBO.png/revision/latest?cb=20121210225836",HBO (No Disponible)
-http://199.180.114.174:88/files/hbo.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/warner%20hd.png",Warner Channel
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/trutv%20hd.png",TruTV HD
@@ -156,7 +154,7 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/unicable.png",Unicable
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/universal%20hd.png",Universal Channel HD
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://tv.tecnotv.net/logo/universal%20hd.png",Universal Channel HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/universal%20channel.png",Universal Channel
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
@@ -170,7 +168,7 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/tnt%20series.png",TNT Series
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/film%20zone%20hd.png",Film Zone HD
+#EXTINF:-1 tvg-id="The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="http://tv.tecnotv.net/logo/film%20zone%20hd.png",Film Zone HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/sony.png",Sony HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
@@ -180,7 +178,7 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/studio%20universal.png",Studio Universal
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/syfy.png",Syfy
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://tv.tecnotv.net/logo/syfy.png",Syfy
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/tbs.png",TBS
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
@@ -196,11 +194,11 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/!e.png",E!
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/cinecanal%20(W).png",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://tv.tecnotv.net/logo/cinecanal%20(W).png",Cinecanal
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/cinecanal%20hd.png",Cinecanal + HD
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://tv.tecnotv.net/logo/cinecanal%20hd.png",Cinecanal + HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8?IPTV_xickoAB1_%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/cinemax.png",Cinemax
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://tv.tecnotv.net/logo/cinemax.png",Cinemax
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8?IPTV_xickoAB1_%2F1499-20150816T153535.ts=-1
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/comedy%20central%20hd.png",Comedy Central
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
@@ -221,31 +219,31 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/mtv.png",MTV
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/mtv%20live%20hd.png",MTV Live
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="http://tv.tecnotv.net/logo/mtv%20live%20hd.png",MTV Live
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/ritmoson%20latino.png",Ritmoson
+#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="http://tv.tecnotv.net/logo/ritmoson%20latino.png",Ritmoson
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNzI3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/telehit%20hd.png",Telehit
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/vh1%20hd.png",VH1
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MzcmbGFuPTImcm93cz00MCZzZXNzaW9uPXdwbnRrMzFzNjV2bmo3YiZsYW49Mg==&f=.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/vh1%20classisc.png",VH1 Classics
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="http://tv.tecnotv.net/logo/vh1%20classisc.png",VH1 Classics
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/hd%20theater.png",Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://tv.tecnotv.net/logo/hd%20theater.png",Discovery Theater
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/natgeo.png",Nat Geo
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://tv.tecnotv.net/logo/natgeo.png",Nat Geo
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/natgeo%20wild%20hd.png",NatGeo Wild
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/investigacion%20discovery.png",Investigation Discovery
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://tv.tecnotv.net/logo/investigacion%20discovery.png",Investigation Discovery
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDA3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj13cG50azMxczY1dm5qN2ImbGFuPTI=&f=.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/lifetime.png",Lifetime
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/history%20hd.png",History HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/home%20and%20health.png",Home And Health
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://tv.tecnotv.net/logo/home%20and%20health.png",Home And Health
 http://200.76.77.232/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/discovery%20channel.png",Discovery Channel
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
@@ -255,39 +253,5 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/discovery%20turbo.png",Discovery Turbo
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/Discovery%20World.png",Discovery World
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://tv.tecnotv.net/logo/Discovery%20World.png",Discovery World
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
-
-
-#EXTINF:-1, Univision TDN
-http://104.236.61.232:8081/live/sky69/UnivisionTDNcsp/playlist.m3u8
-#EXTINF:-1,FOX SPORTS USA
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,win sports latino
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:-1,antena latina
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b610304.m3u8
-#EXTINF:-1, Fail Tv
-http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
-#EXTINF:-1, Telemundo
-http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 , LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 , Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,TV Chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8
-#EXTINF:-1, MEGA 
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Travel Channel
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:0, TVMAS HD
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1,A3S
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?
-#EXTINF:-1 ,Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,Canal U
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:0,TV 5 MONDE AMÉRIQUE LATINE
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
