@@ -1,7 +1,7 @@
 #EXTM3U tvg-shift=3
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png" ,CARACOL HD
-http://46.28.51.164:8088/live/sirvetv26/playlist.m3u8?id=247259&pk=c51cfd1bd65d49cd73fa39e0bd797b2637fac64fdd286006aac7cc7f7acc7d4c
+http://208.75.225.28:1935/live/cbfdhtdyjuy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png" ,RCN HD
 http://canalrcn-mobile-encoder.4cloud.co/livercn/AppSenalRcn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png" ,WINSPORTS
