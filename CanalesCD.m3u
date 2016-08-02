@@ -105,13 +105,13 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/espn%20+.png",ESPN +
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/formula1.png", FORMULA 1 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE05.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png" ,WINSPORTS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png",WINSPORTS ALTERNO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0003/uj1_1.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/pxtv.png", PX 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/goltv.png", GOL TV
 http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
 
