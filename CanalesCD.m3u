@@ -122,7 +122,7 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/fox.png",FOX HD
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://tv.tecnotv.net/logo/fox.png",FOX HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logo/fx%20hd.png",FX HD
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
