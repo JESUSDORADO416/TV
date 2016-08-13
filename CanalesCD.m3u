@@ -91,7 +91,7 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/ClaroSports.png",CLARO SPORTS 
-http://ooyalahd2-f.akamaihd.net/i/claro_olymp01_delivery@410550/index_814_av-p.m3u8?sd=10&rebase=on
+http://ooyalahd2-f.akamaihd.net/i/claro_olymp01_delivery@410550/index_1628_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/ClaroSports.png",CLARO SPORTS 2
 http://jjoo2016ch02-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch02)/Stream(05)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/ClaroSports.png",CLARO SPORTS 3
