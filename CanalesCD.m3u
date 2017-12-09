@@ -1,17 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]SUSCRIBETE--TECNO-WILL
-https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]LISTA Recopilada ->www.tecnowillblog.wordpress.com
-https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR RED] [/COLOR]BÚSCANOS EN YOUTUBE COMO -> TECNO-WILL
-https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR RED] [/COLOR]MAS LISTAS EN NUESTRO BLOG-www.tecnowillblog.wordpress.com
-https://www.youtube.com/c/LISTASIPTVFREE
 
-
-
-
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]HBO PLUS 2
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", HBO PLUS 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
 
  #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" ,FOX LIFE
@@ -23,305 +12,298 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(01)/
  #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" ,FOX PREMIUN
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
 #EXTM3U
- #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="CINE", Fox Action
+ #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Action
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
 #EXTM3U
- #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="CINE", Fox Cinema
+ #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Cinema
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="CINE", Fox Movies
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Movies
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(01)/index.m3u8
 #EXTM3U
  #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" ,FX Latinoamérica
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/Stream(01)/index.m3u8
 #EXTM3U
- #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="CINE", Fox Family
+ #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Family
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/Stream(03)/index.m3u8
 
- #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="CINE", Fox Comedy
+ #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Comedy
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" ,TNT SERIES
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" ,Golden HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]TLC
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TLC
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]AXN_HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",AXN_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CINEMA PLUS
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CINEMA PLUS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]HBO SIGNATURE
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",HBO SIGNATURE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]FOX HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",FOX HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]FX_HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",FX_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8
-#EXTINF:-1  tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]tvg-name="SONY" tvg-logo="",SONY
+#EXTINF:-1  tvg-logo="http://i68.tinypic.com/2sb0oxt.png",SONY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
-#EXTINF:-1  tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Max Up
+#EXTINF:-1  tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Max Up
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Max Prime
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Max Prime
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Max
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Max
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]HISTORY 2
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",HISTORY 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]SPACE HD          
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",SPACE HD          
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]MAX PREMIUM  
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",MAX PREMIUM  
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/Stream(01)/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CINE LATINO     
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CINE LATINO     
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8     
       
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]GOLDEN HD	  
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",GOLDEN HD	  
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CLARO CINEMA     
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CLARO CINEMA     
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/Stream(01)/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",PARAMOUNT CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PARAMOUNT_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]SUNDANCE CHANNEL
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",SUNDANCE CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",COMEDY CENTRAL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]NATGEO WILD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",NATGEO WILD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]ANIMAL PLANET
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ANIMAL PLANET
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",DISCOVERY CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]DISCOVERY H&H
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",DISCOVERY H&H
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]FOX 3 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",FOX 3 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]ESPN HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]ESPN 2
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]FOX SPORT
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",FOX SPORT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CABLE ONDA
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CABLE ONDA
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]ESPN 3
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN 3
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]FOX2
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",FOX2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]TELETRACK DEPORTES
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TELETRACK DEPORTES
 http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]WINSPORTS_HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",WINSPORTS_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]UNIVISION TDN
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",UNIVISION TDN
 http://149.56.26.6:25461/live/dreamscanales/123456/414.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]UNIVISION
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",UNIVISION
 http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]real madrid 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",real madrid 
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]UNIVISION TDN3
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",UNIVISION TDN3
 http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES", ESPN Argentina
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", ESPN Argentina
 http://35.196.195.222/hls/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES", ESPN 2 Argentina
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", ESPN 2 Argentina
 http://35.196.195.222/hls/live/channel3.m3u8
 #EXTINF:-1 FOX SOCCER PLUS
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES", ESPN 3 Argentina
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", ESPN 3 Argentina
 http://35.196.195.222/hls/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES", Fox Sports 3
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Sports 3
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES",ESPN HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN
 http://35.196.195.222/hls/live/channel1.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN 2 HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES",ESPN 2
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN 2
 http://35.196.195.222/hls/live/channel3.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES",ESPN 3 HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN 3 HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN 3
 http://35.196.195.222/hls/live/channel7.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES",Fox Sports HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Fox Sports HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="DEPORTES",Fox Sports
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Fox Sports
 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="INFANTILES", Disney Jr
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Disney Jr
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="INFANTILES",Nick HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Nick HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="INFANTILES",Nick JR
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Nick JR
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_JR)/Stream(01)/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="INFANTILES", Discovery Kids
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Discovery Kids
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(01)/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="INFANTILES", Disney XD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Disney XD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="INFANTILES",Disney Channel
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Disney Channel
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/Stream(01)/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="INFANTILES",Nick 2
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Nick 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/Stream(01)/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" group-title="INFANTILES", Tiin
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Tiin
 http://149.56.26.6:25461/live/dreamscanales/123456/13361.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CARTOON NETWORT
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CARTOON NETWORT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]NICKELODEON HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",NICKELODEON HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]BOOMERANG HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",BOOMERANG HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]DISNEY XD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",DISNEY XD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]BABYTV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",BABYTV
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BABYTV)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]DISNEY JR
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",DISNEY JR
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]TOONCAST
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TOONCAST
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/index.m3u8
 
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR BLUE] [/COLOR]CANALES DE CHILE www.tecnowillblog.wordpress.com
-https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR] CNN CHILE
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CNN CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Canal Carnaval 38
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Canal Carnaval 38
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]ITV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ITV
 http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]UESTV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]UMAG TV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",UMAG TV
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]VTV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",VTV
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]VTV 2
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",VTV 2
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR RED] [/COLOR]CANALES DE MÉXICO www.tecnowillblog.wordpress.com
-https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]TELEMUNDO
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TELEMUNDO
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Telemundo2
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Telemundo2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEMUNDO)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CANAL5.1
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CANAL5.1
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CANAL5
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CANAL5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]TV AZTECA 13
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TV AZTECA 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]ESTRELLAS AMERICA LATINA
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESTRELLAS AMERICA LATINA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]AZTECA 13 HD MEXICO
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",AZTECA 13 HD MEXICO
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR RED] [/COLOR]CANALES DE ESPAÑA www.tecnowillblog.wordpress.com
-https://www.youtube.com/c/LISTASIPTVFREE
-
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Antena 3 [HD]
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Antena 3 [HD]
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Antena 3 Series [HD]
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Antena 3 Series [HD]
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Antena 3 Internacional
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]La Sexta  [HD]
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",La Sexta  [HD]
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Mega España [HD] 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Mega España [HD] 
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Neox [HD] 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Neox [HD] 
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Canal 13 TV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Canal 13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Real Madrid TV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Sevilla FC
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Nova [HD]
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Nova [HD]
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Telemadrid [SD]
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Telemadrid [SD]
 http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Rioja TV [SD]
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Rioja TV [SD]
 mms://87.106.208.121/stv
 
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR RED] [/COLOR]CANALES DE COLOMBIA www.tecnowillblog.wordpress.com
-https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]VMAS TV
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",VMAS TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CANAL ANTIESTRES
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CANAL ANTIESTRES
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CANTINAZO
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CANTINAZO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]LIFEDESING
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",LIFEDESING
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]MIMUSICA HD
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",MIMUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]TIGO MUSIC
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]CANAL U
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CANAL U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Cable Noticias
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Cable Noticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]TELE VIDA
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TELE VIDA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]TRENDY MUSICA
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TRENDY MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Canal U
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Canal U
 http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]Telecafe
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Telecafe
 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]anal TRO
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",Canal TRO
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
