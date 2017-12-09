@@ -1,154 +1,107 @@
 #EXTM3U
-
-#EXTINF:-1,[COLOR WHITE] [/COLOR]HBO PLUS 2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,FOX LIFE
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
-#EXTINF:-1,FOX
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,FOX PREMIUN
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,CINE:Fox Action
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
-#EXTINF:-1,CINE:Fox Cinema
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,CINE:Fox Movies
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,FX Latinoamérica
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,CINE:Fox Family
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/Stream(03)/index.m3u8
-#EXTINF:-1,CINE:Fox Comedy
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,TNT SERIES
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,Golden HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]TLC
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]AXN_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]CINEMA PLUS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]HBO SIGNATURE
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]FOX HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]FX_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]Max Up
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]Max Prime
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]Max
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]HISTORY 2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]SPACE HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8 
-#EXTINF:-1,[COLOR WHITE] [/COLOR]MAX PREMIUM
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/Stream(01)/index.m3u8 
-#EXTINF:-1,[COLOR WHITE] [/COLOR]CINE LATINO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8     
-#EXTINF:-1,[COLOR WHITE] [/COLOR]GOLDEN HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8 
-#EXTINF:-1,[COLOR WHITE] [/COLOR]CLARO CINEMA
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/Stream(01)/index.m3u8 
-#EXTINF:-1,[COLOR WHITE] [/COLOR]PARAMOUNT CHANNEL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PARAMOUNT_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]SUNDANCE CHANNEL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]COMEDY CENTRAL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]NATGEO WILD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]ANIMAL PLANET
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]DISCOVERY CHANNEL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]DISCOVERY H&H
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]FOX 3
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]ESPN HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]ESPN 2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]FOX SPORT
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]CABLE ONDA
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]ESPN 3
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]FOX2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]TELETRACK DEPORTES
-http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]WINSPORTS_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]UNIVISION TDN
-http://149.56.26.6:25461/live/dreamscanales/123456/414.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]UNIVISION
-http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]real madrid
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,[COLOR WHITE] [/COLOR]UNIVISION TDN3
-http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
-#EXTINF:-1,DEPORTES:ESPN Argentina
-http://35.196.195.222/hls/live/channel1.m3u8
-#EXTINF:-1,DEPORTES:ESPN 2 Argentina
+#EXTINF:-1,[COLOR WHITE] [/COLOR]SUSCRIBETE--www.youtube.com/LISTASIPTVFREE
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,[COLOR WHITE] [/COLOR]LISTA ACTUALIZADA 18/11 RECOPILADA POR EL CANAL www.youtube.com/LISTASIPTVFREE
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,[COLOR WHITE] [/COLOR]tecnowillblog.wordpress.com
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,DEPORTES:Fox Sports op2
+http://35.196.195.222/hls/live/channel4.m3u8
+#EXTINF:-1,DEPORTES:ESPN 2 op2
 http://35.196.195.222/hls/live/channel3.m3u8
-#EXTINF:-1,
-#EXTINF:-1  group-title="DEPORTES", ESPN 3 Argentina
-#EXTINF:-1,DEPORTES:ESPN 3 Argentina
+#EXTINF:-1,DEPORTES:ESPN 3 op2
 http://35.196.195.222/hls/live/channel7.m3u8
-#EXTINF:-1,DEPORTES:Fox Sports 3
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,DEPORTES:ESPN HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,DEPORTES:ESPN
-http://35.196.195.222/hls/live/channel1.m3u8
-#EXTINF:-1,DEPORTES:ESPN 2 HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,DEPORTES:ESPN 2
-http://35.196.195.222/hls/live/channel3.m3u8
-#EXTINF:-1,DEPORTES:ESPN 3 HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,DEPORTES:ESPN 3
-http://35.196.195.222/hls/live/channel7.m3u8
-#EXTINF:-1,DEPORTES:Fox Sports HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-#EXTINF:-1,DEPORTES:Fox Sports
-#EXTINF:-1  group-title="INFANTILES", Disney Jr
-#EXTINF:-1,INFANTILES:Disney Jr
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
-#EXTINF:-1,INFANTILES:Nick HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,INFANTILES:Nick JR
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_JR)/Stream(01)/index.m3u8
-#EXTINF:-1,INFANTILES:Discovery Kids
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,INFANTILES:Disney XD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
-#EXTINF:-1,INFANTILES:Disney Channel
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,INFANTILES:Nick 2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,INFANTILES:Tiin
-http://149.56.26.6:25461/live/dreamscanales/123456/13361.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]CARTOON NETWORT
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]NICKELODEON HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]BOOMERANG HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG_HD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]DISNEY XD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]BABYTV
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BABYTV)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]DISNEY JR
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/index.m3u8
-#EXTINF:-1,[COLOR WHITE] [/COLOR]TOONCAST
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/index.m3u8
+#EXTINF:-1,DEPORTES:PXSports HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
+#EXTINF:-1,CANALES HD:Cartoon Network HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(02)/index.m3u8
+#EXTINF:-1,CANALES HD:Discovery Kids HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(02)/index.m3u8
+#EXTINF:-1,CANALES HD:Discovery Channel HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(02)/index.m3u8
+#EXTINF:-1,CANALES HD:Discovery World HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/Stream(02)/index.m3u
+#EXTINF:-1,CANALES HD:Investigation Discovery HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(02)/index.m3u8
+#EXTINF:-1,MEXICO:LAS ESTRELLAS-tecnowillblog.wordpress.com
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:AZTEKA 13-tecnowillblog.wordpress.com
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:TV MEXIQUENSE-tecnowillblog.wordpress.com
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:AZ CLICK-tecnowillblog.wordpress.com
+http://bit.ly/2yFTOFY?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:CANAL 5-tecnowillblog.wordpress.com
+http://s1.iptvmanagerpro.com/stream_14_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
+#EXTINF:-1,MEXICO:GALATV YUCATAN-tecnowillblog.wordpress.com
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:-1,MEXICO:MULTIMEDIOS-tecnowillblog.wordpress.com
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:CANAL ONCE-tecnowillblog.wordpress.com
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:ADN 40-tecnowillblog.wordpress.com
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:AZTECA A+-tecnowillblog.wordpress.com
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:EFEKTO TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:TV MAS-tecnowillblog.wordpress.com
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:MILENIO TV-tecnowillblog.wordpress.com
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:CANAL 2 OBREGON
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:CANAL 7 MAZATLAN
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:CANAL 2 LOS MOCHIS-tecnowillblog.wordpress.com
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:TELEMAR CAMPECHE-tecnowillblog.wordpress.com
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MEXICO:CANAL JUDICIAL-tecnowillblog.wordpress.com
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1,PREMIUM:FOX MOVIES-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/604.m3u8
+#EXTINF:-1,PREMIUM:UNIVERSAL CHANNEL-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/255.m3u8
+#EXTINF:-1,PREMIUM:DISCOVERY CHANNEL-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/2038.m3u8
+#EXTINF:-1,PREMIUM:FX-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/268.m3u8
+#EXTINF:-1,PREMIUM:SONY-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/269.m3u8
+#EXTINF:-1,PREMIUM:WARNER BROTHER-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/398.m3u8
+#EXTINF:-1,PREMIUM:GLITZ-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/2307.m3u8
+#EXTINF:-1,PREMIUM:FILM ZONE-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/256.m3u8
+#EXTINF:-1,PREMIUM:SPACE-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/265.m3u8
+#EXTINF:-1,PREMIUM:CINECAL-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/1385.m3u8
+#EXTINF:-1,INFANTILES:DisneyChannel-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/820.m3u8
+#EXTINF:-1,INFANTILES:TOONSCAST-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/2329.m3u8
+#EXTINF:-1,INFANTILES:DiscoveryKids-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/822.m3u8
+#EXTINF:-1,INFANTILES:BOOMERANG-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/827.m3u8
+#EXTINF:-1,INFANTILES:DISNEY XD-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/818.m3u8
+#EXTINF:-1,DEPORTES:WIN SPORT-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/351.m3u8
+#EXTINF:-1,DEPORTES:FOX SPORT 2-tecnowillblog.wordpress.com
+http://144.217.79.223:8000/live/vidal/vidal/602.m3u8
+#EXTINF:-1,DEPORTES:ESPN-tecnowillblog.wordpress.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,DEPORTES:ESPN 2-tecnowillblog.wordpress.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,DEPORTES:ESPN 3-tecnowillblog.wordpress.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(07)/index.m3u8
+#EXTINF:-1,LATINOS:LATINA HD-tecnowillblog.wordpress.com
+http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,LATINOS:TELEMUNDO-tecnowillblog.wordpress.com
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,LATINOS:RCN-tecnowillblog.wordpress.com
+http://vivoplay-i.akamaihd.net/hls/live/255327/canal1/master2500k.m3u8?JoCaRoIPTV.m
