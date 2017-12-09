@@ -90,47 +90,55 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/claro-cinema.png", CLARO CINEMA     
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/Stream(01)/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/paramount.png", PARAMOUNT CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PARAMOUNT_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",SUNDANCE CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/Sundance.png", SUNDANCE CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/comedy-central-hd.png", COMEDY CENTRAL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",NATGEO WILD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeo-wild-hd.png", NATGEO WILD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ANIMAL PLANET
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/animalplanet.png", ANIMAL PLANET
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-channel.png", DISCOVERY CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",DISCOVERY H&H
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/discovery-h&h.png", DISCOVERY H&H
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png", WINSPORTS_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",FOX 3 
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-hd.png", ESPN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-2.png", ESPN 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",FOX SPORT
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",CABLE ONDA
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",ESPN 3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-3-hd.png", ESPN 3
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",FOX2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox-sports-hd.png", FOX SPORT
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox-sports-2-hd.png", FOX2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TELETRACK DEPORTES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/foxsports3.png", FOX SPORTS 3 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/cable-onda.png", CABLE ONDA
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/teletrack.jpg", TELETRACK DEPORTES
 http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",WINSPORTS_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
+
 
 
 
