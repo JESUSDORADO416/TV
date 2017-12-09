@@ -3,27 +3,27 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/hbo_plus.png", HBO PLUS 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
 
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox-life.png" ,FOX LIFE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox-life.png" ,FOX LIFE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
-#EXTM3U
- #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" , FOX
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" , FOX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
-#EXTM3U
+
  #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" ,FOX PREMIUN
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
-#EXTM3U
+
  #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Action
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
-#EXTM3U
+
  #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Cinema
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Movies
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(01)/index.m3u8
-#EXTM3U
+
  #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png" ,FX Latinoamérica
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/Stream(01)/index.m3u8
-#EXTM3U
+
  #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2sb0oxt.png", Fox Family
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/Stream(03)/index.m3u8
 
