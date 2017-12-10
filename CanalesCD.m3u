@@ -42,6 +42,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/Stre
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fx-hd.png", FX HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tnt-hd.png",TNT HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tnt-series.png",TNT SERIES
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
 
@@ -63,8 +66,14 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fx-hd.png", FX_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/warner-hd.png", WARNER HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/sony.png",SONY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/trutv-hd.png", TRU TV HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TRU_TV_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/max-up.png", Max Up
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(01)/index.m3u8
@@ -74,6 +83,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/Stream(0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/max.png", MAX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/history-hd.png", HISTORY
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HISTORY)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/history2.png", H2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
@@ -99,6 +111,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/Stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/comedy-central-hd.png", COMEDY CENTRAL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeo.png", NATGEO HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_HD)/Stream(01)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeo-wild-hd.png", NATGEO WILD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Stream(01)/index.m3u8
 
@@ -113,6 +128,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEAL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/WIN_SPORTS.png", WINSPORTS_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/ClaroSports.png", CLARO SPORTS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-hd.png", ESPN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
@@ -141,39 +159,6 @@ http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/realmadrid.png", Real Madrid 
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-hd.png", ESPN Argentina
-http://35.196.195.222/hls/live/channel1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-2.png", ESPN 2 Argentina
-http://35.196.195.222/hls/live/channel3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-3-hd.png", ESPN 3 Argentina
-http://35.196.195.222/hls/live/channel7.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/foxsports3.png", Fox Sports 3
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-hd.png", ESPN HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-hd.png", ESPN
-http://35.196.195.222/hls/live/channel1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-2.png", ESPN 2 HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-2.png", ESPN 2
-http://35.196.195.222/hls/live/channel3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-3-hd.png", ESPN 3 HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/espn-3-hd.png", ESPN 3
-http://35.196.195.222/hls/live/channel7.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/fox-sports-hd.png", Fox Sports HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/disney-jr.png", Disney Jr
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
 
@@ -198,6 +183,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/Stream(0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tiin.png", Tiin
 http://149.56.26.6:25461/live/dreamscanales/123456/13361.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeokids.png", NATGEO KIDS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/cartoon-network.png", Cartoon Network
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8
 
@@ -219,6 +207,45 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/index.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tooncast.png", TOONCAST
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/caracolhd.png", CARACOL HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/rcnhd.png", RCN HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/CANTINAZO.png", CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/mimusica.png", MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tigo-music.png",TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/teleantioquia.png", TELEANTIOQUIA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEANTIOQUIA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/telecaribe.png", TELECARIBE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELECARIBE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canalu.png",CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/lifedesign.png", LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/Cable_Noticias.png",Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/trendy.png",TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/TELECAFE.png",Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canaltro.png",Canal TRO
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/telemundo.png", TELEMUNDO
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
@@ -231,7 +258,7 @@ http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/azteca-internacional.png", Azteca 7 HD
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/Canal-de-las-estrellas.png", ESTRELLAS AMERICA LATINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/Canal-de-las-estrellas.png", LAS ESTRELLAS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/azteca-internacional.png", Azteca 7 HD
@@ -267,29 +294,6 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/nova.png", Nova HD
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/CANTINAZO.png", CANTINAZO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tve.png", TVE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TVE)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/lifedesign.png", LIFEDESING
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/mimusica.png", MIMUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tigo-music.png",TIGO MUSIC
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canalu.png",CANAL U
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/Cable_Noticias.png",Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/trendy.png",TRENDY MUSICA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/TELECAFE.png",Telecafe
-http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/canaltro.png",Canal TRO
-http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
