@@ -57,7 +57,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/a&e.png",A&E
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/AXN.png",AXN_HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/AXN.png",AXN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/amchd.png", AMC HD
