@@ -336,3 +336,38 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/tve.png", TVE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TVE)/index.m3u8
 
+#EXTINF:-1, Hustler HD
+http://globiptv.com:8000/live/workfine/skype/2008.ts
+#EXTINF:-1, Hot
+http://globiptv.com:8000/live/workfine/skype/2007.ts
+#EXTINF:-1, Brazzers HD
+http://globiptv.com:8000/live/workfine/skype/2009.ts
+#EXTINF:-1, Adult_9
+http://globiptv.com:8000/live/workfine/skype/2000.ts
+#EXTINF:-1, Adult_8
+http://globiptv.com:8000/live/workfine/skype/1999.ts
+#EXTINF:-1, Adult_7
+http://globiptv.com:8000/live/workfine/skype/1998.ts
+#EXTINF:-1, Adult_5
+http://globiptv.com:8000/live/workfine/skype/1459.ts
+#EXTINF:-1, Adult_4
+http://globiptv.com:8000/live/workfine/skype/1460.ts
+#EXTINF:-1, Adult_3
+http://globiptv.com:8000/live/workfine/skype/1461.ts
+#EXTINF:-1, Adult_2
+http://globiptv.com:8000/live/workfine/skype/1465.ts
+#EXTINF:-1, Adult_15
+http://globiptv.com:8000/live/workfine/skype/2006.ts
+#EXTINF:-1, Adult_14
+http://globiptv.com:8000/live/workfine/skype/2005.ts
+#EXTINF:-1, Adult_13
+http://globiptv.com:8000/live/workfine/skype/2004.ts
+#EXTINF:-1, Adult_12
+http://globiptv.com:8000/live/workfine/skype/2003.ts
+#EXTINF:-1, Adult_11
+http://globiptv.com:8000/live/workfine/skype/2002.ts
+#EXTINF:-1, Adult_10
+http://globiptv.com:8000/live/workfine/skype/2001.ts
+#EXTINF:-1, Adult_1
+http://globiptv.com:8000/live/workfine/skype/1476.ts
+
