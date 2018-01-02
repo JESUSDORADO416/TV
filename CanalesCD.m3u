@@ -121,7 +121,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HISTORY)/index.m3u8
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeo.png", NATGEO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_HD)/Stream(01)/index.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(06)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ChuchoDorado416/TV/master/M3U/natgeo-wild-hd.png", NATGEO WILD HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Stream(01)/index.m3u8
