@@ -1,0 +1,1688 @@
+#EXTM3U
+
+
+#EXTINF:-1, Distrito Comedia
+https://bud122.budtv.tv/liverobos/distrito_comedia_p3/playlist.m3u8
+
+#EXTINF:-1, Warner Channel
+http://live207.budtv.tv:8081/budtv/warney_bros_startv_119/playlist.m3u8
+
+#EXTINF:-1, Telehit Plus
+https://bud122.budtv.tv/liverobos/telehit_p3/playlist.m3u8
+
+#EXTINF:-1, Ritmoson
+https://bud122.budtv.tv/liverobos/ritmoson_p3/playlist.m3u8
+
+#EXTINF:-1, MTV Hits
+https://bud122.budtv.tv/liverobos/mtv_hits_p3/playlist.m3u8
+
+#EXTINF:-1, MTV
+https://bud122.budtv.tv/liverobos/mtv_p3/playlist.m3u8
+
+#EXTINF:-1, Bandamax
+https://bud122.budtv.tv/liverobos/bandamax_p3/playlist.m3u8
+
+
+
+#EXTINF:-1, Azteca + Plus
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1, City Tv
+http://tvpremiumhd.club/lista-gratuita/paris/s226.m3u8
+
+
+
+#EXTINF:-1, AXN
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/610/index.m3u8
+
+#EXTINF:-1, AXN blanco
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+
+#EXTINF:-1, HOLLYWOOD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+
+#EXTINF:-1, FOX
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+
+#EXTINF:-1, FOX Life
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+
+#EXTINF:-1, SyFy
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
+
+# 0 Series
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/index.m3u8
+
+#EXTINF:-1, Movistar Acción
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+
+#EXTINF:-1, Movistar Comedia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+
+#EXTINF:-1, DCINE de Movistar
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+
+#EXTINF:-1, DCINE English
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/580/index.m3u8
+
+#EXTINF:-1, Movistar Series Xtra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO ", TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO ", NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO ", ATRESERIES HD
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO ",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+
+#EXTINF:-1, OLYMPIC CHANNEL
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1, NFL
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8
+
+#EXTGRP:MOVIES
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8#EXTGRP:MUSICAhttp://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
+#EXTINF:0,EXTREMA
+#EXTGRP:PREMIUM
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTGRP:PREMIUM
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTGRP:SPORT
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,MEGA
+#EXTGRP:SPORT
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0,AD SPPORT
+#EXTGRP:VARIADO
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0,DEPORTV ARG
+#EXTGRP:VARIADO
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1523138068_b800000_slesp.m3u8
+#EXTINF:0,REAL MADRID TV
+#EXTGRP:VARIADO
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0,CINE +
+#EXTGRP:unsorted
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,Europa Europa
+#EXTGRP:unsorted
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
+#EXTINF:0,TNT
+#EXTGRP:unsorted
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wuFwbRC.png" group-title="PERU", America TV  | SD
+http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dv979fQ.png" group-title="PERU", Panamericana TV | SD
+http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="PERU", Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4JeqvDc.png" group-title="PERU", Capital TV | SD
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru | HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Araquipa | SD
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UuFzgM.jpg" group-title="PERU", Digital TV Peru | HD
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YLMsGKN.png" group-title="PERU", Onda Digital TV | HD
+http://vs8.live.opencaster.com/opencaster/vxtygFvyHuoB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dd6ZzqF.jpg" group-title="PERU", Latina TV | SD
+http://photocall.tv/latina.php/.m3u8
+#EXTINF:-59,CRIMEN E INVESTIGACION
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-name="CLARO SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO.jpeg" group-title="DEPORTES - SPORTS",CLARO SPORTS (*)
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:1,CANAL 4 azteka          
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:1,CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANAL SD", *** CANAL SD ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898962938614210560/3zeJbp6Q_400x400.jpg" group-title="Nacional",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Antena 3 Intl.
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/903514630873649153/pxrv1ZDn_400x400.jpg" group-title="Nacional",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/631874922973896704/JpnxCQcC_400x400.jpg" group-title="Nacional",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898966361426231296/0sS0RzFh_400x400.jpg" group-title="Nacional",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/685118586977923073/nuId4QhF_400x400.jpg" group-title="Nacional",A3Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877457665852674048/kcgTuYrR_400x400.jpg" group-title="Nacional",Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_400x400.jpeg" group-title="Nacional",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA" , Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/760073526535651328/XBElFLWS_400x400.jpg" group-title="Nacional",Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+
+
+
+
+
+
+
+____
+#EXTINF:-1,Movies: La gran apuesta - The Big short 2015 
+https://www.youtube.com/embed/SVWB8TKiFvc
+#EXTINF:-1,Lancelot TV PELI 
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=oN
+#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANAL SD INFANTIL", *** CANAL SD INFANTIL ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+#EXTINF:-1,LOCOMOTION TV
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,ANIMAX
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,El Chavo VOD
+https://goo.gl/8W1wKL
+#EXTINF:-1,Futurama VOD
+https://goo.gl/DZSUJc
+#EXTINF:-1,Fuji TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs24.stream/playlist.m3u8
+#EXTINF:-1,Fuji TV Next
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs33.stream/playlist.m3u8
+#EXTINF:-1,INFANTILES:LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="https://k33.kn3.net/taringa/4/5/D/A/A/A/Zrogs/233.jpg" ,LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png" group-title="Infantiles",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-logo="http://png-3.vector.me/files/images/7/6/764027/chavo_del_8_thumb.png" group-title="24/7", El Chavo Animado
+http://3.sendvid.com/y00xutjl.mp4/
+#EXTINF:-1,NiuMedia ANIMADOS 
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,CANAL 13 MAX (DIBUJO)
+http://coninfo.net:1935/13max/live/chunklist_w649322582.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="INFANTIL",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LKK6eko.jpg" group-title="INFANTIL",PakaPaka
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="INFANTIL",Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1oapo3E.png" group-title="INFANTIL",El Chavo
+http://tecnotv.xyz/chavo.php
+#EXTINF:-1 tvg-logo="https://imgur.com/OXkACt9.jpg" group-title="INFANTIL",Yes
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?www.tecnotv.info
+#EXTINF:-1 tvg-logo="https://image.freepik.com/psd-gratis/retro-tv-icono-psd_30-2308.jpg" group-title="INFANTIL", CLASICOS ACS
+http://us1.edge.grupoz.cl/acsnetwork/live/chunklist_w1826949676.m3u8
+#EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg" group-title="INFANTIL", Boing
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="INFANTIL", IPE
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zn2C9xA.png" group-title="24/7",Los Simpson Random
+http://tecnotv.xyz/simpson.php
+#EXTINF:-1 tvg-logo="https://imgur.com/cdXmXtl.jpg" group-title="24/7",Futurama
+http://tecnotv.xyz/futurama.php
+
+
+
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANALES PISES", *** CANALES PAISES***
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLmLtpl.png" group-title="MEXICO", [COLOR red]MEXICO[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEE7ckO.png" group-title="MEXICO", Azteca A+ | SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mpiOBrT.png" group-title="MEXICO", Azteca 13 | SD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ISYhR90.png" group-title="MEXICO", ADN 40 |SD
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO", TV Mas | SD
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZfLAtL.png" group-title="MEXICO", Canal de las Estrellas | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HincENy.png" group-title="MEXICO", Foro TV | SD
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="MEXICO", Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0a3xne8.png" group-title="MEXICO", Mexiquense | SD
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="MEXICO", Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWYteYe.png" group-title="MEXICO", Ingenio TV | SD
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpN7K62.png" group-title="MEXICO", Canal del Congreso | SD
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO", Canal 4 | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMgoMeO.png" group-title="MEXICO", Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xcpZ2Gr.jpg" group-title="MEXICO", Tlaxcala TV | SD
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", Capital 21 | SD
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NsPz9Tr.png" group-title="MEXICO", RCG | SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="MEXICO", RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="MEXICO", RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO", TV Cuatro 4.1 | HD
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQxBTB9.png" group-title="MEXICO", TV Cuatro 4.2 | HD
+https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BP8B20i.jpg" group-title="MEXICO", C7 Jalisco | SD
+http://streamingcws10.com:1935/c7noticias/videoc7noticias/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PvnxdW0.jpg" group-title="MEXICO", C7 Cultura | SD
+http://streamingcws10.com:1935/c7cultura/videoc7cultura/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yb8aUmW.jpg" group-title="MEXICO", Puebla TV | SD
+http://189.203.247.136/live/pueblatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqtpjZs.jpg" group-title="MEXICO", TVP Mazatlan | FHD
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4wj40K.jpg" group-title="MEXICO", Telemax Sonora | HD
+http://s5.mexside.net:1935/telemax_1/telemax_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="MEXICO", 15TV Sabinas | SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Epj6mqE.png" group-title="MEXICO", Ocho TV (Guadalajara) | FHD
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8N2lW9C.png" group-title="ESPAÑA", [COLOR red]ESPAÑA[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgnflq9.png" group-title="ESPAÑA", FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmMGr10.png" group-title="ESPAÑA", Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBIMNhY.png" group-title="ESPAÑA", Cuatro | HD
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jn8hmGr.png" group-title="ESPAÑA", Telecinco | HD
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqIlk01.png" group-title="ESPAÑA", Antena 3 | HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2zQi7G3.png" group-title="ESPAÑA", ATRESeries | HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqIlk01.png" group-title="ESPAÑA", Antena 3 Internacional | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="ESPAÑA", La Sexta | HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gjp11Z3.png" group-title="ESPAÑA", Mega España | HD 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4B8ONt.png" group-title="ESPAÑA", Neox | HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QAVKJAV.png" group-title="ESPAÑA", RTVE 24h | SD 
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="ESPAÑA", La Xarxa | SD
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlMzpJH.png" group-title="ESPAÑA", Canal 13 España | SD
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="ESPAÑA", Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="ESPAÑA", Sevilla FC | SD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJR4kYE.png" group-title="ESPAÑA", Nova | HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6tlqsqj.png" group-title="ESPAÑA", IB3 | SD
+https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y50L0C0.png" group-title="ESPAÑA", 8TV | SD
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tio3Wpw.png" group-title="ESPAÑA", 324 | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/obpaWnI.png" group-title="ESPAÑA", Andalucia Turismo | SD
+http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPwasj0.png" group-title="ESPAÑA", Extremadura | SD
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="ESPAÑA", Lancelot TV | SD
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TGxQ3O.png" group-title="ESPAÑA", ETBSAT | SD
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKXbIr9.png" group-title="ESPAÑA", Lebrija TV | SD
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJTCoH8.png" group-title="ESPAÑA", Levante TV | SD
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PR0DHPE.png" group-title="ESPAÑA", Marca TV | SD
+http://universalhdlive.marca.com/i/dr21_1@100203/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R0XrZJ1.png" group-title="ESPAÑA", Navarra TV | SD
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MPhvXrE.png" group-title="ESPAÑA", RTP Asturias | SD
+https://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFJqzx2.png" group-title="ESPAÑA", TV3 | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="ESPAÑA", TV Galicia America | SD
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="ESPAÑA", TV Galicia Europa | SD
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7C9rreQ.png" group-title="ESPAÑA", Calle 13 | SD
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sG60MI9.jpg" group-title="ESPAÑA",  324 Cataluña | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PUCO3Cf.jpg" group-title="ESPAÑA", Betevé | SD
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXHdLeZ.png" group-title="ESPAÑA", Canal 4 Tenerife | SD
+https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omjtgw0.png" group-title="ESPAÑA", Canaria Sat Television | SD
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPMZ7mM.png" group-title="ESPAÑA", Cancionero TV | SD
+http://89.140.99.41/hls/1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrhB3SI.jpg" group-title="ESPAÑA", TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIfp05v.png" group-title="ESPAÑA", Castilla La Mancha Media | SD
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8HIM2v.png" group-title="ESPAÑA", Onda Cadiz | SD
+http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4ig3Hn.png" group-title="ESPAÑA", 7TV | SD
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99mztxa.png" group-title="ESPAÑA", Canal Costa | HD
+http://stream.canalcostatv.es:1935/live/IKbtqOuj/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IAKNmUc.png" group-title="CHILE", [COLOR red]CHILE[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN | HD
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HN9mYDP.png" group-title="CHILE", MEGA | HD
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AopOaEX.jpg" group-title="CHILE", CHV | HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqKYZvm.png" group-title="CHILE", Canal 13 | SD
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RSsii5.png" group-title="CHILE", T13 Movil | SD
+http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dd9PMar.png" group-title="CHILE", CNN Chile | HD (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="CHILE", 24 Play | HD
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kJfD7l.png" group-title="CHILE", TV Chile | SD
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqlqsn3.png" group-title="CHILE", Ahora Noticias | HD
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsrVp3u.png" group-title="CHILE", NIU TV | HD
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HGma9m.png" group-title="CHILE", CDO | SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", Canal 9 | HD | Concepcion
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados | SD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados (DVR) | SD
+http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CHILE", TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="CHILE", Teletrak | HD
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="CHILE", Sporting | HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE", FM Hot | HD
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN Señal de Pruebas | HD
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PXK8Hyx.png" group-title="PARAGUAY", [COLOR red]PARAGUAY[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3TKq7w.png" group-title="PARAGUAY", Telefuturo | SD
+http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="PARAGUAY", Unicanal | SD
+http://strm.unicanal.com.py/live/unicanal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6UOgvd.png" group-title="ARGENTINA", [COLOR red]ARGENTINA[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="ARGENTINA", Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gwf0xO.png" group-title="ARGENTINA", Canal 4 Jujuy | HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" group-title="ARGENTINA", Telpin Canal 2 | SD
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9jnpUn.png" group-title="ARGENTINA", Cool 103.7 (Radio con Video) | HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="ARGENTINA", Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="ARGENTINA", Power HD | HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="ARGENTINA", Canal Provincial | SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQJxPgU.png" group-title="ARGENTINA", TDC | SD
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="ARGENTINA", Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsDiEKl.jpg" group-title="ARGENTINA", TreceMax TV | SD
+http://coninfo.net:1935/13max/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHauFcA.png" group-title="ARGENTINA", Canal 5 Telesol | HD
+http://149.56.98.124:9090/hls/telesol.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="ARGENTINA", Canal 9 Comodoro Rivadavia | SD
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R4VLDZ.jpg" group-title="ARGENTINA", El Garaje TV | SD
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA", Canal 11 Ushuaia | HD
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wvj1Qog.png" group-title="COLOMBIA", [COLOR red]COLOMBIA[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjBgtzy.png" group-title="COLOMBIA", VMas TV | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jrJAdPU.png" group-title="COLOMBIA", Canal Antiestres | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBG5QZv.png" group-title="COLOMBIA", Cantinazo TV | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDYOi43.png" group-title="COLOMBIA", Mi Musica | HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCULveY.png" group-title="COLOMBIA", Cable Noticias | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZxwCAh.png" group-title="COLOMBIA", Telecaribe | FHD
+https://w4.cdn.anvato.net/live/manifests/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJFFPAL.png" group-title="COLOMBIA", Cali TV | SD
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/StkPNjx.png" group-title="COLOMBIA", Canal 14 | SD
+http://181.143.238.252/live/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPigJZt.png" group-title="COLOMBIA", Cosmovision | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/40X9iTy.png" group-title="COLOMBIA", Mi Gente | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUh9igN.png" group-title="COLOMBIA", RCN | SD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0jrE36.png" group-title="COLOMBIA", Teleantioquia | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBwfPIM.png" group-title="COLOMBIA", Telecafe | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dmHjzfS.png" group-title="COLOMBIA", Tele Islas | SD
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d7AufpZ.png" group-title="COLOMBIA", Tele Medellin | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duNUtfE.png" group-title="COLOMBIA", TV Agro | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fP8KzD8.png" group-title="COLOMBIA", Caracol TV | SD
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/any5MCR.png" group-title="COLOMBIA", Canal CNC Medellin | SD
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pibrCO.jpg" group-title="COLOMBIA", Red+ | FHD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqSg9Yd.png" group-title="COLOMBIA", NTN24 | HD
+http://api.new.livestream.com/accounts/13988764/events/4133355/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jggBn4N.png" group-title="HONDURAS", [COLOR red]HONDURAS[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DnJoiR.png" group-title="HONDURAS", Todo Deportes | SD
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="HONDURAS", Teleceiba Canal 7 | SD
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras | SD
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="GUATEMALA", [COLOR red]GUATEMALA[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", Guatevision | SD
+http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vIFRrCq.png" group-title="GUATEMALA", Canal Plus Guatemala | SD
+http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUuJm7u.png" group-title="GUATEMALA", Telecosta | SD
+http://arcamediastream.net:1935/8374/8374/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HTH3y5t.png" group-title="ECUADOR", [COLOR red]ECUADOR[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BMF07Lq.png" group-title="ECUADOR", TC | SD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BMF07Lq.png" group-title="ECUADOR", TC (Alt) | HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dkOEhZu.png" group-title="REPUBLICA DOMINICANA", [COLOR red]REPUBLICA DOMINICANA[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHzkGPx.png" group-title="REPUBLICA DOMINICANA", Tele Azul | HD
+http://cm.hostlagarto.com:8081/teleazul/teleazul.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PtZDBg4.png" group-title="REPUBLICA DOMINICANA", TRA Digital | SD
+http://tra01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fKJs6BR.png" group-title="REPUBLICA DOMINICANA", Prodotel | HD
+http://ss6.domint.net:1944/ptv_str/prodotel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHY28qR.png" group-title="REPUBLICA DOMINICANA", Teleantillas | SD
+http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38CIRaI.png" group-title="REPUBLICA DOMINICANA", Color Vision Canal 9 | SD
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWqq06v.png" group-title="REPUBLICA DOMINICANA", Xtremo Channel Zol | SD
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/parRcMm.png" group-title="REPUBLICA DOMINICANA", Teleuniverso | HD
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ojIG13r.png" group-title="COSTA RICA", [COLOR red]COSTA RICA[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="COSTA RICA", Telered | SD
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/adIFsFw.png" group-title="COSTA RICA", Teleuno | SD
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA", TV Sur | SD
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:-1tvg-logo="https://i.imgur.com/OBv7Wb7.png" group-title="COSTA RICA", Super Cinco | SD
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+#EXTINF:-1tvg-logo="https://i.imgur.com/Zkfw06k.jpg" group-title="COSTA RICA", Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q87HBes.png" group-title="SALVADOR", [COLOR red]SALVADOR[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKVN8gR.png" group-title="SALVADOR", TVO | SD
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="SALVADOR", WOW TV | SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANALES DEPORTES SD", *** CANALES DEPORTES SD ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:1,Chelsea tv
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:1,Deport tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8?
+#EXTINF:1,Madird tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/21gsJZo.png" group-title="DEPORTES",ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/7051488378180.png" group-title="DEPORTES",AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/7051488378180.png" group-title="DEPORTES",AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/realmadrid.jpg?" , REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="DEPORTES",Chelsea Tv
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title="DEPORTES",Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="DEPORTES", CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg" group-title="DEPORTES", Sporting Tv
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title="DEPORTES",Teletrak
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?CeceGeek.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-XuijP7vSFXM/AAAAAAAAAAI/AAAAAAAAAAA/30jUG_h7MHE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="DEPORTES", Mundo Auto
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/COSPANAMA.svg/1200px-COSPANAMA.svg.png" ,CABLEONDA SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.cableondasports.com/site/assets/files/25027/cos-fc-cableondasports.226x90.jpg" ,COS FC SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" ,REALMADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg" ,SEVILLA FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" ,REDBULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,TDN SPORT
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
+#EXTINF:-1,OLYMPIC CHANNEL
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANAL HD DEPORTE", *** CANAL HD DEPORTE ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Zo9L1.png",Todo Deportes TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 1 | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 2 | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpqhqzL.jpg" group-title="DEPORTES", La Liga TV | FHD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvUxWgn.png" group-title="DEPORTES",  Movistar MotoGP | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnTCqMT.png" group-title="DEPORTES", Movistar Golf | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES", Movistar Formula 1 | FHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 | HD
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 (Alt) | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 | FHD
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 (Alt) | FHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation | SD
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh7sw8g.png" group-title="DEPORTES", Premiere Sports | SD
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/47/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt6fvvy.jpg" group-title="DEPORTES", Skysports 1 | FHD
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/737/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPF2sGo.jpg" group-title="DEPORTES", Skysports 2 | FHD
+http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/733/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RD8lq2o.png" group-title="DEPORTES", Rai Sport | SD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xex0vq5.jpg" group-title="DEPORTES", Sports TV | SD
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports | SD
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports 2 | SD
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="PELICULAS", *** PELICULAS ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YLMs22N.png" group-title="PELICULA",LA LIGA DE LA JUSTICIA
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Liga%20De%20La%20Justicia%20Hdscr.lat.mp4
+#EXTINF:-1,BLADE RUNNER 2049
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Blade%20Runner%202049.hdrip.720p.latino.gnula.mp4
+#EXTINF:-1,EL CIRCULO DORADO
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Kingsman%3A%20El%20c%C3%ADrculo%20dorado.c1rcl3.2017.hdrip.720p.subesp.gnula.mp4
+#EXTINF:-1, LA MORGUE
+https://ia601503.us.archive.org/32/items/Morgue20016PelixMax-1/Morgue20016.mp4
+#EXTINF:-1, WONDER WOMAN
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+#EXTINF:-1, KONG LA ISLA CALAVERA
+https://ia801505.us.archive.org/21/items/KongLaIslaCalavera20017/KongLaIsla%20Calavera%2020017.mp4
+#EXTINF:-1, LIFE VIDA INTELIGENTE (2017)
+https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
+#EXTINF:-1, AMYTIVILLE EL DESPERAR
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+#EXTINF:-1, JEEPERS CREEPERS 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+#EXTINF:-1,VALERIAN Y LA CIUDAD DE MIL PLANETAS
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:-1,ATOMICA
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+#EXTINF:-1, GEO TORMENTA
+http://bit.ly/2zJqugm
+#EXTINF:-1, LINEA MORTAL
+http://bit.ly/2x6sqhh
+#EXTINF:-1,MARJORIE PRIME
+http://bit.ly/2xYu9cY
+#EXTINF:-1, WHEELMAN
+http://bit.ly/2yzQ4qf
+#EXTINF:-1, PASSAGERS
+http://ow.ly/wVcb30f3tGU?CONEXION?null=?avi?earMy.mp4
+#EXTINF:-1, JIG SAW 8
+http://bit.ly/2hpjtK0?RTNews
+#EXTINF:-1, THOR RAGNAROK
+http://bit.ly/2zOMTbe?RTNews
+#EXTINF:-1, 1922
+http://bit.ly/2gu7Wbz?RTNews
+#EXTINF:-1,LA TORRE OSCURA
+http://bit.ly/2hPm8Mv?RTNews
+#EXTINF:-1, COCO
+http://condor1726.dedicatedpanel.com/CAM-PELIS/Coco.mp4
+#EXTINF:-1, LOS PITUFOS Y LA ALDEA PERDIDA
+https://archive.org/download/pituregioSRREGIO.NET/pituregio.mkv
+#EXTINF:-1,ANNABELLE , LA CREACION
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+#EXTINF:-1,CARS 3
+https://ia801506.us.archive.org/21/items/pickidj74_gmail_Cars/cars.mp4
+#EXTINF:-1,CARS 2
+https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4?earMy.mp4
+#EXTINF:-1,CARS
+http://ow.ly/FV8z30eTF4Z?JoCaRoMovie
+#EXTINF:-1,UNA LOCA PELICULA DE THE WALKING DEAD The 
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+#EXTINF:-1,LOS POWER RANGERS
+http://bit.ly/2gbHp2p?JoCaRoMovie
+#EXTINF:-1, COMO CORTAR A TU PATAN
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+#EXTINF:-1,LA ERA DE HIELO 5
+http://ow.ly/An2A30f1uum?JoCaRoMovie
+#EXTINF:-1,LA ERA DE HIELO 4
+http://ow.ly/FsWl30f01Bd?JoCaRoMovie
+#EXTINF:-1,LA ERA DE HIELO 3
+http://ow.ly/ZQPM30f01u4?JoCaRoMovie
+#EXTINF:-1,LA ERA DE HIELO 2
+http://ow.ly/iGm830f01eL?JoCaRoMovie
+#EXTINF:-1,LA ERA DE HIELO 1
+http://ow.ly/i2Xo30f010l?JoCaRoMovie
+#EXTINF:-1, L.O.R.D The Legend Of Ravaging Dynasties
+https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
+#EXTINF:-1, NINJAGOI
+https://archive.org/download/pickidj74_gmail_Gole/gole.mp4
+#EXTINF:-1, DUELO DE TITANES
+https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
+#EXTINF:-1, LOCAS VACACIONES SOBRE RUEDAS
+https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
+#EXTINF:-1, COLORS
+https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
+#EXTINF:-1, HUYE
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+#EXTINF:-1,LA SEPTIMA PROFECIA (1988)
+https://ia801903.us.archive.org/5/items/LaSeptimaProfeciaXVIDMP3Spanish/La%20Septima%20Profecia%20-%20%5BXVID-MP3%20Spanish%5D.mp4
+#EXTINF:-1,EL MENSAJERO DE LA OSCURIDAD (2002)
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+#EXTINF:-1,ASESINO DE LA CARRETERA (2007)
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
+#EXTINF:-1,SOBRENATURAL (2007)
+https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
+#EXTINF:-1,13 PECADOS (2014)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%c3%a9s/13%20Sins%20%282014%29%20Ingl%c3%a9s%20%281%29.mkv
+#EXTINF:-1,A CHRISTMAS HORROR STORY (2015)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles%20%281%29.mkv
+#EXTINF:-1,31 (2016)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%c3%a9s/31%20%282016%29%20Ingl%c3%a9s.mkv
+#EXTINF:-1,ESTACION ZOMBIE (2016)
+https://ia601501.us.archive.org/29/items/discotqa_gmail_1.0/TiroLoco.mp4
+#EXTINF:-1,28 DIAS DESPUES: EXTERMINIO (2002)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/28%20Days%20Later%20%282002%29%20%281%29.mkv
+#EXTINF:-1,28 SEMANAS DESPUES: EXTERMINIO 2 (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/28%20Weeks%20Later%20%282007%29%20%281%29.mkv
+#EXTINF:-1,ANNABELLE (2014)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
+#EXTINF:-1,LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+#EXTINF:-1,IT ESO (1990)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/It%20%5beso%5d%20%281990%29%20%20Dual.mkv
+#EXTINF:-1,LA MASACRE DE TEXAS (1974)
+https://ia800602.us.archive.org/22/items/col.mas.tex/La%20Masacre%20de%20Texas%201%20%281974%29.mp4
+#EXTINF:-1,LA MASACRE DE TEXAS 2 (1986)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas21986.mp4
+#EXTINF:-1,LA MASACRE DE TEXAS 3 (1990)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas31990.mp4
+#EXTINF:-1,LA MASACRE DE TEXAS: LA NUEVA GENERACION (1994)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas41994LaNuevaGeneracion.mp4
+#EXTINF:-1,LA MASACRE DE TEXAS (2003)
+https://ia600602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas52003RemakeParte1.mp4
+#EXTINF:-1,LA MASACRE DE TEXAS: EL INICIO (2006)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas62006ElInicio-RemakeParte2.mp4
+#EXTINF:-1,LA MASACRE DE TEXAS: HERENCIA MALDITA (2013)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas720133d.mp4
+#EXTINF:-1, MELANIE APOCALIPSIS ZOMBYE | Android-Latino
+https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
+#EXTINF:-1, FRAGILES
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+#EXTINF:-1, ZOMBIOLOGY
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+#EXTINF:-1, LA NOCHE DE BRUJA
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+#EXTINF:-1, EL ROSTRO DE UN ANGEL
+https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
+#EXTINF:-1, SANGRE POR SANGRE
+https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:-1, CULT OF CHUCKY
+https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mkv
+#EXTINF:-1, BATMAN Y HARLEY QUEEN
+https://ia801502.us.archive.org/8/items/33548979815123SRREGIO/33548979815123.mp4
+#EXTINF:-1,EL HIJO DE CHUCKY (2004)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Seed%20of%20Chucky%20%282004%29%20Dual/Seed%20of%20Chucky%20%282004%29%20Dual%20%281%29.mkv
+#EXTINF:-1,LA MALDICION DE CHUCKY (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/Curse%20Of%20Chucky%20%282013%29%20Unrated%20%281%29.mkv
+#EXTINF:-1,DESTINO FINAL (2000)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
+#EXTINF:-1,DESTINO FINAL 2 (2003)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
+#EXTINF:-1,DESTINO FINAL 3 (2006)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/Final%20Destination%203%20%282006%29.mkv
+#EXTINF:-1,DESTINO FINAL 4 (2009)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/Final%20Destination%204%20%282009%29.mkv
+#EXTINF:-1,DESTINO FINAL 5 (2011)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/Final%20Destination%205%20%282011%29.mkv
+#EXTINF:-1,DULCE VENGANZA 2 (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20%20Ingl%c3%a9s/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20Unrated%20Ingl%c3%a9s%20ripeada%20%281%29.mkv
+#EXTINF:-1,DULCE VENGANZA 3 (2015)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20on%20%20Your%20Grave%203%20%282015%29%20Ingl%c3%a9s/I.spit.on.your.grave.3.2015%20ingl%c3%a9s%20ripeada%20%281%29.mkv
+#EXTINF:-1,HOSTAL (2005)
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel%20%282005%29/Hostel%20%282005%29%20Dual.mkv
+#EXTINF:-1,HOSTAL PARTE 2 (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29/Hostel-part%20II%20%282007%29%20Dual.mkv
+#EXTINF:-1,HOSTAL PARTE 3 (2011)
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20III%20%282011%29/Hostel-part%20III%282011%29dual.mkv
+#EXTINF:-1,LA NOCHE DEL DEMONIO (2010)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual/Insidious%20%282010%29%20720p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1,LA NOCHE DEL DEMONIO: CAPITULO 2 (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1,LA NOCHE DEL DEMONIO: CAPITULO 3 (2015)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO (1984)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%281984%29/A%20Nightmare%20On%20Elm%20Street%20%281984%29.mkv
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LA VENGANZA DE FREDDY (1985)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29/A%20Nightmare%20On%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29.mkv
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: LOS GUERREROS DEL SUENHO (1987)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29/A%20Nightmare%20On%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29.mkv
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL AMO DE LOS SUENHOS (1988)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29/A%20Nightmare%20On%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29.mkv
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO: EL NINO DE LOS SUENHOS (1989)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29/A%20Nightmare%20On%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29.mkv
+#EXTINF:-1,PESADILLA EN LA CALLE DEL INFIERNO (2010)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%282010%29/A%20Nightmare%20On%20Elm%20Street%20%282010%29.mkv
+#EXTINF:-1,SCREAM: VIGILA QUIEN LLAMA (1996)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%20%281996%29%20Ingl%c3%a9s/Scream%20%281996%29%20Ingl%c3%a9s%20%281%29.mkv
+#EXTINF:-1,SILENT HILL (2006)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20%282006%29%20Dual/Silent%20Hill%20%282006%29%20Dual%20%281%29.mkv
+#EXTINF:-1,VIERNES 13 (1980)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20%281980%29/Friday%20The%2013th%20%281980%29%20%281%29.mkv
+#EXTINF:-1,VIERNES 13 PARTE II (1981)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%202%20%281981%29/Friday%20The%2013th%20Part%202%20%281981%29%20%281%29.mkv
+#EXTINF:-1,VIERNES 13 PARTE III (1982)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%203%20%281982%29/Friday%20the%2013th%20Part%203%20%281982%29%20%281%29.mkv
+#EXTINF:-1,VIERNES 13: EL CAPITULO FINAL (1984)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20-%20The%20Final%20Chapter%20%281984%29/Friday%20The%2013th%20-%20The%20Final%20Chapter%20%281984%29%20%281%29.mkv
+#EXTINF:-1,VIERNES 13 PARTE V UN NUEVO COMIENZO (1985)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29%20%281%29.mkv
+#EXTINF:-1,VIERNES 13 CAPITULO VI JASON VIVE (1986)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VI%20-%20Jason%20Lives%20%281986%29/Friday%20The%2013th%20Part%20Vi%20-%20Jason%20Lives%20%281986%29%20%281%29.mkv
+#EXTINF:-1,VIERNES 13 PARTE VII LA SANGRE NUEVA (1988)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VII%20-%20The%20New%20Blood%20%281988%29/Friday%20The%2013th%20Part%20Vii%20-%20The%20New%20Blood%20%281988%29%20%281%29.mkv
+#EXTINF:-1,VIERNES 13 PARTE VIII JASON TOMA MANHATTAN (1989)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VIII%20-%20Jason%20Takes%20Manhattan%20%281989%29/Friday%20The%2013th%20Part%20Viii%20-%20Jason%20Takes%20Manhattan%20%281989%29%20%281%29.mkv
+#EXTINF:-1,VIERNES 13 (2009)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20%282009%29%20Extended/Friday%20The%2013th%20%282009%29%20Extended%20%281%29.mkv
+#EXTINF:-1,VIRAL
+http://tecnotv.xyz/peliculas/viral
+#EXTINF:-1,TODOPODEROSO
+http://tecnotv.xyz/peliculas/todopoderoso
+#EXTINF:-1, MIVILLANO FAVORITO 3
+http://cecegeek@goo.gl/MLYHNw
+#EXTINF:-1, THE BIG SICK
+http://cecegeek@goo.gl/hR6Nxu
+#EXTINF:-1, UN SACO DE CANICAS
+http://cecegeek@goo.gl/CFEVMB
+#EXTINF:-1, ALIEN COVENANT
+http://cecegeek@goo.gl/2P4LRV
+#EXTINF:-1, HUYE GET OUT
+http://cecegeek@goo.gl/vTWRDV
+#EXTINF:-1, LA MOMIA
+http://cecegeek@goo.gl/5wTGRK
+#EXTINF:-1,VIAJE SALVAJE
+https://archive.org/download/2132154654SRREGIO.NET/21321546548978456132.mp4
+#EXTINF:-1, TODO TODO
+http://ow.ly/tlKB30eS9pK
+#EXTINF:-1,YO ANTES DE TI
+http://ow.ly/1Ud130eSgQq
+#EXTINF:-1, LOS EXPEDIENTES SECRETOS X
+https://archive.org/download/EXPEDIENTESX.SRREGIO.NET/EXPEDIENTESSECRETOSX.SRREGIO.NET.mp4
+#EXTINF:-1, STRIPTEASE
+http://ow.ly/R9AG30eXNAI
+#EXTINF:-1, DUMBO
+http://cecegeek@goo.gl/Aq4EDQ
+#EXTINF:-1, GEORGE DE LA SELVA
+http://cecegeek@goo.gl/GiHBk5
+#EXTINF:-1, TROLLS
+http://cecegeek@goo.gl/skmf64
+#EXTINF:-1, ALICIA EN EL PAIS DE LAS MARAVILLAS
+http://cecegeek@goo.gl/QupTmL
+#EXTINF:-1, BAMBI 2
+http://cecegeek@goo.gl/hfgaAx
+#EXTINF:-1, BAMBI
+http://cecegeek@goo.gl/6PpjEq
+#EXTINF:-1, Diario De Una Pasion
+http://cecegeek@goo.gl/NmTmoq
+#EXTINF:-1, RED LINE
+http://iptvperu@media-es-am.crackle.com/1/l/h0/jlmyk_480p_1mbps.mp4?
+#EXTINF:-1, ALTO IMPACTO
+http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4
+#EXTINF:-1,  ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+#EXTINF:-1,  ASESINO DE LA CATTETERA
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
+#EXTINF:-1,  DANIEL EL TRAVIESO (CLASICA)
+http://bit.ly/DANIELELTRAVIESO_MOVIE
+#EXTINF:-1,  EL MAL ADENTRO(2017)
+http://bit.ly/EVILWITHIN_MOVIE
+#EXTINF:-1,  EL SENHOR DE LA GUERRA
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4
+#EXTINF:-1,  EL MENSAJERO DE LA OSCURIDAD
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4
+#EXTINF:-1,  ESPIA POR ACCIDENTE
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
+#EXTINF:-1, ESQUIZOFRENIA
+http://discontrol@media-es-am.crackle.com/1/8/r0/zmoyk_480p_1mbps.mp4
+#EXTINF:-1,  FISTA DE BODAS
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+#EXTINF:-1,  HALLOWEN
+http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+#EXTINF:-1,  HERMANOS GRIMM
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4
+#EXTINF:-1,  ILUCIONISTA
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4
+#EXTINF:-1,  IMPACTO MORTAL
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?
+#EXTINF:-1,  LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+#EXTINF:-1,  LA MARCA DE LA BESTIA
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
+#EXTINF:-1,  LA MINA (2017)
+http://bit.ly/THEMINE
+#EXTINF:-1,  LA PANTERA ROSA
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?
+#EXTINF:-1,  LA VIDA PERFECTA
+http://discontrol@media-es-am.crackle.com/1/q/v0/apoyk_480p_1mbps.mp4
+#EXTINF:-1,  MASCOTA HUMANA (2016)
+http://bit.ly/MASCOTAHUMANA
+#EXTINF:-1,  MENSAJERO DE LA OSCURIDAD
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+#EXTINF:-1,  NINHA MALA
+http://iptvperu@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4?
+#EXTINF:-1,  PELIGRO EN BANGKOK
+http://discontrol@media-es-am.crackle.com/1/o/n0/cdoyk_480p_1mbps.mp4?
+#EXTINF:-1,  PERFUME
+http://discontrol@media-es-am.crackle.com/1/0/n0/seoyk_480p_1mbps.mp4
+#EXTINF:-1,  PREMONICIONES
+http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?
+#EXTINF:-1,  ROBOCOP DEFENSOR DEL FUTURO
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?
+#EXTINF:-1,  SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
+#EXTINF:-1,  TRISTE SAN VALENTIN
+http://iptvperu@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4
+#EXTINF:-1,  UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
+#EXTINF:-1,  UN VUELO DE LOCURA
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+#EXTINF:-1,  VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1,  ZONA DE MIEDO
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?
+#EXTINF:-1, CASTILLO DE ARENA (2017)
+http://bit.ly/MRAQCASTI
+#EXTINF:-1, CEMENTERIO DE MASCOTAS (TERROR)
+http://bit.ly/MRAQCCEMEN
+#EXTINF:-1, CHUKY EL MUNHECO DIABOLICO (TERROR)
+http://bit.ly/MRAQCCHUCK
+#EXTINF:-1, COLOSSAL (2016)
+http://bit.ly/2w5zZIw
+#EXTINF:-1, DANIEL EL TRAVIESO (CLASICA)
+https://goo.gl/NH6e4m
+#EXTINF:-1, EL NINHO DE LA PIJAMA A RAYAS
+https://goo.gl/hclbHa
+#EXTINF:-1, HARRY POTTER Y EL CALIZ DE FUEGO
+http://bit.ly/HARRYP4
+#EXTINF:-1, HARRY POTTER Y LA PIEDRA FILOSOFAL
+http://bit.ly/HARRYP1
+#EXTINF:-1, HORAS DE OSCURIDAD
+http://discontrol@media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4
+#EXTINF:-1, JURASSIC WORLD
+https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
+#EXTINF:-1, LA BELLA Y LA BESTIA (INFANTIL)
+http://bit.ly/MRAQCBELLA
+#EXTINF:-1, MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+#EXTINF:-1, RETURN TO HORROR HIGH (TERROR)
+http://bit.ly/ReturntoHorrorHigh
+#EXTINF:-1, SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+#EXTINF:-1, SANDY WESLER(2017)
+http://bit.ly/MRAQCSAND
+#EXTINF:-1, TRISTE SAN VALENTIN
+http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4
+#EXTINF:-1,UN DON EXCEPCIONAL(2017)
+http://bit.ly/2wZd4xc
+#EXTINF:-1,SPECTRE
+https://goo.gl/3KGMLf
+#EXTINF:-1,BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:-1,CARTOON  NETWORK ENGLISH
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8?CANAISGLAU
+#EXTINF:-1,EL CAZADOR Y LA REINA DEL HIELO
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+#EXTINF:-1,EL CONTADOR
+https://600newlondonhighschoolorg-my.sharepoint.com/personal/john_0019_micro365_club/_layouts/15/download.aspx?guestaccesstoken=ALY0Zr3Vnfb%2Bmhfv6HmrLvSZDfDGoIJS13%2FmAlB04Tg%3D&docid=1aadd034ba0534117b1b10d1639cc5cee&rev=1
+#EXTINF:-1,EL DIARIO DE BRIGDGETT  2016
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+#EXTINF:-1,EL MENSAJERO DE LA OSCURIDAD 2002
+http://media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+#EXTINF:-1,EN EL CORAZON DEL MAR
+https://goo.gl/4BqODN
+#EXTINF:-1,HORAS CONTADAS
+https://goo.gl/SyvNCX
+#EXTINF:-1,HORAS OSCURIDAD
+http://media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4?
+#EXTINF:-1,LA CHICA DANESA
+https://goo.gl/nQXbQ5
+#EXTINF:-1,LA MALDICION EL INICIO DEL FIN
+https://goo.gl/gWJEZq
+#EXTINF:-1,LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,MI ABUELO ES UN PELIGRO
+https://goo.gl/KYCQoX
+#EXTINF:-1,MORGAN 2017
+https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=jB%2Fe9NhbBvIApvusiUW1dTsE0C1FJa4s85dUu7zpQdY%3D&docid=19139fa71f76c4627bc4a633d5f80bd46&rev=1
+#EXTINF:-1,OUIJA 2016
+https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=aExoVm%2Fa%2BUnbEO5sd1VU%2FK9TzsSGD1O%2BV3EG7JhuLfY%3D&docid=1f46c87d90a534a34a3c7bf6e78bc8f90&rev=1
+#EXTINF:-1,PIXEL
+https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
+#EXTINF:-1,SADAKO Y KAYAKO
+https://goo.gl/iU1U32
+#EXTINF:-1,SINIESTRO
+https://goo.gl/F5NCPj
+#EXTINF:-1,SPECTRAL(2016) HD
+https://600newlondonhighschoolorg-my.sharepoint.com/personal/john_0019_micro365_club/_layouts/15/download.aspx?guestaccesstoken=7khTHSrUQ%2FAfPeRpeRraHpmAnAfl640BcwJNvNSL5X0%3D&docid=1d4b71217dc8042b88d95bb1afccbe75f&rev=1
+#EXTINF:-1,TRISTE SAN VALENTIN
+http://media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4
+#EXTINF:-1,UN VUELO DE LOCURA
+http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+#EXTINF:-1,UNA PAREJA DISPAREJA
+https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=L1xcLeZaaC0RnNroupeOyrwLfKOcDoILl9pJ%2FnxSR%2FU%3D&docid=155d4e833091b46e2af22eec8652e629e&rev=1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULA", JUMANJI EN LA SELVA
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Jumanji%3A%20En%20la%20selva.2017.tshq.latino.gnula.v3.mp4
+#EXTINF:-1, STAR WARS: LOS ULTIMOS JEDY
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/st4r.w4rs.th3.l4st.j3d1.2017.cam.latino.gnula.mp4
+#EXTINF:-1, KINGSMAN 
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Kingsman%3A%20El%20c%C3%ADrculo%20dorado.c1rcl3.2017.hdrip.720p.subesp.gnula.mp4
+#EXTINF:-1, ASESINATO EN EL ORIENT EXPRES
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Murder%20On%20The%20Orient%20Express.ts.lat.mp4
+#EXTINF:-1, EL GRAN ROBO
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
+#EXTINF:-1, EL DIA DEL APOCALIPSIS
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+#EXTINF:-1, NINHA MALA
+http://discontrol@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4?
+#EXTINF:-1, EL MATADOR
+http://discontrol@media-es-am.crackle.com/1/v/d0/drpyk_480p_1mbps.mp4?Pelixmax1.mp4
+https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
+#EXTINF:-1, ELLOS SIEMPRE REGRESAN
+https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+#EXTINF:-1, ELLA EN MI CUERPO Y EL EN EL MIO
+https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
+#EXTINF:-1, UNA PAREJA EXPLOSIVA 1
+https://ia800805.us.archive.org/26/items/1597530112345678902/15975301%2012345678902.mp4?CONEXION?null=?avi
+#EXTINF:-1, VIERNES 13
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20%282009%29%20Extended/Friday%20The%2013th%20%282009%29%20Extended%20%281%29.mkv
+#EXTINF:-1, SCREAM VUELVE A GRITAR
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%204%20%282011%29%20Dual/Scream%204%20%282011%29%20Dual%20%281%29.mkv
+#EXTINF:-1, SCREAM LA MASCARA DE LA MUERTE
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%203%20%282000%29%20Dual/Scream%203%20%282000%29%20Dual%20%281%29.mkv
+#EXTINF:-1, PESADILLA EN LA CALLE DEL INFIERNO 2010
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%282010%29/A%20Nightmare%20On%20Elm%20Street%20%282010%29.mkv
+#EXTINF:-1, PESADILLA EN LA CALLE DEL INFIERNO 1989
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29/A%20Nightmare%20On%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29.mkv
+#EXTINF:-1, LA NOCHE DEL DEMONIO 1
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual/Insidious%20%282010%29%20720p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1, LA NOCHE DEL DEMONIO 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1, LA NOCHE DEL DEMONIO 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
+#EXTINF:-1, HOSTAL 1
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel%20%282005%29/Hostel%20%282005%29%20Dual.mkv
+#EXTINF:-1, HOSTAL 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29/Hostel-part%20II%20%282007%29%20Dual.mkv
+#EXTINF:-1, HOSTAL 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20III%20%282011%29/Hostel-part%20III%282011%29dual.mkv
+#EXTINF:-1, DESTINO FINAL 1
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
+#EXTINF:-1, DESTINO FINAL 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
+#EXTINF:-1, DESTINO FINAL 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/Final%20Destination%203%20%282006%29.mkv
+#EXTINF:-1, DESTINO FINAL 4
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/Final%20Destination%204%20%282009%29.mkv
+#EXTINF:-1, DESTINO FINAL 5
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/Final%20Destination%205%20%282011%29.mkv
+#EXTINF:-1, EL HIJO DE CHUCKY
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Seed%20of%20Chucky%20%282004%29%20Dual/Seed%20of%20Chucky%20%282004%29%20Dual%20%281%29.mkv
+#EXTINF:-1, LA MALDICION DE CHUCKY
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/Curse%20Of%20Chucky%20%282013%29%20Unrated%20%281%29.mkv
+#EXTINF:-1, CARRIE 1976
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
+#EXTINF:-1, CARRIE 2013
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/Carrie%20%282013%29%20Alternate%20Ending%20%281%29.mkv
+#EXTINF:-1, LA OUIJA
+http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014%20Dual%20%281%29.mkv
+#EXTINF:-1, MAMA
+http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:-1, 30 DIAS DE NOCHE
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/30%20Days%20of%20Night%20%282007%29/30%20Days%20Of%20Night%20%282007%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://puu.sh/zxRsp/6886c451ac.jpg" group-
+https://www.youtube.com/embed/SVWB8TKiFvc
+#EXTINF:-1 tvg-logo="http://www.yucatanalinstante.com/wp-content/uploads/2017/12/maxresdefault-1.jpg" group-title="CINE", Jumanji: En la selva
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Jumanji%3A%20En%20la%20selva.2017.tshq.latino.gnula.v3.mp4
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v_cQGW2tbVI/WjRI-iuxDoI/AAAAAAAAtws/9poclLfTChwltzWIsh2Ru18g93dPf7UJACLcBGAs/s320/Star_Wars_The_last_Jedi_.jpg" group-title="CINE", Star Wars: Los últimos Jedi
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/st4r.w4rs.th3.l4st.j3d1.2017.cam.latino.gnula.mp4
+#EXTINF:-1 tvg-logo="https://www.dcworld.org.uk/wp-content/uploads/2016/07/IMG_8440.PNG-1.jpeg" group-title="CINE", La liga de justicia
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Liga%20De%20La%20Justicia%20Hdscr.lat.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JW8d_DgNNxI/WdvSnDtp1mI/AAAAAAAAsqY/pXt9oU_zdMkEMUJ_Djr4XbZuG8DsdARxgCLcBGAs/s320/Blade_Runner_2049.jpg" group-title="CINE", Blade Runner 2049
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Blade%20Runner%202049.hdrip.720p.latino.gnula.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MUy8hkKZvl4/Wgjb_0ml8OI/AAAAAAAAtMg/jrk6POn1FvYEpWW5I5f4UJTLXsrkq216ACLcBGAs/s320/Murder_on_the_Orient_Express.jpg" group-title="CINE", Asesinato en el Orient Express
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Murder%20On%20The%20Orient%20Express.ts.lat.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2mp5LX6SLBI/WdVjIvJ-LSI/AAAAAAAAsnw/cIhPZvRwHbIgemh0RCtgSoqrijGggo-ewCLcBGAs/s320/Kingsman_The_Golden_Circle.jpg" group-title="CINE", Kingsman: El círculo dorado",
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Kingsman%3A%20El%20c%C3%ADrculo%20dorado.c1rcl3.2017.hdrip.720p.subesp.gnula.mp4
+#EXTINF:-1, La Morgue 2016
+https://ia601503.us.archive.org/32/items/Morgue20016PelixMax-1/Morgue20016.mp4
+#EXTINF:-1 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/C_kA36TXgAAyKf_.jpg" group-title="CINE", Wonder Woman 2017
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+#EXTINF:-1, Kong: La Isla Calavera (2017)
+https://ia801505.us.archive.org/21/items/KongLaIslaCalavera20017/KongLaIsla%20Calavera%2020017.mp4
+#EXTINF:-1, Life: Vida Inteligente (2017)
+https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
+#EXTINF:-1, Ghost In The Shell (2017)
+https://archive.org/download/04052017AQCGH04052017298746/04052017AQCGH.mp4
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755" group-title="CINE", Alien Covenant (2017)
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="CINE", Jeepers Creepers 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg" group-title="CINE", Valerian y la ciudad de los mil planetas
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg" group-title="CINE", Atomica
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+#EXTINF:-1 tvg-logo="http://septimopodcast.com/wp/wp-content/uploads/2017/03/gostorm-poster.jpg" group-title="CINE", Geo Tormenta
+http://bit.ly/2zJqugm
+#EXTINF:-1 tvg-logo="https://mediafiles.cineplex.com/Central/Film/Posters/26311_320_470.jpg" group-title="CINE", Linea Mortal
+http://bit.ly/2x6sqhh
+#EXTINF:-1, Marjorie Prime
+http://bit.ly/2xYu9cY
+#EXTINF:-1, Wheelman
+http://bit.ly/2yzQ4qf
+#EXTINF:-1, Passengers
+http://ow.ly/wVcb30f3tGU?CONEXION?null=?avi?earMy.mp4
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_37278.jpg" group-title="CINE", Jig SAw 8
+http://bit.ly/2hpjtK0?RTNews
+#EXTINF:-1 tvg-logo="http://www.bollywoodlife.com/wp-content/uploads/2017/04/THOR_1.jpg" group-title="CINE", Thor Ragnarok
+http://bit.ly/2zOMTbe?RTNews
+#EXTINF:-1 tvg-logo="http://www.bollywoodlife.com/wp-content/uploads/2017/04/THOR_1.jpg" group-title="CINE", Thor Ragnarok Castellano
+http://bit.ly/2xx2sUg?RTNews
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTg0MmUyNjItYzJmNi00YTcxLTg4OTQtNmI2ZjI0ZDIzNjQ2XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UY1200_CR113,0,630,1200_AL_.jpg" group-title="CINE", 1922
+http://bit.ly/2gu7Wbz?RTNews
+#EXTINF:-1 tvg-logo="http://cinevall.club/images/la_torre_oscura_poster.jpg" group-title="CINE", La Torre Oscura
+http://bit.ly/2hPm8Mv?RTNews
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/terremoto_poster.jpg" group-title="CINE", Terromoto
+http://www.cinevall.com/videos/terremoto.m4v
+#EXTINF:-1,KONG LA ISLA CALAVERA
+https://ia801505.us.archive.org/21/items/KongLaIslaCalavera20017/KongLaIsla%20Calavera%2020017.mp4
+#EXTINF:-1,Coco
+http://condor1726.dedicatedpanel.com/CAM-PELIS/Coco.mp4
+#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg" group-title="PELICULAS NUEVAS", Valerian y la ciudad de los mil planetas
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/be/42/0e/be420e3a9a8d9bce70121bdb791c908c.jpg" group-title="PELICULAS NUEVAS", Trolls
+https://goo.gl/sLrrij
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pdJh7WWovaE/WNfrUYo7EPI/AAAAAAAAlsg/rVwH1_542t4dTtV1JD-v3iP1SvK14ncFACLcB/s00/Los_Pitufos_en_la_Aldea_Perdida_Poster_Latino_Tontin_JPosters.jpg" group-title="PELICULAS NUEVAS", Los Pitufos La Aldea Perdida
+https://archive.org/download/pituregioSRREGIO.NET/pituregio.mkv
+#EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg" group-title="PELICULAS NUEVAS", Guardianes de la Galaxia
+https://goo.gl/sFaEVq
+#EXTINF:-1,Annabelle La Creacion
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+#EXTINF:-1,Pitufos 3: La Aldea Perdida
+https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_AQC.mkv
+
+#EXTINF:-1,Cars 2
+https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4?earMy.mp4
+#EXTINF:-1,Cars
+http://ow.ly/FV8z30eTF4Z?JoCaRoMovie
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="PELICULAS NUEVAS", Jeepers Creepers 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+#EXTINF:-1,Una Loca Pelicula de The Walking Dead
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+#EXTINF:-1,Los Power Rangers
+http://bit.ly/2gbHp2p?JoCaRoMovie
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEd4r3UXcAA0Dbz.jpg" group-title="PELICULAS NUEVAS", Como cortar a tu patan
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+#EXTINF:-1,La Era De Hielo 5 : Choque De Mundos
+http://ow.ly/An2A30f1uum?JoCaRoMovie
+#EXTINF:-1,La Era De Hielo 4 :La Formacion De Los Continentes
+http://ow.ly/FsWl30f01Bd?JoCaRoMovie
+#EXTINF:-1,La Era De Hielo 3 :el origen de los dinosaurios
+http://ow.ly/ZQPM30f01u4?JoCaRoMovie
+#EXTINF:-1,La Era De Hielo 2
+http://ow.ly/iGm830f01eL?JoCaRoMovie
+#EXTINF:-1,La Era De Hielo I
+http://ow.ly/i2Xo30f010l?JoCaRoMovie
+#EXTINF:-1 tvg-logo="https://images1.dallasobserver.com/imager/u/teaser/9877544/243877h1.jpg" group-title="PELICULAS NUEVAS", Marjorie Prime
+https://ia801507.us.archive.org/22/items/major_201710/major.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg" group-title="PELICULAS NUEVAS", Wheelman
+https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
+#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg" group-title="PELICULAS NUEVAS", Amytiville El Despertar
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/L.O.R.D_Legend_of_Ravaging_Dynasties_poster.jpeg" group-title="PELICULAS NUEVAS", L.O.R.D The Legend Of Ravaging Dynasties
+https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
+#EXTINF:-1 tvg-logo="https://m.aceshowbiz.com/webimages/still/aftermath-2017-poster03.jpg" group-title="PELICULAS NUEVAS", Aftermath
+https://archive.org/download/407300470.SRREGIO/407300470.SRREGIO.mkv
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/noticias-cine/lego-ninjago-movie-cartel-trailer/128208686-1-esl-ES/The-LEGO-NINJAGO-Movie-Cartel-y-trailer-de-la-pelicula_portrait.jpg" group-title="PELICULAS NUEVAS", NinjaGO
+https://archive.org/download/pickidj74_gmail_Gole/gole.mp4
+#EXTINF:-1 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/remember-the-titans_a-G-8032900-0.jpg" group-title="PELICULAS NUEVAS", Duelo de Titanes
+https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
+#EXTINF:-1 tvg-logo="http://photos1.blogger.com/blogger/3339/858/1600/rv_bigreleaseposter.jpg" group-title="PELICULAS NUEVAS", Locas Vacaciones Sobre Ruedas
+https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8liUO6T7xKk/WN6efg85dzI/AAAAAAAAT6k/lpWPvh7Bkogfe6YzYKSzuvaFWcUjqjVIwCK4B/s1600/17492367_1249808975105083_2074598002289798083_o.jpg" group-title="PELICULAS NUEVAS", Annabelle La Creacion
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/61/55/32/61553207d1d9594c8d0313fcdd145d63.jpg" group-title="PELICULAS NUEVAS", Colors CASTELLANO
+https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
+#EXTINF:-1 tvg-logo="https://movierob.files.wordpress.com/2017/04/get-out.jpg?w=203&h=300" group-title="PELICULAS NUEVAS", Huye
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-mensajero-de-la-oscuridad-richard-gere-laura-linney-D_NQ_NP_7157-MLA5172871060_102013-F.jpg"  group-title="#TerrorEnTecnotv",EL MENSAJERO DE LA OSCURIDAD (2002)
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/30%20Days%20of%20Night%20%282007%29/2025_front.jpg"  group-title="#TerrorEnTecnotv",30 DIAS DE NOCHE (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/30%20Days%20of%20Night%20%282007%29/30%20Days%20Of%20Night%20%282007%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://www.cinencanto.com/pics/posters/hitcher.jpg"  group-title="#TerrorEnTecnotv",ASESINO DE LA CARRETERA (2007)
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20720p%20Audio%20Espa%C3%B1ol/El%20orfanato%20%282007%29.jpg"  group-title="#TerrorEnTecnotv",EL ORFANATO (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol/El%20Orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/The_Mist_poster.jpg"  group-title="#TerrorEnTecnotv",SOBRENATURAL (2007)
+https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29.jpg"  group-title="#TerrorEnTecnotv",MAMA (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%C3%A9s/13%20Sins%20%282014%29.jpg"  group-title="#TerrorEnTecnotv",13 PECADOS (2014)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%c3%a9s/13%20Sins%20%282014%29%20Ingl%c3%a9s%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014.jpg"  group-title="#TerrorEnTecnotv",OUIJA (2014)
+http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014%20Dual%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles/A%20Christmas%20Horror%20Story%20%282015%29.jpg"  group-title="#TerrorEnTecnotv",A CHRISTMAS HORROR STORY (2015)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%C3%A9s/31%20%282016%29.jpg"  group-title="#TerrorEnTecnotv",31 (2016)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%c3%a9s/31%20%282016%29%20Ingl%c3%a9s.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/file_749761_Cloverf.jpg"  group-title="#TerrorEnTecnotv",AVENIDA 10 CLOVERFIELD (2016)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/10%20Cloverfield%20Lane%20%282016%29.mkv
+#EXTINF-1 tvg-logo="http://static.cinepol.is/img/peliculas/22751/1/1/22751.jpg"  group-title="#TerrorEnTecnotv",EL ATICO (2016)
+https://1.bp.blogspot.com/yvhBrv7rf8oKgc7StNTMpvpkPdz02ZEm8goIGcdj1UgZkRui6ouhlm1wnxi_DCFsRHUG0qj10n5JoylqeENIDFXVUlmGP3e1R_c8daAwXIBuH-AbTGjv3sRMkqG_W02v56zyHQ=m22
+#EXTINF-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6e/16/bd/6e16bdf485e513c81dd64525e0234ea0.jpg"  group-title="#TerrorEnTecnotv",ESTACION ZOMBIE (2016)
+https://ia601501.us.archive.org/29/items/discotqa_gmail_1.0/TiroLoco.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4XkWfpTTbE8/maxresdefault.jpg"  group-title="#TerrorEnTecnotv",NO RESPIRES (2016)
+https://ia801903.us.archive.org/2/items/TransceDual1080p/no%20respires.mp4
+#EXTINF:-1 tvg-logo="http://dieorhack.com/wp-content/uploads/2015/02/The-Evil-Within-Hack-Cheats-Tool-Trainer-1024x576.jpg"  group-title="#TerrorEnTecnotv",EL MAL DENTRO (2017)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/19807_front.jpg"  group-title="#TerrorEnTecnotv",28 DIAS DESPUES: EXTERMINIO (2002)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/28%20Days%20Later%20%282002%29%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/1596_front.jpg"  group-title="#TerrorEnTecnotv",28 SEMANAS DESPUES: EXTERMINIO 2 (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/28%20Weeks%20Later%20%282007%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Annabelle-poster.jpg"  group-title="#TerrorEnTecnotv",ANNABELLE (2014)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/791507896.jpg"  group-title="#TerrorEnTecnotv",CARRIE (1976)
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/6fc7dca3d985.jpg"  group-title="#TerrorEnTecnotv",CARRIE (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/Carrie%20%282013%29%20Alternate%20Ending%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://img12.nnm.me/b/0/1/4/2/d086c4477ccd86dbb444001352a_prev.jpg"  group-title="#TerrorEnTecnotv",CHUCKY EL MUÑECO DIABOLICO (1988)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg"  group-title="#TerrorEnTecnotv",CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://image.tmdb.org/t/p/original/pDko1kIkrCaHBSfBj7pAJu1Diss.jpg"  group-title="#TerrorEnTecnotv",CHUCKY EL MUÑECO DIABOLICO 3 (1991)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://media.sinematurk.com/cache/f8/64/f864a33b2df2edafbec1d931d06ff6d0.jpg"  group-title="#TerrorEnTecnotv",LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/IT.jpg"  group-title="#TerrorEnTecnotv",IT ESO (1990)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/It%20%5beso%5d%20%281990%29%20%20Dual.mkv
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_-6LB73z2_M/UN8UabXdfxI/AAAAAAAAFiw/xQdvf53333k/s1600/la-masacre-de-texas-1974_MLM-F-70664533_1489.jpg"  group-title="#TerrorEnTecnotv",LA MASACRE DE TEXAS (1974)
+https://ia800602.us.archive.org/22/items/col.mas.tex/La%20Masacre%20de%20Texas%201%20%281974%29.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_mH9jZjTd8Hc/TK2-xzrka-I/AAAAAAAABio/XGAV69EjO-s/s275/la-matanza-de-texas-2.jpg"  group-title="#TerrorEnTecnotv",LA MASACRE DE TEXAS 2 (1986)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas21986.mp4
+#EXTINF:-1 tvg-logo="http://www.pelisonic.com/wp-content/uploads/2015/09/la-masacre-3-215x300.jpg"  group-title="#TerrorEnTecnotv",LA MASACRE DE TEXAS 3 (1990)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas31990.mp4
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/pelimtexIMAGEN1.jpg"  group-title="#TerrorEnTecnotv",LA MASACRE DE TEXAS: LA NUEVA GENERACION (1994)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas41994LaNuevaGeneracion.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/16f0lHe.jpg"  group-title="#TerrorEnTecnotv",LA MASACRE DE TEXAS (2003)
+https://ia600602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas52003RemakeParte1.mp4
+#EXTINF:-1 tvg-logo="http://i.maniadb.com/images/album/363/363698_1_f.jpg"  group-title="#TerrorEnTecnotv",LA MASACRE DE TEXAS: EL INICIO (2006)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas62006ElInicio-RemakeParte2.mp4
+#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/texas-chainsaw-blu-ray.jpg"  group-title="#TerrorEnTecnotv",LA MASACRE DE TEXAS: HERENCIA MALDITA (2013)
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas720133d.mp4
+#EXTINF:-1 tvg-logo="http://blog.cinevall.club/wp-content/uploads/cache/2017/09/la_casa/1637952427.jpg" group-title="Estrenos HD Lat", La Casa BETA
+http://cinevall.com/videos/la_casa.m4v
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dFIVVARIrZjSm9PULiEIDTzQQmT.jpg" group-title="Estrenos HD Lat", Los Guardianes de la Bahia
+http://bit.ly/2xHk92U
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/baby_driver_poster.jpg" group-title="Estrenos HD Lat", Baby El Aprendis del Crimen
+http://cinevall.com/videos/baby_driver.m4v
+#EXTINF:-1 tvg-logo="http://i.myegy.to/images/39f43564090d.original.jpeg" group-title="Estrenos HD Lat", El Ultimo Rey
+http://cinevall.com/videos/el_ultimo_rey.m4v
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_28070_79.jpg" group-title="Estrenos HD Lat", El Culto de Chuky
+http://cinevall.com/videos/culto_de_chucky.m4v
+#EXTINF:-1 tvg-logo="http://dw0qvtuyu4cw2.cloudfront.net//ima/0/0/1/6/4/164032.jpg" group-title="Estrenos HD Lat", La Mujer Maravilla
+https://archive.org/download/Wonderwoman2017_201707/Wonderwoman%202017.MP4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/16/17/01/502588.jpg" group-title="Estrenos HD Lat", Un Golpe con estilo
+http://bit.ly/2zrjPae
+EXTINF:-1 tvg-logo="http://cinevall.com/images/terremoto_poster.jpg" group-title="Estrenos HD Lat", Terromoto
+http://bit.ly/2hIBWAG
+___
+#EXTINF:-1 tvg-logo="http://www.yucatanalinstante.com/wp-content/uploads/2017/12/maxresdefault-1.jpg" group-title="CINE", Jumanji: En la selva
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Jumanji%3A%20En%20la%20selva.2017.tshq.latino.gnula.v3.mp4
+ 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v_cQGW2tbVI/WjRI-iuxDoI/AAAAAAAAtws/9poclLfTChwltzWIsh2Ru18g93dPf7UJACLcBGAs/s320/Star_Wars_The_last_Jedi_.jpg" group-title="CINE", Star Wars: Los últimos Jedi
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/st4r.w4rs.th3.l4st.j3d1.2017.cam.latino.gnula.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.dcworld.org.uk/wp-content/uploads/2016/07/IMG_8440.PNG-1.jpeg" group-title="CINE", La liga de justicia
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Liga%20De%20La%20Justicia%20Hdscr.lat.mp4
+ 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JW8d_DgNNxI/WdvSnDtp1mI/AAAAAAAAsqY/pXt9oU_zdMkEMUJ_Djr4XbZuG8DsdARxgCLcBGAs/s320/Blade_Runner_2049.jpg" group-title="CINE", Blade Runner 2049
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Blade%20Runner%202049.hdrip.720p.latino.gnula.mp4
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MUy8hkKZvl4/Wgjb_0ml8OI/AAAAAAAAtMg/jrk6POn1FvYEpWW5I5f4UJTLXsrkq216ACLcBGAs/s320/Murder_on_the_Orient_Express.jpg" group-title="CINE", Asesinato en el Orient Express
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Murder%20On%20The%20Orient%20Express.ts.lat.mp4
+ 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2mp5LX6SLBI/WdVjIvJ-LSI/AAAAAAAAsnw/cIhPZvRwHbIgemh0RCtgSoqrijGggo-ewCLcBGAs/s320/Kingsman_The_Golden_Circle.jpg" group-title="CINE", Kingsman: El círculo dorado",
+https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Kingsman%3A%20El%20c%C3%ADrculo%20dorado.c1rcl3.2017.hdrip.720p.subesp.gnula.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/C_kA36TXgAAyKf_.jpg" group-title="CINE", Wonder Woman 2017
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+
+
+#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg" group-title="CINE", Amytiville El Despertar
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+
+
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="CINE", Jeepers Creepers 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg" group-title="CINE", Valerian y la ciudad de los mil planetas
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg" group-title="CINE", Atomica
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+ 
+
+#EXTINF:-1 tvg-logo="http://cinevall.club/images/la_torre_oscura_poster.jpg" group-title="CINE", La Torre Oscura
+http://bit.ly/2hPm8Mv?RTNews
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/terremoto_poster.jpg" group-title="CINE", Terromoto
+http://www.cinevall.com/videos/terremoto.m4v
+
+
+#EXTINF:-1,Una Loca Pelicula de The Walking Dead
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+
+#EXTINF:-1,Los Power Rangers
+http://bit.ly/2gbHp2p?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEd4r3UXcAA0Dbz.jpg" group-title="PELICULAS NUEVAS", Como cortar a tu patan 
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg" group-title="PELICULAS NUEVAS", Wheelman 
+https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
+
+#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg" group-title="PELICULAS NUEVAS", Amytiville El Despertar 
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/L.O.R.D_Legend_of_Ravaging_Dynasties_poster.jpeg" group-title="PELICULAS NUEVAS", L.O.R.D The Legend Of Ravaging Dynasties 
+https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
+
+
+#EXTINF:-1 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/remember-the-titans_a-G-8032900-0.jpg" group-title="PELICULAS NUEVAS", Duelo de Titanes 
+https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://photos1.blogger.com/blogger/3339/858/1600/rv_bigreleaseposter.jpg" group-title="PELICULAS NUEVAS", Locas Vacaciones Sobre Ruedas 
+https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8liUO6T7xKk/WN6efg85dzI/AAAAAAAAT6k/lpWPvh7Bkogfe6YzYKSzuvaFWcUjqjVIwCK4B/s1600/17492367_1249808975105083_2074598002289798083_o.jpg" group-title="PELICULAS NUEVAS", Annabelle La Creacion 
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/61/55/32/61553207d1d9594c8d0313fcdd145d63.jpg" group-title="PELICULAS NUEVAS", Colors CASTELLANO 
+https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
+
+#EXTINF:-1 tvg-logo="https://movierob.files.wordpress.com/2017/04/get-out.jpg?w=203&h=300" group-title="PELICULAS NUEVAS", Huye 
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+
+
+#EXTINF-1 tvg-logo="http://www.pelisplanet.com/wp-content/uploads/2016/10/la-septima-profecia.jpg"  group-title="#TerrorEnTecnotv",LA SEPTIMA PROFECIA (1988)
+https://ia801903.us.archive.org/5/items/LaSeptimaProfeciaXVIDMP3Spanish/La%20Septima%20Profecia%20-%20%5BXVID-MP3%20Spanish%5D.mp4
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-mensajero-de-la-oscuridad-richard-gere-laura-linney-D_NQ_NP_7157-MLA5172871060_102013-F.jpg"  group-title="#TerrorEnTecnotv",EL MENSAJERO DE LA OSCURIDAD (2002)
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20720p%20Audio%20Espa%C3%B1ol/El%20orfanato%20%282007%29.jpg"  group-title="#TerrorEnTecnotv",EL ORFANATO (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol/El%20Orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/The_Mist_poster.jpg"  group-title="#TerrorEnTecnotv",SOBRENATURAL (2007)
+https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29.jpg"  group-title="#TerrorEnTecnotv",MAMA (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%C3%A9s/13%20Sins%20%282014%29.jpg"  group-title="#TerrorEnTecnotv",13 PECADOS (2014)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%c3%a9s/13%20Sins%20%282014%29%20Ingl%c3%a9s%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014.jpg"  group-title="#TerrorEnTecnotv",OUIJA (2014)
+http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014%20Dual%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles/A%20Christmas%20Horror%20Story%20%282015%29.jpg"  group-title="#TerrorEnTecnotv",A CHRISTMAS HORROR STORY (2015)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%C3%A9s/31%20%282016%29.jpg"  group-title="#TerrorEnTecnotv",31 (2016)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%c3%a9s/31%20%282016%29%20Ingl%c3%a9s.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/file_749761_Cloverf.jpg"  group-title="#TerrorEnTecnotv",AVENIDA 10 CLOVERFIELD (2016)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/10%20Cloverfield%20Lane%20%282016%29.mkv
+
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/19807_front.jpg"  group-title="#TerrorEnTecnotv",28 DIAS DESPUES: EXTERMINIO (2002)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/28%20Days%20Later%20%282002%29%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/1596_front.jpg"  group-title="#TerrorEnTecnotv",28 SEMANAS DESPUES: EXTERMINIO 2 (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/28%20Weeks%20Later%20%282007%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Annabelle-poster.jpg"  group-title="#TerrorEnTecnotv",ANNABELLE (2014)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
+
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/791507896.jpg"  group-title="#TerrorEnTecnotv",CARRIE (1976)
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/6fc7dca3d985.jpg"  group-title="#TerrorEnTecnotv",CARRIE (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/Carrie%20%282013%29%20Alternate%20Ending%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://img12.nnm.me/b/0/1/4/2/d086c4477ccd86dbb444001352a_prev.jpg"  group-title="#TerrorEnTecnotv",CHUCKY EL MUÑECO DIABOLICO (1988)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg"  group-title="#TerrorEnTecnotv",CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://image.tmdb.org/t/p/original/pDko1kIkrCaHBSfBj7pAJu1Diss.jpg"  group-title="#TerrorEnTecnotv",CHUCKY EL MUÑECO DIABOLICO 3 (1991)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://media.sinematurk.com/cache/f8/64/f864a33b2df2edafbec1d931d06ff6d0.jpg"  group-title="#TerrorEnTecnotv",LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/IT.jpg"  group-title="#TerrorEnTecnotv",IT ESO (1990)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/It%20%5beso%5d%20%281990%29%20%20Dual.mkv
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/baby_driver_poster.jpg" group-title="Estrenos HD Lat", Baby El Aprendis del Crimen
+http://cinevall.com/videos/baby_driver.m4v
+#EXTINF:-1 tvg-logo="http://i.myegy.to/images/39f43564090d.original.jpeg" group-title="Estrenos HD Lat", El Ultimo Rey
+http://cinevall.com/videos/el_ultimo_rey.m4v
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_28070_79.jpg" group-title="Estrenos HD Lat", El Culto de Chuky
+http://cinevall.com/videos/culto_de_chucky.m4v
+
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/file_749761_Cloverf.jpg"  group-title="#TerrorEnTecnotv",AVENIDA 10 CLOVERFIELD (2016)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/10%20Cloverfield%20Lane%20%282016%29.mkv
+
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/19807_front.jpg"  group-title="#TerrorEnTecnotv",28 DIAS DESPUES: EXTERMINIO (2002)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/28%20Days%20Later%20%282002%29%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/1596_front.jpg"  group-title="#TerrorEnTecnotv",28 SEMANAS DESPUES: EXTERMINIO 2 (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/28%20Weeks%20Later%20%282007%29%20%281%29.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Annabelle-poster.jpg"  group-title="#TerrorEnTecnotv",ANNABELLE (2014)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
+
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/791507896.jpg"  group-title="#TerrorEnTecnotv",CARRIE (1976)
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/6fc7dca3d985.jpg"  group-title="#TerrorEnTecnotv",CARRIE (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/Carrie%20%282013%29%20Alternate%20Ending%20%281%29.mkv
+
+#EXTINF-1 tvg-logo="http://img12.nnm.me/b/0/1/4/2/d086c4477ccd86dbb444001352a_prev.jpg"  group-title="#TerrorEnTecnotv",CHUCKY EL MUÑECO DIABOLICO (1988)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg"  group-title="#TerrorEnTecnotv",CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://image.tmdb.org/t/p/original/pDko1kIkrCaHBSfBj7pAJu1Diss.jpg"  group-title="#TerrorEnTecnotv",CHUCKY EL MUÑECO DIABOLICO 3 (1991)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://media.sinematurk.com/cache/f8/64/f864a33b2df2edafbec1d931d06ff6d0.jpg"  group-title="#TerrorEnTecnotv",LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Seed%20of%20Chucky%20%282004%29%20Dual/Seed%20of%20Chucky%20%282004%29.jpg"  group-title="#TerrorEnTecnotv",EL HIJO DE CHUCKY (2004)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Seed%20of%20Chucky%20%282004%29%20Dual/Seed%20of%20Chucky%20%282004%29%20Dual%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/78938_front.jpg"  group-title="#TerrorEnTecnotv",LA MALDICION DE CHUCKY (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/Curse%20Of%20Chucky%20%282013%29%20Unrated%20%281%29.mkv
+
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.jpg"  group-title="#TerrorEnTecnotv",DESTINO FINAL (2000)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/27479_front.jpg"  group-title="#TerrorEnTecnotv",DESTINO FINAL 2 (2003)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/6189_front.jpg"  group-title="#TerrorEnTecnotv",DESTINO FINAL 3 (2006)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/Final%20Destination%203%20%282006%29.mkv 
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/final-des.jpg"  group-title="#TerrorEnTecnotv",DESTINO FINAL 4 (2009)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/Final%20Destination%204%20%282009%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/final-destination-5-blu-ray-cover.jpg"  group-title="#TerrorEnTecnotv",DESTINO FINAL 5 (2011)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/Final%20Destination%205%20%282011%29.mkv
+
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%20%282010%29%20Dual/I%20Spit%20On%20Your%20Grave%20%282010%29.jpg"  group-title="#TerrorEnTecnotv",DULCE VENGANZA (2010)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%20%282010%29%20Dual/I%20Spit%20On%20Your%20Grave%20%282010%29Dual%20ripeada.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20%20Ingl%C3%A9s/I%20Spit%20On%20Your%20Grave%202%20%282013%29.jpg"  group-title="#TerrorEnTecnotv",DULCE VENGANZA 2 (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20%20Ingl%c3%a9s/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20Unrated%20Ingl%c3%a9s%20ripeada%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20on%20%20Your%20Grave%203%20%282015%29%20Ingl%C3%A9s/I.spit.on.your.grave.3.2015%20i.jpg"  group-title="#TerrorEnTecnotv",DULCE VENGANZA 3 (2015)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20on%20%20Your%20Grave%203%20%282015%29%20Ingl%c3%a9s/I.spit.on.your.grave.3.2015%20ingl%c3%a9s%20ripeada%20%281%29.mkv
+
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel%20%282005%29/Hostel%20%282005%29.jpg"  group-title="#TerrorEnTecnotv",HOSTAL (2005)
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel%20%282005%29/Hostel%20%282005%29%20Dual.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29/Hostel-Part%20II%20%282007%29.jpg"  group-title="#TerrorEnTecnotv",HOSTAL PARTE 2 (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29/Hostel-part%20II%20%282007%29%20Dual.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20III%20%282011%29/Hostel-Part%20III%20%282011%29.jpg"  group-title="#TerrorEnTecnotv",HOSTAL PARTE 3 (2011)
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20III%20%282011%29/Hostel-part%20III%282011%29dual.mkv
+
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/IT.jpg"  group-title="#TerrorEnTecnotv",IT ESO (1990)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/It%20%5beso%5d%20%281990%29%20%20Dual.mkv
+
+
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual/Insidious%20%282010%29.jpg"  group-title="#TerrorEnTecnotv",LA NOCHE DEL DEMONIO (2010)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual/Insidious%20%282010%29%20720p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29.jpg"  group-title="#TerrorEnTecnotv",LA NOCHE DEL DEMONIO: CAPITULO 2 (2013)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.jpg"  group-title="#TerrorEnTecnotv",LA NOCHE DEL DEMONIO: CAPITULO 3 (2015)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
+
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%281984%29/A%20Nightmare%20on%20Elm%20Street%20%281984%29.jpg"  group-title="#TerrorEnTecnotv",PESADILLA EN LA CALLE DEL INFIERNO (1984)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%281984%29/A%20Nightmare%20On%20Elm%20Street%20%281984%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29/A%20Nightmare%20on%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29.jpg"  group-title="#TerrorEnTecnotv",PESADILLA EN LA CALLE DEL INFIERNO: LA VENGANZA DE FREDDY (1985)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29/A%20Nightmare%20On%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29/A%20Nightmare%20on%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29.jpg"  group-title="#TerrorEnTecnotv",PESADILLA EN LA CALLE DEL INFIERNO: LOS GUERREROS DEL SUEÑO (1987)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29/A%20Nightmare%20On%20Elm%20Street%203%20-%20Dream%20Warriors%20%281987%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29/A%20Nightmare%20on%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29.jpg"  group-title="#TerrorEnTecnotv",PESADILLA EN LA CALLE DEL INFIERNO: EL AMO DE LOS SUEÑOS (1988)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29/A%20Nightmare%20On%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29/A%20Nightmare%20on%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29.jpg"  group-title="#TerrorEnTecnotv",PESADILLA EN LA CALLE DEL INFIERNO: EL NIÑO DE LOS SUEÑOS (1989)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29/A%20Nightmare%20On%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%282010%29/A%20Nightmare%20on%20Elm%20Street%20%282010%29.jpg"  group-title="#TerrorEnTecnotv",PESADILLA EN LA CALLE DEL INFIERNO (2010)
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%282010%29/A%20Nightmare%20On%20Elm%20Street%20%282010%29.mkv
+
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20%282004%29%20Ingles/Saw%20%282004%29%20Ingles.jpg"  group-title="#TerrorEnTecnotv",SAW: JUEGO MACABRO (2004)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20%282004%29%20Ingles/Saw%20%282004%29%20Ingles%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20II%20%282005%29%20Ingles/Saw%20II%20%282005%29%20Ingles.jpg"  group-title="#TerrorEnTecnotv",SAW II (2005)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20II%20%282005%29%20Ingles/Saw%20II%20%282005%29%20Ingles%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20III%20%282006%29%20Ingles/Saw%20III%20%282006%29.jpg"  group-title="#TerrorEnTecnotv",SAW III (2006)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20III%20%282006%29%20Ingles/Saw%20III%20%282006%29%20Ingles%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20IV%20%282007%29%20Ingles/Saw%20IV%20%282007%29.jpg"  group-title="#TerrorEnTecnotv",SAW IV (2007)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20IV%20%282007%29%20Ingles/Saw%20IV%20%282007%29%20Ingles%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20V%20%282008%29%20Ingles/Saw%20V%20%282008%29.jpg"  group-title="#TerrorEnTecnotv",SAW V (2008)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20V%20%282008%29%20Ingles/Saw%20V%20%282008%29%20Ingles%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VI%20%282009%29%20Ingles/Saw%20VI%20%282009%29.jpg"  group-title="#TerrorEnTecnotv",SAW VI (2009)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VI%20%282009%29%20Ingles/Saw%20VI%20%282009%29%20Ingles%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VII%20%282010%29%20m720p%20Ingles/Saw%20VII%20%282010%29.jpg"  group-title="#TerrorEnTecnotv",SAW VII (2010)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VII%20%282010%29%20m720p%20Ingles/Saw%20Vii%20%282010%29%20M720p%20Ingles-3%20%281%29.mkv
+
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%20%281996%29%20Ingl%C3%A9s/Scream%20%281996.jpg"  group-title="#TerrorEnTecnotv",SCREAM: VIGILA QUIEN LLAMA (1996)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%20%281996%29%20Ingl%c3%a9s/Scream%20%281996%29%20Ingl%c3%a9s%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%202%20%281997%29%20Dual/Scream%202%20%281997%29.jpg"  group-title="#TerrorEnTecnotv",SCREAM: GRITA Y VUELVE A GRITAR (1997)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%202%20%281997%29%20Dual/Scream%202%20%281997%29%20Dual%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%203%20%282000%29%20Dual/Scream%203%20%282000%29.jpg"  group-title="#TerrorEnTecnotv",SCREAM: LA MASCARA DE LA MUERTE (2000)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%203%20%282000%29%20Dual/Scream%203%20%282000%29%20Dual%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%204%20%282011%29%20Dual/Scream%204%20%282011%29.jpg"  group-title="#TerrorEnTecnotv",SCREAM: VUELVE A GRITAR (2011)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%204%20%282011%29%20Dual/Scream%204%20%282011%29%20Dual%20%281%29.mkv
+
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20%282006%29%20Dual/Silent%20Hill%20%282006%29.jpg"  group-title="#TerrorEnTecnotv",SILENT HILL (2006)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20%282006%29%20Dual/Silent%20Hill%20%282006%29%20Dual%20%281%29.mkv
+#EXTINF-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20Revelation%20%282012%29%20Dual/Silent%20Hill%20Revelation%20%282012%29.jpg"  group-title="#TerrorEnTecnotv",SILENT HILT: REVELACION (2012)
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20Revelation%20%282012%29%20Dual/Silent%20Hill%20Revelation%20%282012%29%20Dual%20%281%29.mkv
+
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20%281980%29/Friday%20the%2013th%20%281980%29.jpg"  group-title="#TerrorEnTecnotv",VIERNES 13 (1980)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20%281980%29/Friday%20The%2013th%20%281980%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%202%20%281981%29/Friday%20the%2013th%20Part%202%20%281981%29.jpg"  group-title="#TerrorEnTecnotv",VIERNES 13 PARTE II (1981)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%202%20%281981%29/Friday%20The%2013th%20Part%202%20%281981%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%203%20%281982%29/Friday%20the%2013th%20Part%203%20%281982%29.jpg"  group-title="#TerrorEnTecnotv",VIERNES 13 PARTE III (1982)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%203%20%281982%29/Friday%20the%2013th%20Part%203%20%281982%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20-%20The%20Final%20Chapter%20%281984%29/Friday%20the%2013th%20-%20The%20Final%20Chapter%20%281984%29.jpg"  group-title="#TerrorEnTecnotv",VIERNES 13: EL CAPITULO FINAL (1984)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20-%20The%20Final%20Chapter%20%281984%29/Friday%20The%2013th%20-%20The%20Final%20Chapter%20%281984%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29.jpg"  group-title="#TerrorEnTecnotv",VIERNES 13 PARTE V UN NUEVO COMIENZO (1985)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VI%20-%20Jason%20Lives%20%281986%29/Friday%20The%2013th%20Part%20Vi%20-%20Jason%20Lives%20%281986%29.jpg"  group-title="#TerrorEnTecnotv",VIERNES 13 CAPITULO VI JASON VIVE (1986)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VI%20-%20Jason%20Lives%20%281986%29/Friday%20The%2013th%20Part%20Vi%20-%20Jason%20Lives%20%281986%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VII%20-%20The%20New%20Blood%20%281988%29/Friday%20the%2013th%20Part%20VII%20-%20The%20New%20Blood%20%281988%29.jpg"  group-title="#TerrorEnTecnotv",VIERNES 13 PARTE VII LA SANGRE NUEVA (1988)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VII%20-%20The%20New%20Blood%20%281988%29/Friday%20The%2013th%20Part%20Vii%20-%20The%20New%20Blood%20%281988%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VIII%20-%20Jason%20Takes%20Manhattan%20%281989%29/Friday%20the%2013th%20Part%20VIII%20-%20Jason%20Takes%20Manhattan%20%281989%29.jpg"  group-title="#TerrorEnTecnotv",VIERNES 13 PARTE VIII JASON TOMA MANHATTAN (1989)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VIII%20-%20Jason%20Takes%20Manhattan%20%281989%29/Friday%20The%2013th%20Part%20Viii%20-%20Jason%20Takes%20Manhattan%20%281989%29%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20%282009%29%20Extended/Friday%20The%2013th%20%282009%29%20Extended.jpg"  group-title="#TerrorEnTecnotv",VIERNES 13 (2009)
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20%282009%29%20Extended/Friday%20The%2013th%20%282009%29%20Extended%20%281%29.mkv
+
+
+#EXTINF:-1 tvg-logo="http://blog.cinevall.club/wp-content/uploads/cache/2017/09/la_casa/1637952427.jpg" group-title="Estrenos HD Lat", La Casa
+http://cinevall.com/videos/la_casa.m4v
+
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/baby_driver_poster.jpg" group-title="Estrenos HD Lat", Baby El Aprendis del Crimen
+http://cinevall.com/videos/baby_driver.m4v
+#EXTINF:-1 tvg-logo="http://i.myegy.to/images/39f43564090d.original.jpeg" group-title="Estrenos HD Lat", El Ultimo Rey
+http://cinevall.com/videos/el_ultimo_rey.m4v
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_28070_79.jpg" group-title="Estrenos HD Lat", El Culto de Chuky
+http://cinevall.com/videos/culto_de_chucky.m4v
+
+
+#EXTINF:-1 tvg-logo="http://www.powerrangers.movie/images/posters/powerrangers_poster_international_3_600x925.jpg" group-title="Varias Lat", Los Power Rangers
+http://bit.ly/2gbHp2p
+
+#EXTINF:-1 tvg-logo="https://solarmoviefree.me/media/imagesv2/2017/07/snatched-2017.jpg" group-title="Varias Lat", Viaje Salvaje
+https://ia801508.us.archive.org/34/items/2132154654SRREGIO.NET/21321546548978456132.mkv
+
+#EXTINF:-1 tvg-logo="https://muviefunaticdotcom.files.wordpress.com/2017/06/girlstriposter.jpg" group-title="Varias Lat",Girls Trip
+http://cinevall.com/videos/girls_trip.m4v
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/la_autopsia_de_jane_doe_poster.jpg" group-title="Varias Lat",La Autopsia de Jane Doe
+http://cinevall.com/videos/la_autopsia_de_jane_doe.m4v
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KUzeQT.jpg" group-title="Varias Lat", Un Saco De Canicas
+http://ow.ly/v7hc30eVA0P
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCHmkz8.jpg" group-title="Varias Lat", Huye 
+http://ow.ly/3a9530eXgFk
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZWM4YzZjOTEtZmU5ZS00ZTRkLWFiNjAtZTEwNzIzMDM5MjdmXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX675_AL_.jpg" group-title="Varias Lat", The Big Sick 
+https://ia601502.us.archive.org/33/items/chayoterodance_Track066/chayoterodance_Track066.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2017/05/Alien-Covenant-3.jpg" group-title="Varias Lat",Alien Covenant
+http://ow.ly/SgXZ30eXN93
+
+#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2017/04/colossal-poster.jpg" group-title="Varias Lat",Colossal
+http://ow.ly/FXZ930eWtrs
+
+#EXTINF:-1 tvg-logo="http://www.xfdrmag.net/wp-content/uploads/2017/04/sandy-wexler-2.jpg" group-title="Varias Lat",Sandy Wexler
+http://bit.ly/MRAQCSAND
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SvIBOvW.jpg" group-title="Varias Lat",Mascota Humana
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/p6KICx848FEcsblVptyga3E7qO5.jpg"  group-title="Varias Lat",Un vuelo de locura
+
+http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://ru.tunes.zone/poster/180x270o/2007/323838-the-hitcher.jpg"  group-title="Varias Lat",Asesino de La Carretera
+
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vZdp7Y5MFgBvH3YYUoNvSRMlLSL.jpg"  group-title="Varias Lat",Hallowen
+
+http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vJjtHYHQe6I/TVsDNFvhzKI/AAAAAAAAAXg/SknModlwHnU/s1600/el-dia-del-apocalipsis.jpg"  group-title="Varias Lat",El dia del apocalipsis
+
+http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://images.cinemaki.com/m/240/3843.jpg"  group-title="Varias Lat",La Marca de la Bestia
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-92F_X7FSi3E/UBFgQQU0-KI/AAAAAAAADoE/8w_Kt7y--Kw/s1600/Tapa+Cautivas+de+la+oscuridad+DVD.JPG"  group-title="Varias Lat",Horas de oscuridad
+
+http://media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/S_20855-MLA20199596044_112014-O.jpg"  group-title="Varias Lat",El mensajero de la oscuridad
+http://media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4
+
+
+#EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="Varias Lat",Chucky el Muñeco Diabolico II
+http://bit.ly/MRAQCCHUK2
+
+#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/return-to-horror-high-movie-poster-1987-1020210422.jpg" group-title="Varias Lat",Return to Horror High
+http://bit.ly/ReturntoHorrorHigh
+#EXTINF:-1 tvg-logo="https://cloud10.todocoleccion.online/cine-posters-carteles/tc/2013/11/13/17/39954048.jpg" group-title="Varias Lat",Niña Mala
+http://discontrol@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://precriticas.s3.amazonaws.com/archivos_imagenes_carteles_1_1144791428.jpg" group-title="Varias Lat",EL Matador
+http://discontrol@media-es-am.crackle.com/1/v/d0/drpyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://gritaradio.com/files/2011/03/sanvalentin.jpg" group-title="Varias Lat",Triste San Valentin
+http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4
