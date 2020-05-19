@@ -1,10 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1,HBO FAMILY HD
-http://gameriptv.com:80/chan/sd54fs21ds654/hbofam.php
 
-#EXTINF:-1,HBO PLUS HD
-http://gameriptv.com:80/chan/sd54fs21ds654/hboplus.php
 
 #EXTINF:-1,HBO SIGNATURE HD
 http://gameriptv.com:80/chan/sd54fs21ds654/hbosign.php
